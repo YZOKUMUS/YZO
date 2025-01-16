@@ -101,7 +101,7 @@ body, html {
 }
 /* Arapça "Bismillah" yazısı için stil */
 .bismillah-text {
-  font-size: 48px;
+  font-size: 20px;
   color: #3a3a3a;
   margin-top: 10px;
   font-family: 'Amiri Quran Colored', sans-serif;

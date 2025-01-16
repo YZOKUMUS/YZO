@@ -50,6 +50,14 @@ body, html {
   margin-bottom: 20px;
 }
 
+/* Yazı Tipi Tanımı */
+@font-face {
+  font-family: 'Amiri Quran Colored';
+  src: url('https://fonts.gstatic.com/s/amiriqurancolored/v1/AmiriQuranColored-Regular.woff2') format('woff2');
+  font-display: swap;
+  unicode-range: U+0600-06FF; /* Arapça harfler ve harekeler */
+}
+
 #question-text {
   font-size: 48px;
   direction: rtl;

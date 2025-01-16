@@ -143,12 +143,23 @@ async function loadQuestions() {
   updateUI();
 }
 
+// Dinamik yükseklik ayarı
+const app = document.getElementById('app');
+
+function setAppHeight() {
+  app.style.height = `${window.innerHeight}px`;
+}
+
+window.addEventListener('resize', setAppHeight);
+setAppHeight();
+
 document.getElementById('next-btn').addEventListener('click', () => {
   currentQuestionIndex++;
   if (currentQuestionIndex < questions.length) {
     updateUI();
   } else {
     alert(`Test tamamlandı! ${correctAnswers} doğru cevap verdiniz.`);
+    saveProgress();
   }
 });
 

@@ -116,8 +116,8 @@ footer {
 /* Mobil uyumluluk */
 @media (max-width: 480px) {
   #app {
-    width: 90%; /* Küçük ekranlarda daha geniş görünsün */
-    padding: 15px;
+    width: 100%; /* Küçük ekranlarda daha geniş görünsün */
+    padding: 15px;        
   }
 
   .page-title {

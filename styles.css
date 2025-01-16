@@ -99,6 +99,15 @@ body, html {
   width: 100%;
   margin: 10px 0;
 }
+/* Arapça "Bismillah" yazısı için stil */
+.bismillah-text {
+  font-size: 48px;
+  color: #3a3a3a;
+  margin-top: 10px;
+  font-family: 'Amiri Quran Colored', sans-serif;
+  direction: rtl; /* Sağdan sola hizalama */
+  text-align: center; /* Ortalanmış metin */
+}
 
 /* Seçenek Butonları */
 #options button {

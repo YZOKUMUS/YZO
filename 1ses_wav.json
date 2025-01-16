@@ -1,0 +1,5802 @@
+{
+    "تَحِيَّة": {
+        "turkish_meaning": "Selamlaşma",
+        "sound_url": "sesler\\تحية.mp3"
+    },
+    "تَعَارُف": {
+        "turkish_meaning": "Tanışma",
+        "sound_url": "sesler\\تعارف.mp3"
+    },
+    "السلام عليكم": {
+        "turkish_meaning": "Selamun Aleyküm",
+        "sound_url": "sesler\\السلام عليكم.mp3"
+    },
+    "ما؟": {
+        "turkish_meaning": "Ne?",
+        "sound_url": "sesler\\ما.mp3"
+    },
+    "اِسْم": {
+        "turkish_meaning": "İsim",
+        "sound_url": "sesler\\اسم.mp3"
+    },
+    "اِسْمِي": {
+        "turkish_meaning": "Adım…",
+        "sound_url": "sesler\\اسمي.mp3"
+    },
+    "مَا اِسْمُك": {
+        "turkish_meaning": "Adın ne?",
+        "sound_url": "sesler\\ما اسمك.mp3"
+    },
+    "كَيْفَ حَالُك": {
+        "turkish_meaning": "Nasılsın",
+        "sound_url": "sesler\\كيف حالك.mp3"
+    },
+    "بِخَيْر": {
+        "turkish_meaning": "Güzel,çok iyi ! ,sağlıklı",
+        "sound_url": "sesler\\بخير.mp3"
+    },
+    "أَنْتَ": {
+        "turkish_meaning": "Sen",
+        "sound_url": "sesler\\أنت.mp3"
+    },
+    "أَيْنَ": {
+        "turkish_meaning": "Nerede",
+        "sound_url": "sesler\\أين.mp3"
+    },
+    "مِن": {
+        "turkish_meaning": "Dan,den",
+        "sound_url": "sesler\\من.mp3"
+    },
+    "مِنْ أَيْنَ أَنْتَ": {
+        "turkish_meaning": "Nerelisin?",
+        "sound_url": "sesler\\من أين أنت.mp3"
+    },
+    "بَاكِسْتَان": {
+        "turkish_meaning": "Pakistan",
+        "sound_url": "sesler\\باكستان.mp3"
+    },
+    "مَا جِنْسِيَّتُكَ أَنْتَ": {
+        "turkish_meaning": "Uyruğun nedir?",
+        "sound_url": "sesler\\ما جنسيتك أنت.mp3"
+    },
+    "تُرْكِيٌّ": {
+        "turkish_meaning": "Türk",
+        "sound_url": "sesler\\تركي.mp3"
+    },
+    "أهلا و سهلا": {
+        "turkish_meaning": "Hoş geldin",
+        "sound_url": "sesler\\أهلا و سهلا.mp3"
+    },
+    "نَعَم": {
+        "turkish_meaning": "Evet",
+        "sound_url": "sesler\\نعم.mp3"
+    },
+    "أنا": {
+        "turkish_meaning": "Ben",
+        "sound_url": "sesler\\أنا.mp3"
+    },
+    "هَذَا": {
+        "turkish_meaning": "Bu",
+        "sound_url": "sesler\\هذا.mp3"
+    },
+    "أَخ": {
+        "turkish_meaning": "Kardeş",
+        "sound_url": "sesler\\أخ.mp3"
+    },
+    "هُوَ": {
+        "turkish_meaning": "O",
+        "sound_url": "sesler\\هو.mp3"
+    },
+    "مُدَرِّس": {
+        "turkish_meaning": "Müderris",
+        "sound_url": "sesler\\مدرس.mp3"
+    },
+    "صَدِيق": {
+        "turkish_meaning": "Arkadaş",
+        "sound_url": "sesler\\صديق.mp3"
+    },
+    "مُهَنْدِس": {
+        "turkish_meaning": "Mühendis",
+        "sound_url": "sesler\\مهندس.mp3"
+    },
+    "مَعَ السَلَامَة": {
+        "turkish_meaning": "Görüşürüz",
+        "sound_url": "sesler\\مع السلامة.mp3"
+    },
+    "هَذِهِ": {
+        "turkish_meaning": "Bu (dişil)",
+        "sound_url": "sesler\\هذه.mp3"
+    },
+    "طَبِيب": {
+        "turkish_meaning": "Doktor",
+        "sound_url": "sesler\\طبيب.mp3"
+    },
+    "الأُخْت": {
+        "turkish_meaning": "Kız kardeş",
+        "sound_url": "sesler\\الأخت.mp3"
+    },
+    "وَاحِد": {
+        "turkish_meaning": "Bir",
+        "sound_url": "sesler\\واحد.mp3"
+    },
+    "اِثْنَان": {
+        "turkish_meaning": "İki",
+        "sound_url": "sesler\\اثنان.mp3"
+    },
+    "أَرْبَعَة": {
+        "turkish_meaning": "Dört",
+        "sound_url": "sesler\\أربعة.mp3"
+    },
+    "خَمْسَة": {
+        "turkish_meaning": "Beş",
+        "sound_url": "sesler\\خمسة.mp3"
+    },
+    "صُورَة": {
+        "turkish_meaning": "Fotoğraf",
+        "sound_url": "sesler\\صورة.mp3"
+    },
+    "مَنْ": {
+        "turkish_meaning": "Kim?",
+        "sound_url": "sesler\\من.mp3"
+    },
+    "وَالِدَة": {
+        "turkish_meaning": "Anne",
+        "sound_url": "sesler\\والدة.mp3"
+    },
+    "طَالِب": {
+        "turkish_meaning": "Öğrenci",
+        "sound_url": "sesler\\طالب.mp3"
+    },
+    "مُعَلِّم": {
+        "turkish_meaning": "Öğretmen",
+        "sound_url": "sesler\\معلم.mp3"
+    },
+    "جَدّ": {
+        "turkish_meaning": "Dede",
+        "sound_url": "sesler\\جد.mp3"
+    },
+    "شَجَرَة": {
+        "turkish_meaning": "Ağaç",
+        "sound_url": "sesler\\شجرة.mp3"
+    },
+    "أُسْرَة": {
+        "turkish_meaning": "Aile",
+        "sound_url": "sesler\\أسرة.mp3"
+    },
+    "عَمّ": {
+        "turkish_meaning": "Amca",
+        "sound_url": "sesler\\عم.mp3"
+    },
+    "ابْن": {
+        "turkish_meaning": "Oğul",
+        "sound_url": "sesler\\ابن.mp3"
+    },
+    "اِبْنَة": {
+        "turkish_meaning": "Kız",
+        "sound_url": "sesler\\ابنة.mp3"
+    },
+    "أُم": {
+        "turkish_meaning": "Anne",
+        "sound_url": "sesler\\أم.mp3"
+    },
+    "فَجْر": {
+        "turkish_meaning": "Sabah",
+        "sound_url": "sesler\\فجر.mp3"
+    },
+    "اَوْلَاد": {
+        "turkish_meaning": "Çocuklar",
+        "sound_url": "sesler\\اولاد.mp3"
+    },
+    "حَمَّام": {
+        "turkish_meaning": "Güvercin",
+        "sound_url": "sesler\\حمام.mp3"
+    },
+    "يَتَوَضَّاُ": {
+        "turkish_meaning": "Abdest almak",
+        "sound_url": "sesler\\يتوضا.mp3"
+    },
+    "غُرْفَة": {
+        "turkish_meaning": "Oda",
+        "sound_url": "sesler\\غرفة.mp3"
+    },
+    "يَقْرَأُ": {
+        "turkish_meaning": "Okumak",
+        "sound_url": "sesler\\يقرأ.mp3"
+    },
+    "مُصَلَّى": {
+        "turkish_meaning": "Namaz kılma yeri",
+        "sound_url": "sesler\\مصلى.mp3"
+    },
+    "مِعْطَف": {
+        "turkish_meaning": "Palto",
+        "sound_url": "sesler\\معطف.mp3"
+    },
+    "نَظَّارَة": {
+        "turkish_meaning": "Gözlük",
+        "sound_url": "sesler\\نظارة.mp3"
+    },
+    "هَيَّا بِنَا": {
+        "turkish_meaning": "Haydi",
+        "sound_url": "sesler\\هيا بنا.mp3"
+    },
+    "سِتَّة": {
+        "turkish_meaning": "Altı",
+        "sound_url": "sesler\\ستة.mp3"
+    },
+    "سَبْعَة": {
+        "turkish_meaning": "Yedi",
+        "sound_url": "sesler\\سبعة.mp3"
+    },
+    "ثَمَانِيَة": {
+        "turkish_meaning": "Sekiz",
+        "sound_url": "sesler\\ثمانية.mp3"
+    },
+    "تِسْعَة": {
+        "turkish_meaning": "Dokuz",
+        "sound_url": "sesler\\تسعة.mp3"
+    },
+    "عَشْرَة": {
+        "turkish_meaning": "On",
+        "sound_url": "sesler\\عشرة.mp3"
+    },
+    "مِهْنَة": {
+        "turkish_meaning": "Meslek",
+        "sound_url": "sesler\\مهنة.mp3"
+    },
+    "سَكَن": {
+        "turkish_meaning": "Yerleşim",
+        "sound_url": "sesler\\سكن.mp3"
+    },
+    "حَي": {
+        "turkish_meaning": "Mahalle",
+        "sound_url": "sesler\\حي.mp3"
+    },
+    "مَطَار": {
+        "turkish_meaning": "Havalimanı",
+        "sound_url": "sesler\\مطار.mp3"
+    },
+    "جَامِعَة": {
+        "turkish_meaning": "Üniversite",
+        "sound_url": "sesler\\جامعة.mp3"
+    },
+    "هَل": {
+        "turkish_meaning": "Mı, mi?",
+        "sound_url": "sesler\\هل.mp3"
+    },
+    "شَقَّة": {
+        "turkish_meaning": "Daire",
+        "sound_url": "sesler\\شقة.mp3"
+    },
+    "رَقَم": {
+        "turkish_meaning": "Rakam",
+        "sound_url": "sesler\\رقم.mp3"
+    },
+    "مُسْتَاْجِر": {
+        "turkish_meaning": "Kiracı",
+        "sound_url": "sesler\\مستاجر.mp3"
+    },
+    "مٌوجِّر": {
+        "turkish_meaning": "Kiraya veren",
+        "sound_url": "sesler\\موجر.mp3"
+    },
+    "أُرِيدُ": {
+        "turkish_meaning": "İstemek",
+        "sound_url": "sesler\\أريد.mp3"
+    },
+    "مِن فَضْلِك": {
+        "turkish_meaning": "Lütfen",
+        "sound_url": "sesler\\من فضلك.mp3"
+    },
+    "جَمِيل": {
+        "turkish_meaning": "Güzel",
+        "sound_url": "sesler\\جميل.mp3"
+    },
+    "كَم": {
+        "turkish_meaning": "Ne kadar?",
+        "sound_url": "sesler\\كم.mp3"
+    },
+    "غُرَف": {
+        "turkish_meaning": "Odalar",
+        "sound_url": "sesler\\غرف.mp3"
+    },
+    "فِى أَي": {
+        "turkish_meaning": "Hangi",
+        "sound_url": "sesler\\فى أي.mp3"
+    },
+    "دَوْر": {
+        "turkish_meaning": "Kat",
+        "sound_url": "sesler\\دور.mp3"
+    },
+    "خَامِس": {
+        "turkish_meaning": "Beşinci",
+        "sound_url": "sesler\\خامس.mp3"
+    },
+    "مُشَاهَدَة": {
+        "turkish_meaning": "Görmek",
+        "sound_url": "sesler\\مشاهدة.mp3"
+    },
+    "تَفَضَّل": {
+        "turkish_meaning": "Buyurun",
+        "sound_url": "sesler\\تفضل.mp3"
+    },
+    "مُشْتَرِى": {
+        "turkish_meaning": "Müşteri",
+        "sound_url": "sesler\\مشترى.mp3"
+    },
+    "بَاءِع": {
+        "turkish_meaning": "Satıcı",
+        "sound_url": "sesler\\باءع.mp3"
+    },
+    "خِدْمَة": {
+        "turkish_meaning": "Hizmet",
+        "sound_url": "sesler\\خدمة.mp3"
+    },
+    "أَثَاث": {
+        "turkish_meaning": "Mobilya",
+        "sound_url": "sesler\\أثاث.mp3"
+    },
+    "بَعْض": {
+        "turkish_meaning": "Bazı",
+        "sound_url": "sesler\\بعض.mp3"
+    },
+    "غُرْفَة النُوْم": {
+        "turkish_meaning": "Uyku odası",
+        "sound_url": "sesler\\غرفة النوم.mp3"
+    },
+    "سَرِير": {
+        "turkish_meaning": "Yatak",
+        "sound_url": "sesler\\سرير.mp3"
+    },
+    "سِتَارَة": {
+        "turkish_meaning": "Perde",
+        "sound_url": "sesler\\ستارة.mp3"
+    },
+    "غُرْفَةِ الجُلُوس": {
+        "turkish_meaning": "Oturma odası",
+        "sound_url": "sesler\\غرفة الجلوس.mp3"
+    },
+    "أَرِيكَة": {
+        "turkish_meaning": "Kanepe",
+        "sound_url": "sesler\\أريكة.mp3"
+    },
+    "سَجَّادَة": {
+        "turkish_meaning": "Seccade",
+        "sound_url": "sesler\\سجادة.mp3"
+    },
+    "مَطْبَخ": {
+        "turkish_meaning": "Mutfak",
+        "sound_url": "sesler\\مطبخ.mp3"
+    },
+    "فُرُن": {
+        "turkish_meaning": "Fırın",
+        "sound_url": "sesler\\فرن.mp3"
+    },
+    "ثَلَّاجَة": {
+        "turkish_meaning": "Buzdolabı",
+        "sound_url": "sesler\\ثلاجة.mp3"
+    },
+    "سَخَّان": {
+        "turkish_meaning": "Isıtıcı",
+        "sound_url": "sesler\\سخان.mp3"
+    },
+    "مِرْأَة": {
+        "turkish_meaning": "Ayna",
+        "sound_url": "sesler\\مرأة.mp3"
+    },
+    "أُسْبُوع": {
+        "turkish_meaning": "Hafta",
+        "sound_url": "sesler\\أسبوع.mp3"
+    },
+    "الاِثْنَين": {
+        "turkish_meaning": "Pazartesi",
+        "sound_url": "sesler\\الاثنين.mp3"
+    },
+    "ثُلَاثَاء": {
+        "turkish_meaning": "Salı",
+        "sound_url": "sesler\\ثلاثاء.mp3"
+    },
+    "أَرْبِعَاء": {
+        "turkish_meaning": "Çarşamba",
+        "sound_url": "sesler\\أربعاء.mp3"
+    },
+    "الخَمِيس": {
+        "turkish_meaning": "Perşembe",
+        "sound_url": "sesler\\الخميس.mp3"
+    },
+    "الجُمْعَة": {
+        "turkish_meaning": "Cuma",
+        "sound_url": "sesler\\الجمعة.mp3"
+    },
+    "السَّبْت": {
+        "turkish_meaning": "Cumartesi",
+        "sound_url": "sesler\\السبت.mp3"
+    },
+    "الأَحَد": {
+        "turkish_meaning": "Pazar",
+        "sound_url": "sesler\\الأحد.mp3"
+    },
+    "أَوَّل": {
+        "turkish_meaning": "Birinci",
+        "sound_url": "sesler\\أول.mp3"
+    },
+    "ثَانِى": {
+        "turkish_meaning": "İkinci",
+        "sound_url": "sesler\\ثانى.mp3"
+    },
+    "ثَالِث": {
+        "turkish_meaning": "Üçüncü",
+        "sound_url": "sesler\\ثالث.mp3"
+    },
+    "رَابِع": {
+        "turkish_meaning": "Dördüncü",
+        "sound_url": "sesler\\رابع.mp3"
+    },
+    "سَادِس": {
+        "turkish_meaning": "Altıncı",
+        "sound_url": "sesler\\سادس.mp3"
+    },
+    "سَابِع": {
+        "turkish_meaning": "Yedinci",
+        "sound_url": "sesler\\سابع.mp3"
+    },
+    "ثَامِن": {
+        "turkish_meaning": "Sekizinci",
+        "sound_url": "sesler\\ثامن.mp3"
+    },
+    "تَاسِع": {
+        "turkish_meaning": "Dokuzuncu",
+        "sound_url": "sesler\\تاسع.mp3"
+    },
+    "عَاشِر": {
+        "turkish_meaning": "Onuncu",
+        "sound_url": "sesler\\عاشر.mp3"
+    },
+    "طَعَام": {
+        "turkish_meaning": "Yemek",
+        "sound_url": "sesler\\طعام.mp3"
+    },
+    "شَرَاب": {
+        "turkish_meaning": "İçecek",
+        "sound_url": "sesler\\شراب.mp3"
+    },
+    "وَجْبَة": {
+        "turkish_meaning": "Öğün",
+        "sound_url": "sesler\\وجبة.mp3"
+    },
+    "اَكُلُ": {
+        "turkish_meaning": "Yemek yemek",
+        "sound_url": "sesler\\اكل.mp3"
+    },
+    "فُطُور": {
+        "turkish_meaning": "Kahvaltı",
+        "sound_url": "sesler\\فطور.mp3"
+    },
+    "غَدَاء": {
+        "turkish_meaning": "Öğle yemeği",
+        "sound_url": "sesler\\غداء.mp3"
+    },
+    "عَشَاء": {
+        "turkish_meaning": "Akşam yemeği",
+        "sound_url": "sesler\\عشاء.mp3"
+    },
+    "جِدَّا": {
+        "turkish_meaning": "Çok",
+        "sound_url": "sesler\\جدا.mp3"
+    },
+    "كَثِير": {
+        "turkish_meaning": "Çok",
+        "sound_url": "sesler\\كثير.mp3"
+    },
+    "قَلِيل": {
+        "turkish_meaning": "Az",
+        "sound_url": "sesler\\قليل.mp3"
+    },
+    "لَحْم": {
+        "turkish_meaning": "Et",
+        "sound_url": "sesler\\لحم.mp3"
+    },
+    "دَجَّاج": {
+        "turkish_meaning": "Tavuk",
+        "sound_url": "sesler\\دجاج.mp3"
+    },
+    "أَرُز": {
+        "turkish_meaning": "Pirinç",
+        "sound_url": "sesler\\أرز.mp3"
+    },
+    "خُبْز": {
+        "turkish_meaning": "Ekmek",
+        "sound_url": "sesler\\خبز.mp3"
+    },
+    "سَمَك": {
+        "turkish_meaning": "Balık",
+        "sound_url": "sesler\\سمك.mp3"
+    },
+    "سَلَطَة": {
+        "turkish_meaning": "Salata",
+        "sound_url": "sesler\\سلطة.mp3"
+    },
+    "فَاكِهَة": {
+        "turkish_meaning": "Meyve",
+        "sound_url": "sesler\\فاكهة.mp3"
+    },
+    "وَزْن": {
+        "turkish_meaning": "Ölçü, kilo",
+        "sound_url": "sesler\\وزن.mp3"
+    },
+    "سَمِين": {
+        "turkish_meaning": "Şişman",
+        "sound_url": "sesler\\سمين.mp3"
+    },
+    "نَحِيف": {
+        "turkish_meaning": "Zayıf",
+        "sound_url": "sesler\\نحيف.mp3"
+    },
+    "مُضِفَة": {
+        "turkish_meaning": "Hostes",
+        "sound_url": "sesler\\مضفة.mp3"
+    },
+    "مُسَافِر": {
+        "turkish_meaning": "Yolcu",
+        "sound_url": "sesler\\مسافر.mp3"
+    },
+    "مَاء": {
+        "turkish_meaning": "Su",
+        "sound_url": "sesler\\ماء.mp3"
+    },
+    "أَو": {
+        "turkish_meaning": "Veya",
+        "sound_url": "sesler\\أو.mp3"
+    },
+    "تَمْر": {
+        "turkish_meaning": "Hurma",
+        "sound_url": "sesler\\تمر.mp3"
+    },
+    "عِنَب": {
+        "turkish_meaning": "Üzüm",
+        "sound_url": "sesler\\عنب.mp3"
+    },
+    "شَاى": {
+        "turkish_meaning": "Çay",
+        "sound_url": "sesler\\شاى.mp3"
+    },
+    "قَهْوَة": {
+        "turkish_meaning": "Kahve",
+        "sound_url": "sesler\\قهوة.mp3"
+    },
+    "اُفَضِّلُ": {
+        "turkish_meaning": "Arzularım, tercih ederim",
+        "sound_url": "sesler\\افضل.mp3"
+    },
+    "اَطْلُبُ": {
+        "turkish_meaning": "Talep etmek",
+        "sound_url": "sesler\\اطلب.mp3"
+    },
+    "حَلِيب": {
+        "turkish_meaning": "Süt",
+        "sound_url": "sesler\\حليب.mp3"
+    },
+    "جَوْعَان": {
+        "turkish_meaning": "Aç",
+        "sound_url": "sesler\\جوعان.mp3"
+    },
+    "مَاءِدَة": {
+        "turkish_meaning": "Sofra",
+        "sound_url": "sesler\\ماءدة.mp3"
+    },
+    "عَلَي": {
+        "turkish_meaning": "Üzerinde",
+        "sound_url": "sesler\\علي.mp3"
+    },
+    "لِمَاذَا": {
+        "turkish_meaning": "Neden?",
+        "sound_url": "sesler\\لماذا.mp3"
+    },
+    "ضُيُوف": {
+        "turkish_meaning": "Misafirler",
+        "sound_url": "sesler\\ضيوف.mp3"
+    },
+    "لَدَيْنَا": {
+        "turkish_meaning": "Bizde var",
+        "sound_url": "sesler\\لدينا.mp3"
+    },
+    "الحَيَاةُ اليَوْمِيَّة": {
+        "turkish_meaning": "Günlük hayat",
+        "sound_url": "sesler\\الحياة اليومية.mp3"
+    },
+    "أَسْتَيْقِظُ": {
+        "turkish_meaning": "Uyanıyorum",
+        "sound_url": "sesler\\أستيقظ.mp3"
+    },
+    "اُصَلِّى": {
+        "turkish_meaning": "Namaz kılmak",
+        "sound_url": "sesler\\اصلى.mp3"
+    },
+    "أَنَام": {
+        "turkish_meaning": "Uyumak",
+        "sound_url": "sesler\\أنام.mp3"
+    },
+    "بَعْد": {
+        "turkish_meaning": "Sonra",
+        "sound_url": "sesler\\بعد.mp3"
+    },
+    "ذَهَبَ": {
+        "turkish_meaning": "Gitmek",
+        "sound_url": "sesler\\ذهب.mp3"
+    },
+    "سَيَّارَة": {
+        "turkish_meaning": "Araba",
+        "sound_url": "sesler\\سيارة.mp3"
+    },
+    "حَافِلَة": {
+        "turkish_meaning": "Otobüs",
+        "sound_url": "sesler\\حافلة.mp3"
+    },
+    "عُطْلَة": {
+        "turkish_meaning": "Tatil",
+        "sound_url": "sesler\\عطلة.mp3"
+    },
+    "عَمَل": {
+        "turkish_meaning": "İş",
+        "sound_url": "sesler\\عمل.mp3"
+    },
+    "أَكْنُسُ": {
+        "turkish_meaning": "Süpürmek",
+        "sound_url": "sesler\\أكنس.mp3"
+    },
+    "أَغْسِلُ": {
+        "turkish_meaning": "Yıkamak",
+        "sound_url": "sesler\\أغسل.mp3"
+    },
+    "مَلَابِس": {
+        "turkish_meaning": "Elbiseler",
+        "sound_url": "sesler\\ملابس.mp3"
+    },
+    "أَكْوِى": {
+        "turkish_meaning": "Ütülemek",
+        "sound_url": "sesler\\أكوى.mp3"
+    },
+    "أَطْبَاق": {
+        "turkish_meaning": "Tabaklar",
+        "sound_url": "sesler\\أطباق.mp3"
+    },
+    "مُبَكِّر": {
+        "turkish_meaning": "Erken",
+        "sound_url": "sesler\\مبكر.mp3"
+    },
+    "مُتَاَخِّر": {
+        "turkish_meaning": "Geç",
+        "sound_url": "sesler\\متاخر.mp3"
+    },
+    "تِلْفَاز": {
+        "turkish_meaning": "TV",
+        "sound_url": "sesler\\تلفاز.mp3"
+    },
+    "صَحِيفَة": {
+        "turkish_meaning": "Gazete",
+        "sound_url": "sesler\\صحيفة.mp3"
+    },
+    "كِتَاب": {
+        "turkish_meaning": "Kitap",
+        "sound_url": "sesler\\كتاب.mp3"
+    },
+    "اَيْضا": {
+        "turkish_meaning": "Da, de",
+        "sound_url": "sesler\\ايضا.mp3"
+    },
+    "صَلَاة": {
+        "turkish_meaning": "Namaz",
+        "sound_url": "sesler\\صلاة.mp3"
+    },
+    "اَسْمَعُ": {
+        "turkish_meaning": "Dinlemek",
+        "sound_url": "sesler\\اسمع.mp3"
+    },
+    "أَعْمَلُ": {
+        "turkish_meaning": "Çalışmak",
+        "sound_url": "sesler\\أعمل.mp3"
+    },
+    "ضَع": {
+        "turkish_meaning": "Koy",
+        "sound_url": "sesler\\ضع.mp3"
+    },
+    "مُنَبِّه": {
+        "turkish_meaning": "Çalar saat",
+        "sound_url": "sesler\\منبه.mp3"
+    },
+    "جَانِب": {
+        "turkish_meaning": "Yan",
+        "sound_url": "sesler\\جانب.mp3"
+    },
+    "فِكْرَة": {
+        "turkish_meaning": "Fikir",
+        "sound_url": "sesler\\فكرة.mp3"
+    },
+    "جَزَاكَ الله خَيْرَا": {
+        "turkish_meaning": "Teşekkürler",
+        "sound_url": "sesler\\جزاك الله خيرا.mp3"
+    },
+    "ظُهْر": {
+        "turkish_meaning": "Öğlen",
+        "sound_url": "sesler\\ظهر.mp3"
+    },
+    "عَصْر": {
+        "turkish_meaning": "İkindi",
+        "sound_url": "sesler\\عصر.mp3"
+    },
+    "وَضَعَ": {
+        "turkish_meaning": "Koymak",
+        "sound_url": "sesler\\وضع.mp3"
+    },
+    "يَسْتَطِيعُ": {
+        "turkish_meaning": "E bilmek",
+        "sound_url": "sesler\\يستطيع.mp3"
+    },
+    "أَرْكَبُ": {
+        "turkish_meaning": "Binmek",
+        "sound_url": "sesler\\أركب.mp3"
+    },
+    "طَاءِرَة": {
+        "turkish_meaning": "Uçak",
+        "sound_url": "sesler\\طاءرة.mp3"
+    },
+    "بَعِيد": {
+        "turkish_meaning": "Uzak",
+        "sound_url": "sesler\\بعيد.mp3"
+    },
+    "قَرِيب": {
+        "turkish_meaning": "Yakın",
+        "sound_url": "sesler\\قريب.mp3"
+    },
+    "مَرِيض": {
+        "turkish_meaning": "Hasta",
+        "sound_url": "sesler\\مريض.mp3"
+    },
+    "كَسْلَان": {
+        "turkish_meaning": "Tembel",
+        "sound_url": "sesler\\كسلان.mp3"
+    },
+    "صَحِيح": {
+        "turkish_meaning": "Doğru",
+        "sound_url": "sesler\\صحيح.mp3"
+    },
+    "أَسِف": {
+        "turkish_meaning": "Üzgünüm",
+        "sound_url": "sesler\\أسف.mp3"
+    },
+    "ذَاهِب": {
+        "turkish_meaning": "Yolcu, giden",
+        "sound_url": "sesler\\ذاهب.mp3"
+    },
+    "مَعَ": {
+        "turkish_meaning": "İle",
+        "sound_url": "sesler\\مع.mp3"
+    },
+    "ك": {
+        "turkish_meaning": "Sen",
+        "sound_url": "sesler\\ك.mp3"
+    },
+    "يَنْتَظِرُ": {
+        "turkish_meaning": "Beklemek",
+        "sound_url": "sesler\\ينتظر.mp3"
+    },
+    "هِيَ": {
+        "turkish_meaning": "O (dişil)",
+        "sound_url": "sesler\\هي.mp3"
+    },
+    "دِرَاسَة": {
+        "turkish_meaning": "Eğitim-öğretim",
+        "sound_url": "sesler\\دراسة.mp3"
+    },
+    "حِوَار": {
+        "turkish_meaning": "Diyalog",
+        "sound_url": "sesler\\حوار.mp3"
+    },
+    "مَوَاد": {
+        "turkish_meaning": "Maddeler",
+        "sound_url": "sesler\\مواد.mp3"
+    },
+    "ثَقَافَة": {
+        "turkish_meaning": "Kültür",
+        "sound_url": "sesler\\ثقافة.mp3"
+    },
+    "عُلُوم": {
+        "turkish_meaning": "İlimler",
+        "sound_url": "sesler\\علوم.mp3"
+    },
+    "حَاسُوب": {
+        "turkish_meaning": "Bilgisayar",
+        "sound_url": "sesler\\حاسوب.mp3"
+    },
+    "مَتَي": {
+        "turkish_meaning": "Ne zaman",
+        "sound_url": "sesler\\متي.mp3"
+    },
+    "تَبْدَأُ": {
+        "turkish_meaning": "Başlamak",
+        "sound_url": "sesler\\تبدأ.mp3"
+    },
+    "اِنْتَهَي": {
+        "turkish_meaning": "Bitmek",
+        "sound_url": "sesler\\انتهي.mp3"
+    },
+    "أَشْهُر-شَهْر": {
+        "turkish_meaning": "Ay-aylar",
+        "sound_url": "sesler\\أشهر-شهر.mp3"
+    },
+    "طَوِيل": {
+        "turkish_meaning": "Uzun",
+        "sound_url": "sesler\\طويل.mp3"
+    },
+    "حِصَّة": {
+        "turkish_meaning": "Ders saati",
+        "sound_url": "sesler\\حصة.mp3"
+    },
+    "جَاءَ": {
+        "turkish_meaning": "Gelmek",
+        "sound_url": "sesler\\جاء.mp3"
+    },
+    "صَفّ": {
+        "turkish_meaning": "Sınıf",
+        "sound_url": "sesler\\صف.mp3"
+    },
+    "اِخْتِبَار": {
+        "turkish_meaning": "Sınav",
+        "sound_url": "sesler\\اختبار.mp3"
+    },
+    "كُلِّيَة": {
+        "turkish_meaning": "Fakülte",
+        "sound_url": "sesler\\كلية.mp3"
+    },
+    "أَدْرُسُ": {
+        "turkish_meaning": "Okumak",
+        "sound_url": "sesler\\أدرس.mp3"
+    },
+    "أَكُونُ": {
+        "turkish_meaning": "Olmak",
+        "sound_url": "sesler\\أكون.mp3"
+    },
+    "اِسْتِرَاحَة": {
+        "turkish_meaning": "İstirahat",
+        "sound_url": "sesler\\استراحة.mp3"
+    },
+    "مَكْتَبَة": {
+        "turkish_meaning": "Kütüphane",
+        "sound_url": "sesler\\مكتبة.mp3"
+    },
+    "شَرِكَة": {
+        "turkish_meaning": "Şirket",
+        "sound_url": "sesler\\شركة.mp3"
+    },
+    "مُسْتَشْفَى": {
+        "turkish_meaning": "Hastane",
+        "sound_url": "sesler\\مستشفى.mp3"
+    },
+    "اُحِبُّ": {
+        "turkish_meaning": "Sevmek",
+        "sound_url": "sesler\\احب.mp3"
+    },
+    "صَيْدَلَة": {
+        "turkish_meaning": "Eczane",
+        "sound_url": "sesler\\صيدلة.mp3"
+    },
+    "تَمْرِيض": {
+        "turkish_meaning": "Hemşirlik",
+        "sound_url": "sesler\\تمريض.mp3"
+    },
+    "تَرْبِيَّة": {
+        "turkish_meaning": "Eğitim",
+        "sound_url": "sesler\\تربية.mp3"
+    },
+    "مُمَرِّض": {
+        "turkish_meaning": "Hemşir",
+        "sound_url": "sesler\\ممرض.mp3"
+    },
+    "مَرْحَلَة": {
+        "turkish_meaning": "Aşama",
+        "sound_url": "sesler\\مرحلة.mp3"
+    },
+    "مُتَوَسِّطَة": {
+        "turkish_meaning": "Orta",
+        "sound_url": "sesler\\متوسطة.mp3"
+    },
+    "أًطْفَال": {
+        "turkish_meaning": "Çocuklar",
+        "sound_url": "sesler\\أطفال.mp3"
+    },
+    "لَك": {
+        "turkish_meaning": "Senin",
+        "sound_url": "sesler\\لك.mp3"
+    },
+    "لِي": {
+        "turkish_meaning": "Benim",
+        "sound_url": "sesler\\لي.mp3"
+    },
+    "تَسَوُّق": {
+        "turkish_meaning": "Alışveriş",
+        "sound_url": "sesler\\تسوق.mp3"
+    },
+    "مُعْجَم": {
+        "turkish_meaning": "Sözlük",
+        "sound_url": "sesler\\معجم.mp3"
+    },
+    "قِرَاءَة": {
+        "turkish_meaning": "Okuma",
+        "sound_url": "sesler\\قراءة.mp3"
+    },
+    "اَخَر": {
+        "turkish_meaning": "Başka",
+        "sound_url": "sesler\\اخر.mp3"
+    },
+    "دَفْتَر": {
+        "turkish_meaning": "Defter",
+        "sound_url": "sesler\\دفتر.mp3"
+    },
+    "قَلَم": {
+        "turkish_meaning": "Kalem",
+        "sound_url": "sesler\\قلم.mp3"
+    },
+    "خِيَار": {
+        "turkish_meaning": "Salatalık",
+        "sound_url": "sesler\\خيار.mp3"
+    },
+    "بَصَل": {
+        "turkish_meaning": "Soğan",
+        "sound_url": "sesler\\بصل.mp3"
+    },
+    "طَمَاطِم": {
+        "turkish_meaning": "Domates",
+        "sound_url": "sesler\\طماطم.mp3"
+    },
+    "سُكَّر": {
+        "turkish_meaning": "Şeker",
+        "sound_url": "sesler\\سكر.mp3"
+    },
+    "اَلْبُنَّ": {
+        "turkish_meaning": "Peynir",
+        "sound_url": "sesler\\البن.mp3"
+    },
+    "بَيْض": {
+        "turkish_meaning": "Yumurta",
+        "sound_url": "sesler\\بيض.mp3"
+    },
+    "طَبَق": {
+        "turkish_meaning": "Tabak",
+        "sound_url": "sesler\\طبق.mp3"
+    },
+    "عُلْبَة": {
+        "turkish_meaning": "Paket",
+        "sound_url": "sesler\\علبة.mp3"
+    },
+    "مِلْح": {
+        "turkish_meaning": "Tuz",
+        "sound_url": "sesler\\ملح.mp3"
+    },
+    "مَطْلُوب": {
+        "turkish_meaning": "Ücret",
+        "sound_url": "sesler\\مطلوب.mp3"
+    },
+    "قَمِيص-قُمْصَان": {
+        "turkish_meaning": "Gömlek",
+        "sound_url": "sesler\\قميص-قمصان.mp3"
+    },
+    "لَو سَمَحْتَ": {
+        "turkish_meaning": "İzninizle",
+        "sound_url": "sesler\\لو سمحت.mp3"
+    },
+    "أَصْفَر": {
+        "turkish_meaning": "Sarı",
+        "sound_url": "sesler\\أصفر.mp3"
+    },
+    "أَزْرَق": {
+        "turkish_meaning": "Mavi",
+        "sound_url": "sesler\\أزرق.mp3"
+    },
+    "أَحْمَر": {
+        "turkish_meaning": "Kırmızı",
+        "sound_url": "sesler\\أحمر.mp3"
+    },
+    "أَسْوَد": {
+        "turkish_meaning": "Siyah",
+        "sound_url": "sesler\\أسود.mp3"
+    },
+    "بِكَم": {
+        "turkish_meaning": "Kaça",
+        "sound_url": "sesler\\بكم.mp3"
+    },
+    "أَّشْتَرِي": {
+        "turkish_meaning": "Satın almak",
+        "sound_url": "sesler\\أشتري.mp3"
+    },
+    "أَثْوَاب": {
+        "turkish_meaning": "Elbiseler",
+        "sound_url": "sesler\\أثواب.mp3"
+    },
+    "مَسَاء": {
+        "turkish_meaning": "Akşam",
+        "sound_url": "sesler\\مساء.mp3"
+    },
+    "اَلْجَوّ": {
+        "turkish_meaning": "Hava, iklim",
+        "sound_url": "sesler\\الجو.mp3"
+    },
+    "خَارِج": {
+        "turkish_meaning": "Dışarı",
+        "sound_url": "sesler\\خارج.mp3"
+    },
+    "السَّمَاء": {
+        "turkish_meaning": "Gökyüzü",
+        "sound_url": "sesler\\السماء.mp3"
+    },
+    "اَلاَن": {
+        "turkish_meaning": "Şimdi",
+        "sound_url": "sesler\\الان.mp3"
+    },
+    "فَصْل": {
+        "turkish_meaning": "Mevsim",
+        "sound_url": "sesler\\فصل.mp3"
+    },
+    "خَرِيف": {
+        "turkish_meaning": "Kış, güz",
+        "sound_url": "sesler\\خريف.mp3"
+    },
+    "مَطَر": {
+        "turkish_meaning": "Yağmur",
+        "sound_url": "sesler\\مطر.mp3"
+    },
+    "مُبْتَلّ": {
+        "turkish_meaning": "Islak",
+        "sound_url": "sesler\\مبتل.mp3"
+    },
+    "تَرَكَ": {
+        "turkish_meaning": "Terk etmek",
+        "sound_url": "sesler\\ترك.mp3"
+    },
+    "مِظَلَّة": {
+        "turkish_meaning": "Şemsiye",
+        "sound_url": "sesler\\مظلة.mp3"
+    },
+    "دَافِى": {
+        "turkish_meaning": "Sıcak, ılık",
+        "sound_url": "sesler\\دافى.mp3"
+    },
+    "بَقِيَ": {
+        "turkish_meaning": "Kalmak",
+        "sound_url": "sesler\\بقي.mp3"
+    },
+    "غَدَا": {
+        "turkish_meaning": "Yarın",
+        "sound_url": "sesler\\غدا.mp3"
+    },
+    "بَارِد": {
+        "turkish_meaning": "Soğuk",
+        "sound_url": "sesler\\بارد.mp3"
+    },
+    "شِتَاء": {
+        "turkish_meaning": "Kış",
+        "sound_url": "sesler\\شتاء.mp3"
+    },
+    "حَرَارَة": {
+        "turkish_meaning": "Sıcaklık",
+        "sound_url": "sesler\\حرارة.mp3"
+    },
+    "تَحْت": {
+        "turkish_meaning": "Altında",
+        "sound_url": "sesler\\تحت.mp3"
+    },
+    "كَانَ": {
+        "turkish_meaning": "İdi",
+        "sound_url": "sesler\\كان.mp3"
+    },
+    "مُعْتَدِل": {
+        "turkish_meaning": "Mutedil, ılık",
+        "sound_url": "sesler\\معتدل.mp3"
+    },
+    "أَقْضِي": {
+        "turkish_meaning": "Geçirmek",
+        "sound_url": "sesler\\أقضي.mp3"
+    },
+    "رَبِيع": {
+        "turkish_meaning": "Bahar",
+        "sound_url": "sesler\\ربيع.mp3"
+    },
+    "صَيْف": {
+        "turkish_meaning": "Yaz",
+        "sound_url": "sesler\\صيف.mp3"
+    },
+    "شَاطِي": {
+        "turkish_meaning": "Sahil",
+        "sound_url": "sesler\\شاطي.mp3"
+    },
+    "خَيْمَة": {
+        "turkish_meaning": "Çadır",
+        "sound_url": "sesler\\خيمة.mp3"
+    },
+    "اَحْضَرَ": {
+        "turkish_meaning": "Getirmek",
+        "sound_url": "sesler\\احضر.mp3"
+    },
+    "فَوْق": {
+        "turkish_meaning": "Üstünde",
+        "sound_url": "sesler\\فوق.mp3"
+    },
+    "أَمَام": {
+        "turkish_meaning": "Önünde",
+        "sound_url": "sesler\\أمام.mp3"
+    },
+    "يَمِين": {
+        "turkish_meaning": "Sağ",
+        "sound_url": "sesler\\يمين.mp3"
+    },
+    "خَلْف": {
+        "turkish_meaning": "Arka",
+        "sound_url": "sesler\\خلف.mp3"
+    },
+    "فى": {
+        "turkish_meaning": "İçinde",
+        "sound_url": "sesler\\فى.mp3"
+    },
+    "البَرّ": {
+        "turkish_meaning": "Kır",
+        "sound_url": "sesler\\البر.mp3"
+    },
+    "نَاس": {
+        "turkish_meaning": "İnsanlar",
+        "sound_url": "sesler\\ناس.mp3"
+    },
+    "أَمَاكِن": {
+        "turkish_meaning": "Mekanlar",
+        "sound_url": "sesler\\أماكن.mp3"
+    },
+    "اَنْتَقَلَ": {
+        "turkish_meaning": "İntikal etmek",
+        "sound_url": "sesler\\انتقل.mp3"
+    },
+    "مُدِير": {
+        "turkish_meaning": "Müdür",
+        "sound_url": "sesler\\مدير.mp3"
+    },
+    "سَعِيد": {
+        "turkish_meaning": "Mutlu",
+        "sound_url": "sesler\\سعيد.mp3"
+    },
+    "رَاْي": {
+        "turkish_meaning": "Görüş",
+        "sound_url": "sesler\\راي.mp3"
+    },
+    "اِسْتَغْرَقَ": {
+        "turkish_meaning": "Sürmek",
+        "sound_url": "sesler\\استغرق.mp3"
+    },
+    "تَقْرِيبَا": {
+        "turkish_meaning": "Takriben",
+        "sound_url": "sesler\\تقريبا.mp3"
+    },
+    "مِنْ قَبْل": {
+        "turkish_meaning": "Önceden",
+        "sound_url": "sesler\\من قبل.mp3"
+    },
+    "حَضَرَ": {
+        "turkish_meaning": "Gelmek",
+        "sound_url": "sesler\\حضر.mp3"
+    },
+    "قَبْل": {
+        "turkish_meaning": "Önce",
+        "sound_url": "sesler\\قبل.mp3"
+    },
+    "جَوَازُ السَّفَر": {
+        "turkish_meaning": "Pasaport",
+        "sound_url": "sesler\\جواز السفر.mp3"
+    },
+    "أُسْتَاذ": {
+        "turkish_meaning": "Üstat, hoca",
+        "sound_url": "sesler\\أستاذ.mp3"
+    },
+    "زَارَ": {
+        "turkish_meaning": "Ziyaret etmek",
+        "sound_url": "sesler\\زار.mp3"
+    },
+    "هَادِءَة": {
+        "turkish_meaning": "Sakin",
+        "sound_url": "sesler\\هادءة.mp3"
+    },
+    "نَقِيُّ": {
+        "turkish_meaning": "Temiz",
+        "sound_url": "sesler\\نقي.mp3"
+    },
+    "ضَوْضَوء": {
+        "turkish_meaning": "Gürültü",
+        "sound_url": "sesler\\ضوضوء.mp3"
+    },
+    "تَلَوُّث": {
+        "turkish_meaning": "Hava kirliliği",
+        "sound_url": "sesler\\تلوث.mp3"
+    },
+    "اِزْدِهَام": {
+        "turkish_meaning": "Kalabalık",
+        "sound_url": "sesler\\ازدهام.mp3"
+    },
+    "مَشْكِلَة": {
+        "turkish_meaning": "Müşkül",
+        "sound_url": "sesler\\مشكلة.mp3"
+    },
+    "قِطَار": {
+        "turkish_meaning": "Tren",
+        "sound_url": "sesler\\قطار.mp3"
+    },
+    "رِحْلَة": {
+        "turkish_meaning": "Yol",
+        "sound_url": "sesler\\رحلة.mp3"
+    },
+    "نِصْف": {
+        "turkish_meaning": "Yarı",
+        "sound_url": "sesler\\نصف.mp3"
+    },
+    "قَرْيَة": {
+        "turkish_meaning": "Köy",
+        "sound_url": "sesler\\قرية.mp3"
+    },
+    "هوايات": {
+        "turkish_meaning": "Hobiler",
+        "sound_url": "sesler\\هوايات.mp3"
+    },
+    "مُفِيد": {
+        "turkish_meaning": "Faydalı",
+        "sound_url": "sesler\\مفيد.mp3"
+    },
+    "مَعْرِض": {
+        "turkish_meaning": "Fuar, sergi",
+        "sound_url": "sesler\\معرض.mp3"
+    },
+    "جَنَاح": {
+        "turkish_meaning": "Stad, köşe",
+        "sound_url": "sesler\\جناح.mp3"
+    },
+    "طَوَابِع": {
+        "turkish_meaning": "Pullar",
+        "sound_url": "sesler\\طوابع.mp3"
+    },
+    "فُرُوسِيَّة": {
+        "turkish_meaning": "Binicilik",
+        "sound_url": "sesler\\فروسية.mp3"
+    },
+    "سِبَاحَة": {
+        "turkish_meaning": "Yüzme",
+        "sound_url": "sesler\\سباحة.mp3"
+    },
+    "عِنَايَة": {
+        "turkish_meaning": "Bakım",
+        "sound_url": "sesler\\عناية.mp3"
+    },
+    "عَسَل": {
+        "turkish_meaning": "Bal",
+        "sound_url": "sesler\\عسل.mp3"
+    },
+    "شِفَاء": {
+        "turkish_meaning": "Şifa",
+        "sound_url": "sesler\\شفاء.mp3"
+    },
+    "أ": {
+        "turkish_meaning": "Mı, mi?",
+        "sound_url": "sesler\\أ.mp3"
+    },
+    "اِشْتَكَي": {
+        "turkish_meaning": "Şikayet etmek",
+        "sound_url": "sesler\\اشتكي.mp3"
+    },
+    "مَرَض اَمْرَاض": {
+        "turkish_meaning": "Hastalık, hastalıklar",
+        "sound_url": "sesler\\مرض امراض.mp3"
+    },
+    "شيء اشياء": {
+        "turkish_meaning": "Şey- şeyler",
+        "sound_url": "sesler\\شيء اشياء.mp3"
+    },
+    "أَكُون": {
+        "turkish_meaning": "Olacağım",
+        "sound_url": "sesler\\أكون.mp3"
+    },
+    "نَقَصَ": {
+        "turkish_meaning": "Azalmak",
+        "sound_url": "sesler\\نقص.mp3"
+    },
+    "عَصِير": {
+        "turkish_meaning": "Meyve suyu",
+        "sound_url": "sesler\\عصير.mp3"
+    },
+    "اِتَّبَعَ": {
+        "turkish_meaning": "Uymak",
+        "sound_url": "sesler\\اتبع.mp3"
+    },
+    "حِمْيَة": {
+        "turkish_meaning": "Diyet",
+        "sound_url": "sesler\\حمية.mp3"
+    },
+    "دُهُون": {
+        "turkish_meaning": "Yağlar",
+        "sound_url": "sesler\\دهون.mp3"
+    },
+    "نَشَوِيَّات": {
+        "turkish_meaning": "Nişastalar",
+        "sound_url": "sesler\\نشويات.mp3"
+    },
+    "خَطِير": {
+        "turkish_meaning": "Tehlikeli",
+        "sound_url": "sesler\\خطير.mp3"
+    },
+    "لَا بُد": {
+        "turkish_meaning": "Gerekir",
+        "sound_url": "sesler\\لا بد.mp3"
+    },
+    "يَكْفِي": {
+        "turkish_meaning": "Yeter",
+        "sound_url": "sesler\\يكفي.mp3"
+    },
+    "عَادِي": {
+        "turkish_meaning": "Normal",
+        "sound_url": "sesler\\عادي.mp3"
+    },
+    "شَحْم": {
+        "turkish_meaning": "Yağ",
+        "sound_url": "sesler\\شحم.mp3"
+    },
+    "بَدَانَة": {
+        "turkish_meaning": "Obezite",
+        "sound_url": "sesler\\بدانة.mp3"
+    },
+    "دَسَم": {
+        "turkish_meaning": "Yağlı",
+        "sound_url": "sesler\\دسم.mp3"
+    },
+    "لَا مَحَالَة": {
+        "turkish_meaning": "Çare yok",
+        "sound_url": "sesler\\لا محالة.mp3"
+    },
+    "ثُمَّ": {
+        "turkish_meaning": "Sonra",
+        "sound_url": "sesler\\ثم.mp3"
+    },
+    "نَهَي": {
+        "turkish_meaning": "Nehyetmek",
+        "sound_url": "sesler\\نهي.mp3"
+    },
+    "تَرْوِيح": {
+        "turkish_meaning": "Dinlenme",
+        "sound_url": "sesler\\ترويح.mp3"
+    },
+    "اَفَقَ": {
+        "turkish_meaning": "Ayılmak",
+        "sound_url": "sesler\\افق.mp3"
+    },
+    "أُغَيِّر": {
+        "turkish_meaning": "Değiştirmek",
+        "sound_url": "sesler\\أغير.mp3"
+    },
+    "غَابَ": {
+        "turkish_meaning": "Kaybolmak",
+        "sound_url": "sesler\\غاب.mp3"
+    },
+    "رِيف": {
+        "turkish_meaning": "Kırsal",
+        "sound_url": "sesler\\ريف.mp3"
+    },
+    "رَوَّحَ": {
+        "turkish_meaning": "Dinlendirmek",
+        "sound_url": "sesler\\روح.mp3"
+    },
+    "اَسْتَلْقَي": {
+        "turkish_meaning": "Uzanmak",
+        "sound_url": "sesler\\استلقي.mp3"
+    },
+    "مُتَطَرِّف": {
+        "turkish_meaning": "Aşırı",
+        "sound_url": "sesler\\متطرف.mp3"
+    },
+    "أَنْشِطَة": {
+        "turkish_meaning": "Aktivite",
+        "sound_url": "sesler\\أنشطة.mp3"
+    },
+    "عَامِل": {
+        "turkish_meaning": "İşçi",
+        "sound_url": "sesler\\عامل.mp3"
+    },
+    "قَضَاءَ": {
+        "turkish_meaning": "Geçirmek",
+        "sound_url": "sesler\\قضاء.mp3"
+    },
+    "صُوَرٌ": {
+        "turkish_meaning": "Çeşitler",
+        "sound_url": "sesler\\صور.mp3"
+    },
+    "مَتَاحِف": {
+        "turkish_meaning": "Müzaler",
+        "sound_url": "sesler\\متاحف.mp3"
+    },
+    "مُتْعَة": {
+        "turkish_meaning": "Yarar",
+        "sound_url": "sesler\\متعة.mp3"
+    },
+    "رِمَايَة": {
+        "turkish_meaning": "Atıcılık",
+        "sound_url": "sesler\\رماية.mp3"
+    },
+    "خَيل": {
+        "turkish_meaning": "At",
+        "sound_url": "sesler\\خيل.mp3"
+    },
+    "رُكُوب": {
+        "turkish_meaning": "Binmek",
+        "sound_url": "sesler\\ركوب.mp3"
+    },
+    "اَبْوَاب": {
+        "turkish_meaning": "Kapılar",
+        "sound_url": "sesler\\ابواب.mp3"
+    },
+    "يَا لَهَا": {
+        "turkish_meaning": "Büyük şaşkınlık ne?",
+        "sound_url": "sesler\\يا لها.mp3"
+    },
+    "اَرَاءَ": {
+        "turkish_meaning": "Görüşler",
+        "sound_url": "sesler\\اراء.mp3"
+    },
+    "مَصِيف": {
+        "turkish_meaning": "Dinlenme köyü",
+        "sound_url": "sesler\\مصيف.mp3"
+    },
+    "بَرَامِج": {
+        "turkish_meaning": "Programlar",
+        "sound_url": "sesler\\برامج.mp3"
+    },
+    "في الوقت نفس": {
+        "turkish_meaning": "Aynı anda",
+        "sound_url": "sesler\\في الوقت نفس.mp3"
+    },
+    "بَدَاَ": {
+        "turkish_meaning": "Başlamak",
+        "sound_url": "sesler\\بدا.mp3"
+    },
+    "يُعِدُّون": {
+        "turkish_meaning": "Hazırlamak",
+        "sound_url": "sesler\\يعدون.mp3"
+    },
+    "غَابَة": {
+        "turkish_meaning": "Orman",
+        "sound_url": "sesler\\غابة.mp3"
+    },
+    "يَمْشُون": {
+        "turkish_meaning": "Yürümek",
+        "sound_url": "sesler\\يمشون.mp3"
+    },
+    "زَوْجِيَّة": {
+        "turkish_meaning": "Evlilik",
+        "sound_url": "sesler\\زوجية.mp3"
+    },
+    "قَلِق": {
+        "turkish_meaning": "Endişeli",
+        "sound_url": "sesler\\قلق.mp3"
+    },
+    "حَسَب وَ نَسَب": {
+        "turkish_meaning": "Asalet ve soy",
+        "sound_url": "sesler\\حسب و نسب.mp3"
+    },
+    "ف": {
+        "turkish_meaning": "O halde, öyleyse",
+        "sound_url": "sesler\\ف.mp3"
+    },
+    "تَرِبَ": {
+        "turkish_meaning": "Bereketlenmek",
+        "sound_url": "sesler\\ترب.mp3"
+    },
+    "تَزَوَّجَ": {
+        "turkish_meaning": "Evlenmek",
+        "sound_url": "sesler\\تزوج.mp3"
+    },
+    "أُسْبُوعُ القَادِم": {
+        "turkish_meaning": "Gelecek hafta",
+        "sound_url": "sesler\\أسبوع القادم.mp3"
+    },
+    "ثَارَ": {
+        "turkish_meaning": "Sare",
+        "sound_url": "sesler\\ثار.mp3"
+    },
+    "طُفُولَة": {
+        "turkish_meaning": "Tufule",
+        "sound_url": "sesler\\طفولة.mp3"
+    },
+    "رَجَعَ": {
+        "turkish_meaning": "Geri dönmek",
+        "sound_url": "sesler\\رجع.mp3"
+    },
+    "مَا ذَا هُنَاك؟": {
+        "turkish_meaning": "Ne oldu?",
+        "sound_url": "sesler\\ما ذا هناك.mp3"
+    },
+    "عَاشَ": {
+        "turkish_meaning": "Yaşamak",
+        "sound_url": "sesler\\عاش.mp3"
+    },
+    "لَا أَدْرِي": {
+        "turkish_meaning": "Bilmiyorum",
+        "sound_url": "sesler\\لا أدري.mp3"
+    },
+    "مُوَدِّب": {
+        "turkish_meaning": "Edepli",
+        "sound_url": "sesler\\مودب.mp3"
+    },
+    "مُطِيع": {
+        "turkish_meaning": "İtaatkar",
+        "sound_url": "sesler\\مطيع.mp3"
+    },
+    "تَغَيَّر": {
+        "turkish_meaning": "Değişmek",
+        "sound_url": "sesler\\تغير.mp3"
+    },
+    "مُهْمِل": {
+        "turkish_meaning": "İhmalkar",
+        "sound_url": "sesler\\مهمل.mp3"
+    },
+    "اَهْتَمَّ بِ": {
+        "turkish_meaning": "Özen göstermek",
+        "sound_url": "sesler\\اهتم ب.mp3"
+    },
+    "عَنِيد": {
+        "turkish_meaning": "İnatçı",
+        "sound_url": "sesler\\عنيد.mp3"
+    },
+    "أَسْهَرُ": {
+        "turkish_meaning": "Sabahlamak",
+        "sound_url": "sesler\\أسهر.mp3"
+    },
+    "قَد": {
+        "turkish_meaning": "Mazide kesinlik, muzari de ihtimal bildirir",
+        "sound_url": "sesler\\قد.mp3"
+    },
+    "تَكَوَّنَ مِن": {
+        "turkish_meaning": "…den oluşmak",
+        "sound_url": "sesler\\تكون من.mp3"
+    },
+    "تَفَاهُم": {
+        "turkish_meaning": "Anlayış",
+        "sound_url": "sesler\\تفاهم.mp3"
+    },
+    "غَادَرَ": {
+        "turkish_meaning": "Ayrılmak",
+        "sound_url": "sesler\\غادر.mp3"
+    },
+    "نَاعِم": {
+        "turkish_meaning": "Uyuyan",
+        "sound_url": "sesler\\ناعم.mp3"
+    },
+    "من ناحية أخري": {
+        "turkish_meaning": "Diğer açıdan",
+        "sound_url": "sesler\\من ناحية أخري.mp3"
+    },
+    "اِعْدَاد": {
+        "turkish_meaning": "Hazırlamak",
+        "sound_url": "sesler\\اعداد.mp3"
+    },
+    "اِخْلَاص": {
+        "turkish_meaning": "Samimiyet",
+        "sound_url": "sesler\\اخلاص.mp3"
+    },
+    "عَاصِمَة": {
+        "turkish_meaning": "Başkent",
+        "sound_url": "sesler\\عاصمة.mp3"
+    },
+    "مَزْرَعَة": {
+        "turkish_meaning": "Tarla, bahçe",
+        "sound_url": "sesler\\مزرعة.mp3"
+    },
+    "زَرْع": {
+        "turkish_meaning": "Ekin",
+        "sound_url": "sesler\\زرع.mp3"
+    },
+    "خَاءِف": {
+        "turkish_meaning": "Korkan",
+        "sound_url": "sesler\\خاءف.mp3"
+    },
+    "أَهْل": {
+        "turkish_meaning": "Akraba, aile",
+        "sound_url": "sesler\\أهل.mp3"
+    },
+    "جِيرَان": {
+        "turkish_meaning": "Komşu",
+        "sound_url": "sesler\\جيران.mp3"
+    },
+    "نَمَط": {
+        "turkish_meaning": "Tarz",
+        "sound_url": "sesler\\نمط.mp3"
+    },
+    "جَرِيمَة": {
+        "turkish_meaning": "Suç",
+        "sound_url": "sesler\\جريمة.mp3"
+    },
+    "رَعَي": {
+        "turkish_meaning": "Rai",
+        "sound_url": "sesler\\رعي.mp3"
+    },
+    "سَاعِق": {
+        "turkish_meaning": "Şoför",
+        "sound_url": "sesler\\ساعق.mp3"
+    },
+    "وَقَعَ": {
+        "turkish_meaning": "Bulunmak",
+        "sound_url": "sesler\\وقع.mp3"
+    },
+    "شَارِع": {
+        "turkish_meaning": "Şari",
+        "sound_url": "sesler\\شارع.mp3"
+    },
+    "اِنْعَطَفَ": {
+        "turkish_meaning": "Dönmek",
+        "sound_url": "sesler\\انعطف.mp3"
+    },
+    "اِسْتَمْتَعَ بِ": {
+        "turkish_meaning": "Keyif almak",
+        "sound_url": "sesler\\استمتع ب.mp3"
+    },
+    "هُدُوء": {
+        "turkish_meaning": "Sakinlik",
+        "sound_url": "sesler\\هدوء.mp3"
+    },
+    "تَطَوُّر": {
+        "turkish_meaning": "Gelişmek",
+        "sound_url": "sesler\\تطور.mp3"
+    },
+    "يَابَان": {
+        "turkish_meaning": "Japonya",
+        "sound_url": "sesler\\يابان.mp3"
+    },
+    "مَقَرُّ": {
+        "turkish_meaning": "Merkez",
+        "sound_url": "sesler\\مقر.mp3"
+    },
+    "مَاَذِن": {
+        "turkish_meaning": "Minareler",
+        "sound_url": "sesler\\ماذن.mp3"
+    },
+    "اِشْتَهَرَ بِ": {
+        "turkish_meaning": "Meşhur olmak",
+        "sound_url": "sesler\\اشتهر ب.mp3"
+    },
+    "نَاطِحَاتُ السِحَاب": {
+        "turkish_meaning": "Gökdelenler",
+        "sound_url": "sesler\\ناطحات السحاب.mp3"
+    },
+    "مُخَدِّرَات": {
+        "turkish_meaning": "Uyuşturucular",
+        "sound_url": "sesler\\مخدرات.mp3"
+    },
+    "تَقْرِير": {
+        "turkish_meaning": "Takrir",
+        "sound_url": "sesler\\تقرير.mp3"
+    },
+    "عَمِيد": {
+        "turkish_meaning": "Amid",
+        "sound_url": "sesler\\عميد.mp3"
+    },
+    "دَرَسَ": {
+        "turkish_meaning": "Deresa",
+        "sound_url": "sesler\\درس.mp3"
+    },
+    "أَفْضَل": {
+        "turkish_meaning": "Daha iyi",
+        "sound_url": "sesler\\أفضل.mp3"
+    },
+    "شَاعَ": {
+        "turkish_meaning": "Yayıldı",
+        "sound_url": "sesler\\شاع.mp3"
+    },
+    "تَعَب": {
+        "turkish_meaning": "Yorgunluk",
+        "sound_url": "sesler\\تعب.mp3"
+    },
+    "تَعْبَان": {
+        "turkish_meaning": "Yorgun",
+        "sound_url": "sesler\\تعبان.mp3"
+    },
+    "عَن طَرِيق": {
+        "turkish_meaning": "Yoluyla",
+        "sound_url": "sesler\\عن طريق.mp3"
+    },
+    "اِبْتَعَدَ": {
+        "turkish_meaning": "Uzaklaşmak",
+        "sound_url": "sesler\\ابتعد.mp3"
+    },
+    "مَرَّة": {
+        "turkish_meaning": "Daha",
+        "sound_url": "sesler\\مرة.mp3"
+    },
+    "فَهَا": {
+        "turkish_meaning": "İşte",
+        "sound_url": "sesler\\فها.mp3"
+    },
+    "تَقَدُّم": {
+        "turkish_meaning": "İlerlemek",
+        "sound_url": "sesler\\تقدم.mp3"
+    },
+    "سِنُون": {
+        "turkish_meaning": "Seneler",
+        "sound_url": "sesler\\سنون.mp3"
+    },
+    "تَخَلُّف": {
+        "turkish_meaning": "Gerileme",
+        "sound_url": "sesler\\تخلف.mp3"
+    },
+    "حَدِيث": {
+        "turkish_meaning": "Modern",
+        "sound_url": "sesler\\حديث.mp3"
+    },
+    "روضة أطفال": {
+        "turkish_meaning": "Anaokulu",
+        "sound_url": "sesler\\روضة أطفال.mp3"
+    },
+    "أَنْهَي": {
+        "turkish_meaning": "Bitirmek",
+        "sound_url": "sesler\\أنهي.mp3"
+    },
+    "تَلَامِيذ": {
+        "turkish_meaning": "Öğrenciler",
+        "sound_url": "sesler\\تلاميذ.mp3"
+    },
+    "تَتَرَاوَحَ": {
+        "turkish_meaning": "Arasında olmak",
+        "sound_url": "sesler\\تتراوح.mp3"
+    },
+    "مَاجِسْتِير": {
+        "turkish_meaning": "Yüksek Lisans",
+        "sound_url": "sesler\\ماجستير.mp3"
+    },
+    "أَهْلِي": {
+        "turkish_meaning": "Özel",
+        "sound_url": "sesler\\أهلي.mp3"
+    },
+    "مِهَن": {
+        "turkish_meaning": "Meslekler",
+        "sound_url": "sesler\\مهن.mp3"
+    },
+    "لَعَلَّ": {
+        "turkish_meaning": "Belki",
+        "sound_url": "sesler\\لعل.mp3"
+    },
+    "مُقَابَلَة": {
+        "turkish_meaning": "Görüşme",
+        "sound_url": "sesler\\مقابلة.mp3"
+    },
+    "مُتَفَاءِل": {
+        "turkish_meaning": "İyimser",
+        "sound_url": "sesler\\متفاءل.mp3"
+    },
+    "خِبْرَة": {
+        "turkish_meaning": "Tecrübe",
+        "sound_url": "sesler\\خبرة.mp3"
+    },
+    "تَخَرَّجَ": {
+        "turkish_meaning": "Teharrece",
+        "sound_url": "sesler\\تخرج.mp3"
+    },
+    "بِطَالَة": {
+        "turkish_meaning": "İşsizlik",
+        "sound_url": "sesler\\بطالة.mp3"
+    },
+    "مُسَاعَدَة": {
+        "turkish_meaning": "Yardım",
+        "sound_url": "sesler\\مساعدة.mp3"
+    },
+    "عَام": {
+        "turkish_meaning": "Sene",
+        "sound_url": "sesler\\عام.mp3"
+    },
+    "كَلَام": {
+        "turkish_meaning": "Söz",
+        "sound_url": "sesler\\كلام.mp3"
+    },
+    "كُنْ": {
+        "turkish_meaning": "OL",
+        "sound_url": "sesler\\كن.mp3"
+    },
+    "مُتْعَب": {
+        "turkish_meaning": "Mut’ab",
+        "sound_url": "sesler\\متعب.mp3"
+    },
+    "مُتْعِب": {
+        "turkish_meaning": "Mut’ib",
+        "sound_url": "sesler\\متعب.mp3"
+    },
+    "فِرَق": {
+        "turkish_meaning": "Firak",
+        "sound_url": "sesler\\فرق.mp3"
+    },
+    "جُزْء": {
+        "turkish_meaning": "Parça",
+        "sound_url": "sesler\\جزء.mp3"
+    },
+    "يودي الي": {
+        "turkish_meaning": "Yüeddi ila",
+        "sound_url": "sesler\\يودي الي.mp3"
+    },
+    "تَفَكُّك": {
+        "turkish_meaning": "Tefekkuk",
+        "sound_url": "sesler\\تفكك.mp3"
+    },
+    "ضِيَاع": {
+        "turkish_meaning": "Diya",
+        "sound_url": "sesler\\ضياع.mp3"
+    },
+    "مَجَال": {
+        "turkish_meaning": "Alan",
+        "sound_url": "sesler\\مجال.mp3"
+    },
+    "مُخَالَطَة": {
+        "turkish_meaning": "Karışmak",
+        "sound_url": "sesler\\مخالطة.mp3"
+    },
+    "اِغْتِرَاب": {
+        "turkish_meaning": "Gurbete çıkma",
+        "sound_url": "sesler\\اغتراب.mp3"
+    },
+    "أَصْحَبَ": {
+        "turkish_meaning": "Sahip olmak",
+        "sound_url": "sesler\\أصحب.mp3"
+    },
+    "غَانِم": {
+        "turkish_meaning": "Zengin",
+        "sound_url": "sesler\\غانم.mp3"
+    },
+    "دُون": {
+        "turkish_meaning": "Dune",
+        "sound_url": "sesler\\دون.mp3"
+    },
+    "مُعْتَمِد": {
+        "turkish_meaning": "Dayanak",
+        "sound_url": "sesler\\معتمد.mp3"
+    },
+    "نِعَم": {
+        "turkish_meaning": "Nimetler",
+        "sound_url": "sesler\\نعم.mp3"
+    },
+    "تَسَوَّل": {
+        "turkish_meaning": "Tesevvele",
+        "sound_url": "sesler\\تسول.mp3"
+    },
+    "قَط": {
+        "turkish_meaning": "Asla",
+        "sound_url": "sesler\\قط.mp3"
+    },
+    "قَصْعَة": {
+        "turkish_meaning": "Kap, çanak",
+        "sound_url": "sesler\\قصعة.mp3"
+    },
+    "اِنَاء": {
+        "turkish_meaning": "Kap, kacak",
+        "sound_url": "sesler\\اناء.mp3"
+    },
+    "حِلْس": {
+        "turkish_meaning": "Yatak",
+        "sound_url": "sesler\\حلس.mp3"
+    },
+    "فِرَاش": {
+        "turkish_meaning": "Yatak",
+        "sound_url": "sesler\\فراش.mp3"
+    },
+    "قَدُّوم": {
+        "turkish_meaning": "Balta",
+        "sound_url": "sesler\\قدوم.mp3"
+    },
+    "عُود": {
+        "turkish_meaning": "Sap",
+        "sound_url": "sesler\\عود.mp3"
+    },
+    "وَحْدِي": {
+        "turkish_meaning": "Kendi başıma",
+        "sound_url": "sesler\\وحدي.mp3"
+    },
+    "نَشْأَة": {
+        "turkish_meaning": "Ortaya çıkmak",
+        "sound_url": "sesler\\نشأة.mp3"
+    },
+    "أَثَّر": {
+        "turkish_meaning": "Essera",
+        "sound_url": "sesler\\أثر.mp3"
+    },
+    "مَا زَالَت": {
+        "turkish_meaning": "Henüz, hala",
+        "sound_url": "sesler\\ما زالت.mp3"
+    },
+    "حَفِظَ": {
+        "turkish_meaning": "Ezberlemek",
+        "sound_url": "sesler\\حفظ.mp3"
+    },
+    "اِزْدَهَرَ": {
+        "turkish_meaning": "Gelişmek, kalkınmak",
+        "sound_url": "sesler\\ازدهر.mp3"
+    },
+    "بُعْد": {
+        "turkish_meaning": "Uzaklaşmak",
+        "sound_url": "sesler\\بعد.mp3"
+    },
+    "جَوَاءِز": {
+        "turkish_meaning": "Ödüller",
+        "sound_url": "sesler\\جواءز.mp3"
+    },
+    "مُنَافَسَة": {
+        "turkish_meaning": "Müsabaka",
+        "sound_url": "sesler\\منافسة.mp3"
+    },
+    "اَسْعَد": {
+        "turkish_meaning": "En mutlu",
+        "sound_url": "sesler\\اسعد.mp3"
+    },
+    "رَفَعَ": {
+        "turkish_meaning": "Yükseltmek",
+        "sound_url": "sesler\\رفع.mp3"
+    },
+    "فَازَ": {
+        "turkish_meaning": "Kazanmak",
+        "sound_url": "sesler\\فاز.mp3"
+    },
+    "مُبْدَعِين": {
+        "turkish_meaning": "Mubdein",
+        "sound_url": "sesler\\مبدعين.mp3"
+    },
+    "صَحَبَ": {
+        "turkish_meaning": "Sahaba",
+        "sound_url": "sesler\\صحب.mp3"
+    },
+    "دِرْعٌ": {
+        "turkish_meaning": "Dir’un",
+        "sound_url": "sesler\\درع.mp3"
+    },
+    "لِجَان": {
+        "turkish_meaning": "Lican",
+        "sound_url": "sesler\\لجان.mp3"
+    },
+    "زُمَلَا": {
+        "turkish_meaning": "Zümela",
+        "sound_url": "sesler\\زملا.mp3"
+    },
+    "بِطَاقَة": {
+        "turkish_meaning": "Bitake",
+        "sound_url": "sesler\\بطاقة.mp3"
+    },
+    "حَفْل": {
+        "turkish_meaning": "Hafl",
+        "sound_url": "sesler\\حفل.mp3"
+    },
+    "مُلَخَّص": {
+        "turkish_meaning": "Özet",
+        "sound_url": "sesler\\ملخص.mp3"
+    },
+    "مَيْدَالِيَّة": {
+        "turkish_meaning": "Madalya",
+        "sound_url": "sesler\\ميدالية.mp3"
+    },
+    "مَظْهَر": {
+        "turkish_meaning": "Görünüş",
+        "sound_url": "sesler\\مظهر.mp3"
+    },
+    "أَشْرَار": {
+        "turkish_meaning": "Kötüler",
+        "sound_url": "sesler\\أشرار.mp3"
+    },
+    "فَوَاءِد": {
+        "turkish_meaning": "Fevaid",
+        "sound_url": "sesler\\فواءد.mp3"
+    },
+    "شَاشَة": {
+        "turkish_meaning": "Ekran",
+        "sound_url": "sesler\\شاشة.mp3"
+    },
+    "بَرِيد": {
+        "turkish_meaning": "Posta",
+        "sound_url": "sesler\\بريد.mp3"
+    },
+    "رَسَاءِل": {
+        "turkish_meaning": "Mesajlar",
+        "sound_url": "sesler\\رساءل.mp3"
+    },
+    "هَاتِف": {
+        "turkish_meaning": "Telefon",
+        "sound_url": "sesler\\هاتف.mp3"
+    },
+    "يا له من أمر عجيب": {
+        "turkish_meaning": "Ne kadar da tuhaf",
+        "sound_url": "sesler\\يا له من أمر عجيب.mp3"
+    },
+    "اِخْتَلَفَ": {
+        "turkish_meaning": "Değişmek",
+        "sound_url": "sesler\\اختلف.mp3"
+    },
+    "سَهْل": {
+        "turkish_meaning": "Kolay",
+        "sound_url": "sesler\\سهل.mp3"
+    },
+    "حُرُوب": {
+        "turkish_meaning": "Harpler, savaşlar",
+        "sound_url": "sesler\\حروب.mp3"
+    },
+    "عَوْن": {
+        "turkish_meaning": "Yardımcı",
+        "sound_url": "sesler\\عون.mp3"
+    },
+    "نَدْوَة": {
+        "turkish_meaning": "Konferans",
+        "sound_url": "sesler\\ندوة.mp3"
+    },
+    "عَوْلَمَة": {
+        "turkish_meaning": "Küreselleşme",
+        "sound_url": "sesler\\عولمة.mp3"
+    },
+    "تَنْمِيَة": {
+        "turkish_meaning": "Kalkınma",
+        "sound_url": "sesler\\تنمية.mp3"
+    },
+    "هَيْمَنَة": {
+        "turkish_meaning": "Hakimiyet, egemenlik",
+        "sound_url": "sesler\\هيمنة.mp3"
+    },
+    "دَارَ": {
+        "turkish_meaning": "Dönmek",
+        "sound_url": "sesler\\دار.mp3"
+    },
+    "نِقَاش": {
+        "turkish_meaning": "Tartışma",
+        "sound_url": "sesler\\نقاش.mp3"
+    },
+    "سَاخِن": {
+        "turkish_meaning": "Sıcak",
+        "sound_url": "sesler\\ساخن.mp3"
+    },
+    "حُضُور": {
+        "turkish_meaning": "Bulunanlar",
+        "sound_url": "sesler\\حضور.mp3"
+    },
+    "مُهَيْمِن": {
+        "turkish_meaning": "Muhaymin",
+        "sound_url": "sesler\\مهيمن.mp3"
+    },
+    "اِسْتَعْمَلَ": {
+        "turkish_meaning": "İstemale",
+        "sound_url": "sesler\\استعمل.mp3"
+    },
+    "تَجَوَّلَ": {
+        "turkish_meaning": "Dolaşmak, gezmek",
+        "sound_url": "sesler\\تجول.mp3"
+    },
+    "أَسْرَع": {
+        "turkish_meaning": "Daha hızlı",
+        "sound_url": "sesler\\أسرع.mp3"
+    },
+    "أَصِحَّاء": {
+        "turkish_meaning": "Sıhhatliler",
+        "sound_url": "sesler\\أصحاء.mp3"
+    },
+    "مَا اَكْثَر": {
+        "turkish_meaning": "Ne kadar da çok",
+        "sound_url": "sesler\\ما اكثر.mp3"
+    },
+    "مَرْضَي": {
+        "turkish_meaning": "Hastalar",
+        "sound_url": "sesler\\مرضي.mp3"
+    },
+    "جَهْل": {
+        "turkish_meaning": "Cehalet",
+        "sound_url": "sesler\\جهل.mp3"
+    },
+    "رَخَاء": {
+        "turkish_meaning": "Rahat",
+        "sound_url": "sesler\\رخاء.mp3"
+    },
+    "بِغَال": {
+        "turkish_meaning": "Katır",
+        "sound_url": "sesler\\بغال.mp3"
+    },
+    "حَمِير": {
+        "turkish_meaning": "Eşek",
+        "sound_url": "sesler\\حمير.mp3"
+    },
+    "شِرَاعِيَّة": {
+        "turkish_meaning": "Şiraiyye",
+        "sound_url": "sesler\\شراعية.mp3"
+    },
+    "مَا اَطْيَب": {
+        "turkish_meaning": "Ne kadar da hoş",
+        "sound_url": "sesler\\ما اطيب.mp3"
+    },
+    "نَظَّافَة": {
+        "turkish_meaning": "Temizlik",
+        "sound_url": "sesler\\نظافة.mp3"
+    },
+    "حَثَّ": {
+        "turkish_meaning": "Teşvik etmek",
+        "sound_url": "sesler\\حث.mp3"
+    },
+    "مَلْبَس": {
+        "turkish_meaning": "Giyim",
+        "sound_url": "sesler\\ملبس.mp3"
+    },
+    "اَوْسَاخ": {
+        "turkish_meaning": "Çöp, kir",
+        "sound_url": "sesler\\اوساخ.mp3"
+    },
+    "رَمَي": {
+        "turkish_meaning": "Atmak",
+        "sound_url": "sesler\\رمي.mp3"
+    },
+    "حَاوِيَات": {
+        "turkish_meaning": "Konteyner",
+        "sound_url": "sesler\\حاويات.mp3"
+    },
+    "طَهَارَة": {
+        "turkish_meaning": "Temizlik",
+        "sound_url": "sesler\\طهارة.mp3"
+    },
+    "بَيءَة": {
+        "turkish_meaning": "Çevre",
+        "sound_url": "sesler\\بيءة.mp3"
+    },
+    "رِجْل": {
+        "turkish_meaning": "Ayak",
+        "sound_url": "sesler\\رجل.mp3"
+    },
+    "أَكْلَات": {
+        "turkish_meaning": "Eklat",
+        "sound_url": "sesler\\أكلات.mp3"
+    },
+    "بَطْن": {
+        "turkish_meaning": "Karın",
+        "sound_url": "sesler\\بطن.mp3"
+    },
+    "تَسَمُّم": {
+        "turkish_meaning": "Zehirli",
+        "sound_url": "sesler\\تسمم.mp3"
+    },
+    "مَطْعَم": {
+        "turkish_meaning": "Lokanta",
+        "sound_url": "sesler\\مطعم.mp3"
+    },
+    "مُتَّسِح": {
+        "turkish_meaning": "Kirli",
+        "sound_url": "sesler\\متسح.mp3"
+    },
+    "قَبِيح": {
+        "turkish_meaning": "Çirkin",
+        "sound_url": "sesler\\قبيح.mp3"
+    },
+    "قَذَارَة": {
+        "turkish_meaning": "Pasak, kir",
+        "sound_url": "sesler\\قذارة.mp3"
+    },
+    "اَنْفَقَ": {
+        "turkish_meaning": "Harcamak",
+        "sound_url": "sesler\\انفق.mp3"
+    },
+    "جَابَ": {
+        "turkish_meaning": "Dolaşmak",
+        "sound_url": "sesler\\جاب.mp3"
+    },
+    "نُفَايَات": {
+        "turkish_meaning": "Çöp kutusu",
+        "sound_url": "sesler\\نفايات.mp3"
+    },
+    "أَرْتَدِي": {
+        "turkish_meaning": "Giyinmek",
+        "sound_url": "sesler\\أرتدي.mp3"
+    },
+    "عَانَ": {
+        "turkish_meaning": "Sıkıntı çekmek",
+        "sound_url": "sesler\\عان.mp3"
+    },
+    "بَعَثَ": {
+        "turkish_meaning": "Göndermek",
+        "sound_url": "sesler\\بعث.mp3"
+    },
+    "مُبَاشَرَة": {
+        "turkish_meaning": "Doğrudan",
+        "sound_url": "sesler\\مباشرة.mp3"
+    },
+    "عُمَّال": {
+        "turkish_meaning": "İşçiler",
+        "sound_url": "sesler\\عمال.mp3"
+    },
+    "ضَايَقَ": {
+        "turkish_meaning": "Rahatsız etmek",
+        "sound_url": "sesler\\ضايق.mp3"
+    },
+    "اُرَحِّبَ": {
+        "turkish_meaning": "Memnun olmak",
+        "sound_url": "sesler\\ارحب.mp3"
+    },
+    "أَتَي بِ": {
+        "turkish_meaning": "Getirmek",
+        "sound_url": "sesler\\أتي ب.mp3"
+    },
+    "أَعْرَاق": {
+        "turkish_meaning": "A’rak",
+        "sound_url": "sesler\\أعراق.mp3"
+    },
+    "أَلْوَان": {
+        "turkish_meaning": "Renkler",
+        "sound_url": "sesler\\ألوان.mp3"
+    },
+    "مُعَادِين": {
+        "turkish_meaning": "Karşıt",
+        "sound_url": "sesler\\معادين.mp3"
+    },
+    "مُحَايِد": {
+        "turkish_meaning": "Tarafsız",
+        "sound_url": "sesler\\محايد.mp3"
+    },
+    "رَاتِب": {
+        "turkish_meaning": "Maaş",
+        "sound_url": "sesler\\راتب.mp3"
+    },
+    "اِنْقَادَ": {
+        "turkish_meaning": "Boyun eğmek",
+        "sound_url": "sesler\\انقاد.mp3"
+    },
+    "اَسْلَمَ": {
+        "turkish_meaning": "Müslüman olmak",
+        "sound_url": "sesler\\اسلم.mp3"
+    },
+    "جَاءَ بِ": {
+        "turkish_meaning": "Cae bi",
+        "sound_url": "sesler\\جاء ب.mp3"
+    },
+    "عَدِيد": {
+        "turkish_meaning": "Çok",
+        "sound_url": "sesler\\عديد.mp3"
+    },
+    "عَمِيق": {
+        "turkish_meaning": "Derin",
+        "sound_url": "sesler\\عميق.mp3"
+    },
+    "سَوَاسِيَة": {
+        "turkish_meaning": "Sevasiye",
+        "sound_url": "sesler\\سواسية.mp3"
+    },
+    "سَنَام": {
+        "turkish_meaning": "Tümsek, tepe",
+        "sound_url": "sesler\\سنام.mp3"
+    },
+    "صَوْم": {
+        "turkish_meaning": "Oruç",
+        "sound_url": "sesler\\صوم.mp3"
+    },
+    "مُرَاهَقَة": {
+        "turkish_meaning": "Ergenlik",
+        "sound_url": "sesler\\مراهقة.mp3"
+    },
+    "مَتَي شَاءَ": {
+        "turkish_meaning": "Dilediği zaman",
+        "sound_url": "sesler\\متي شاء.mp3"
+    },
+    "خَال": {
+        "turkish_meaning": "Dayı",
+        "sound_url": "sesler\\خال.mp3"
+    },
+    "أَتَمَّ": {
+        "turkish_meaning": "Tamamlamak",
+        "sound_url": "sesler\\أتم.mp3"
+    },
+    "حَفِيد": {
+        "turkish_meaning": "Torun",
+        "sound_url": "sesler\\حفيد.mp3"
+    },
+    "سُعَدَاء": {
+        "turkish_meaning": "Mutlular",
+        "sound_url": "sesler\\سعداء.mp3"
+    },
+    "أَغْلَي": {
+        "turkish_meaning": "En değerli",
+        "sound_url": "sesler\\أغلي.mp3"
+    },
+    "عَطَاء": {
+        "turkish_meaning": "Verimlilik",
+        "sound_url": "sesler\\عطاء.mp3"
+    },
+    "جَادّ": {
+        "turkish_meaning": "Ciddi",
+        "sound_url": "sesler\\جاد.mp3"
+    },
+    "أَهْمَلَ": {
+        "turkish_meaning": "İhmal etmek",
+        "sound_url": "sesler\\أهمل.mp3"
+    },
+    "فَرْضَ": {
+        "turkish_meaning": "Dayatmak",
+        "sound_url": "sesler\\فرض.mp3"
+    },
+    "تَمْزِيق": {
+        "turkish_meaning": "Parçalama",
+        "sound_url": "sesler\\تمزيق.mp3"
+    },
+    "تُرَاث": {
+        "turkish_meaning": "Miras",
+        "sound_url": "sesler\\تراث.mp3"
+    },
+    "زَادَ": {
+        "turkish_meaning": "Artmak",
+        "sound_url": "sesler\\زاد.mp3"
+    },
+    "هَجَرَ": {
+        "turkish_meaning": "Ayrılmak",
+        "sound_url": "sesler\\هجر.mp3"
+    },
+    "اِغَاثَة": {
+        "turkish_meaning": "Yardım",
+        "sound_url": "sesler\\اغاثة.mp3"
+    },
+    "مَيِّزَات": {
+        "turkish_meaning": "Özellikler",
+        "sound_url": "sesler\\ميزات.mp3"
+    },
+    "طَاءِع": {
+        "turkish_meaning": "İtaat ederek",
+        "sound_url": "sesler\\طاءع.mp3"
+    },
+    "مَزَايَا": {
+        "turkish_meaning": "Meziyetler",
+        "sound_url": "sesler\\مزايا.mp3"
+    },
+    "مَسَاحَة": {
+        "turkish_meaning": "Alan",
+        "sound_url": "sesler\\مساحة.mp3"
+    },
+    "مَهْمُوم": {
+        "turkish_meaning": "Endişeli",
+        "sound_url": "sesler\\مهموم.mp3"
+    },
+    "دُوَل": {
+        "turkish_meaning": "Devletler",
+        "sound_url": "sesler\\دول.mp3"
+    },
+    "اِخْتِصَار": {
+        "turkish_meaning": "Özet",
+        "sound_url": "sesler\\اختصار.mp3"
+    },
+    "نَفْط": {
+        "turkish_meaning": "Petrol",
+        "sound_url": "sesler\\نفط.mp3"
+    },
+    "فُول سُودَانِي": {
+        "turkish_meaning": "Yer fıstığı",
+        "sound_url": "sesler\\فول سوداني.mp3"
+    },
+    "مَطَّاط": {
+        "turkish_meaning": "Kauçuk",
+        "sound_url": "sesler\\مطاط.mp3"
+    },
+    "مَصْرِف": {
+        "turkish_meaning": "Banka",
+        "sound_url": "sesler\\مصرف.mp3"
+    },
+    "جُنَاة": {
+        "turkish_meaning": "Failler",
+        "sound_url": "sesler\\جناة.mp3"
+    },
+    "عَدْوَي": {
+        "turkish_meaning": "Salgın",
+        "sound_url": "sesler\\عدوي.mp3"
+    },
+    "مُصَفَّحَة": {
+        "turkish_meaning": "Zırhlı",
+        "sound_url": "sesler\\مصفحة.mp3"
+    },
+    "خَطَفَ": {
+        "turkish_meaning": "Kaçırmak",
+        "sound_url": "sesler\\خطف.mp3"
+    },
+    "اِقْلَاع": {
+        "turkish_meaning": "Uçağın kalkışı",
+        "sound_url": "sesler\\اقلاع.mp3"
+    },
+    "مَلَّاح": {
+        "turkish_meaning": "Mürettabat",
+        "sound_url": "sesler\\ملاح.mp3"
+    },
+    "ذَاقَ": {
+        "turkish_meaning": "Tatmak",
+        "sound_url": "sesler\\ذاق.mp3"
+    },
+    "تَحْقِيق": {
+        "turkish_meaning": "Sağlamak",
+        "sound_url": "sesler\\تحقيق.mp3"
+    },
+    "عُصْبَة": {
+        "turkish_meaning": "Topluluk",
+        "sound_url": "sesler\\عصبة.mp3"
+    },
+    "بَال": {
+        "turkish_meaning": "Bal",
+        "sound_url": "sesler\\بال.mp3"
+    },
+    "رَادِعَ": {
+        "turkish_meaning": "Caydırıcı",
+        "sound_url": "sesler\\رادع.mp3"
+    },
+    "اِرْتَكَبَ": {
+        "turkish_meaning": "Suç işlemek",
+        "sound_url": "sesler\\ارتكب.mp3"
+    },
+    "جُوع": {
+        "turkish_meaning": "Açlık",
+        "sound_url": "sesler\\جوع.mp3"
+    },
+    "مُجْتَمِع": {
+        "turkish_meaning": "Toplum",
+        "sound_url": "sesler\\مجتمع.mp3"
+    },
+    "سَرَقَ": {
+        "turkish_meaning": "Çalmak",
+        "sound_url": "sesler\\سرق.mp3"
+    },
+    "طَلَّقَ": {
+        "turkish_meaning": "Boşamak",
+        "sound_url": "sesler\\طلق.mp3"
+    },
+    "عُنْف": {
+        "turkish_meaning": "Şiddet",
+        "sound_url": "sesler\\عنف.mp3"
+    },
+    "تَوَفَّرَ": {
+        "turkish_meaning": "Sağlamak",
+        "sound_url": "sesler\\توفر.mp3"
+    },
+    "قُوت": {
+        "turkish_meaning": "Kut",
+        "sound_url": "sesler\\قوت.mp3"
+    },
+    "حِيزَ": {
+        "turkish_meaning": "Toplanmak",
+        "sound_url": "sesler\\حيز.mp3"
+    },
+    "حَزَافِير": {
+        "turkish_meaning": "Bütünüyle",
+        "sound_url": "sesler\\حزافير.mp3"
+    },
+    "مَشَارِيع": {
+        "turkish_meaning": "Projeler",
+        "sound_url": "sesler\\مشاريع.mp3"
+    },
+    "اِنْخَفَضَ": {
+        "turkish_meaning": "Azalmak, gerilemek",
+        "sound_url": "sesler\\انخفض.mp3"
+    },
+    "أَرَق": {
+        "turkish_meaning": "Uykusuzluk",
+        "sound_url": "sesler\\أرق.mp3"
+    },
+    "مُصَاب": {
+        "turkish_meaning": "Hastalığa yakalanmış",
+        "sound_url": "sesler\\مصاب.mp3"
+    },
+    "سَرَطَان": {
+        "turkish_meaning": "Kanser",
+        "sound_url": "sesler\\سرطان.mp3"
+    },
+    "حَيَّرَ": {
+        "turkish_meaning": "Hayyera",
+        "sound_url": "sesler\\حير.mp3"
+    },
+    "عُمْدَة": {
+        "turkish_meaning": "Belediye başkanı",
+        "sound_url": "sesler\\عمدة.mp3"
+    },
+    "خَفْض": {
+        "turkish_meaning": "Azaltmak",
+        "sound_url": "sesler\\خفض.mp3"
+    },
+    "تُرْبَة": {
+        "turkish_meaning": "Toprak",
+        "sound_url": "sesler\\تربة.mp3"
+    },
+    "اِحْرَاق": {
+        "turkish_meaning": "Yakma",
+        "sound_url": "sesler\\احراق.mp3"
+    },
+    "تَقْلِيل": {
+        "turkish_meaning": "Azaltmak",
+        "sound_url": "sesler\\تقليل.mp3"
+    },
+    "جَوْلَة": {
+        "turkish_meaning": "Gezi",
+        "sound_url": "sesler\\جولة.mp3"
+    },
+    "اِيقَاف": {
+        "turkish_meaning": "İkaf",
+        "sound_url": "sesler\\ايقاف.mp3"
+    },
+    "غَرْس": {
+        "turkish_meaning": "Dikmek",
+        "sound_url": "sesler\\غرس.mp3"
+    },
+    "فَسِيلَة": {
+        "turkish_meaning": "Fidan",
+        "sound_url": "sesler\\فسيلة.mp3"
+    },
+    "تَضَاعَفَ": {
+        "turkish_meaning": "Artmak",
+        "sound_url": "sesler\\تضاعف.mp3"
+    },
+    "مِزْيَاع": {
+        "turkish_meaning": "Radyo",
+        "sound_url": "sesler\\مزياع.mp3"
+    },
+    "اِضَاءَة": {
+        "turkish_meaning": "İdae",
+        "sound_url": "sesler\\اضاءة.mp3"
+    },
+    "طُول": {
+        "turkish_meaning": "Boyunca",
+        "sound_url": "sesler\\طول.mp3"
+    },
+    "تَبْذِير": {
+        "turkish_meaning": "İsraf",
+        "sound_url": "sesler\\تبذير.mp3"
+    },
+    "تَصَحُّر": {
+        "turkish_meaning": "Çölleşme",
+        "sound_url": "sesler\\تصحر.mp3"
+    },
+    "بَدَلاَ عَن": {
+        "turkish_meaning": "…ın yerine",
+        "sound_url": "sesler\\بدلا عن.mp3"
+    },
+    "شَرْيَان": {
+        "turkish_meaning": "Damar",
+        "sound_url": "sesler\\شريان.mp3"
+    },
+    "بَدِيل": {
+        "turkish_meaning": "Alternatif",
+        "sound_url": "sesler\\بديل.mp3"
+    },
+    "بَرْمِيل": {
+        "turkish_meaning": "Varil",
+        "sound_url": "sesler\\برميل.mp3"
+    },
+    "مِن جَدِيد": {
+        "turkish_meaning": "Yeniden",
+        "sound_url": "sesler\\من جديد.mp3"
+    },
+    "مَحَطَّات": {
+        "turkish_meaning": "İstasyonlar",
+        "sound_url": "sesler\\محطات.mp3"
+    },
+    "أَثَارَ": {
+        "turkish_meaning": "Artırmak",
+        "sound_url": "sesler\\أثار.mp3"
+    },
+    "دُيُون": {
+        "turkish_meaning": "Borçlar",
+        "sound_url": "sesler\\ديون.mp3"
+    },
+    "طَبْخ": {
+        "turkish_meaning": "Pişirmek",
+        "sound_url": "sesler\\طبخ.mp3"
+    },
+    "خَلَايَا": {
+        "turkish_meaning": "Hücreler",
+        "sound_url": "sesler\\خلايا.mp3"
+    },
+    "أَلْوَاح": {
+        "turkish_meaning": "Levhalar",
+        "sound_url": "sesler\\ألواح.mp3"
+    },
+    "اِحْتَجَبَ": {
+        "turkish_meaning": "Gizlenmek",
+        "sound_url": "sesler\\احتجب.mp3"
+    },
+    "اِسْتِغْلَال": {
+        "turkish_meaning": "Faydalanma",
+        "sound_url": "sesler\\استغلال.mp3"
+    },
+    "نَاسُوخ": {
+        "turkish_meaning": "Faks",
+        "sound_url": "sesler\\ناسوخ.mp3"
+    },
+    "اِمْتِدَاد": {
+        "turkish_meaning": "Yayılmak",
+        "sound_url": "sesler\\امتداد.mp3"
+    },
+    "خَالِد": {
+        "turkish_meaning": "Ebedi",
+        "sound_url": "sesler\\خالد.mp3"
+    },
+    "مُنَجَّماَ": {
+        "turkish_meaning": "Bir astrolog",
+        "sound_url": "sesler\\منجما.mp3"
+    },
+    "اِنْشِقَاق": {
+        "turkish_meaning": "Yarılma",
+        "sound_url": "sesler\\انشقاق.mp3"
+    },
+    "نَاقَة": {
+        "turkish_meaning": "Deve",
+        "sound_url": "sesler\\ناقة.mp3"
+    },
+    "ظَهِير": {
+        "turkish_meaning": "Sırt, destek",
+        "sound_url": "sesler\\ظهير.mp3"
+    },
+    "دَلَّ عَلَي": {
+        "turkish_meaning": "İşaret etmek",
+        "sound_url": "sesler\\دل علي.mp3"
+    },
+    "عَهْد": {
+        "turkish_meaning": "Dönem, devir",
+        "sound_url": "sesler\\عهد.mp3"
+    },
+    "مَوْقِعَة": {
+        "turkish_meaning": "Olay",
+        "sound_url": "sesler\\موقعة.mp3"
+    },
+    "كَادَ": {
+        "turkish_meaning": "Neredeyse",
+        "sound_url": "sesler\\كاد.mp3"
+    },
+    "سَمِيك": {
+        "turkish_meaning": "Kalın",
+        "sound_url": "sesler\\سميك.mp3"
+    },
+    "عَظْم": {
+        "turkish_meaning": "Kemik",
+        "sound_url": "sesler\\عظم.mp3"
+    },
+    "اِقْتَرَحَ عَلَي": {
+        "turkish_meaning": "Önermek",
+        "sound_url": "sesler\\اقترح علي.mp3"
+    },
+    "نَاشِي": {
+        "turkish_meaning": "Genç",
+        "sound_url": "sesler\\ناشي.mp3"
+    },
+    "بَزَغَ": {
+        "turkish_meaning": "Doğmak",
+        "sound_url": "sesler\\بزغ.mp3"
+    },
+    "قَضَاء حَاجَة": {
+        "turkish_meaning": "Tuvalet yapmak",
+        "sound_url": "sesler\\قضاء حاجة.mp3"
+    },
+    "بَوْل": {
+        "turkish_meaning": "İdrar",
+        "sound_url": "sesler\\بول.mp3"
+    },
+    "فَز": {
+        "turkish_meaning": "Ferd",
+        "sound_url": "sesler\\فز.mp3"
+    },
+    "أَخْيَار": {
+        "turkish_meaning": "Hayırlılar",
+        "sound_url": "sesler\\أخيار.mp3"
+    },
+    "شَجَار": {
+        "turkish_meaning": "Husumet",
+        "sound_url": "sesler\\شجار.mp3"
+    },
+    "رَاسِخ": {
+        "turkish_meaning": "Güçlü",
+        "sound_url": "sesler\\راسخ.mp3"
+    },
+    "اِسْتَقَرَّ": {
+        "turkish_meaning": "Yerleşmek",
+        "sound_url": "sesler\\استقر.mp3"
+    },
+    "ذَابَ": {
+        "turkish_meaning": "Erimek",
+        "sound_url": "sesler\\ذاب.mp3"
+    },
+    "قَوَامَة": {
+        "turkish_meaning": "Reislik",
+        "sound_url": "sesler\\قوامة.mp3"
+    },
+    "اِنْدِمَاج": {
+        "turkish_meaning": "Uyum",
+        "sound_url": "sesler\\اندماج.mp3"
+    },
+    "أَحْرَار": {
+        "turkish_meaning": "Hürler",
+        "sound_url": "sesler\\أحرار.mp3"
+    },
+    "اِسْتَغَلَّ": {
+        "turkish_meaning": "Sömürmek, kullanmak",
+        "sound_url": "sesler\\استغل.mp3"
+    },
+    "تَكَيُّف": {
+        "turkish_meaning": "Uyum",
+        "sound_url": "sesler\\تكيف.mp3"
+    },
+    "طَلِيع": {
+        "turkish_meaning": "Baş, ön",
+        "sound_url": "sesler\\طليع.mp3"
+    },
+    "كِفَاح": {
+        "turkish_meaning": "Mücadele",
+        "sound_url": "sesler\\كفاح.mp3"
+    },
+    "اِضْطِهَاد": {
+        "turkish_meaning": "Baskı",
+        "sound_url": "sesler\\اضطهاد.mp3"
+    },
+    "تَمْيِيز": {
+        "turkish_meaning": "Ayrımcılık",
+        "sound_url": "sesler\\تمييز.mp3"
+    },
+    "أَيَّدَ": {
+        "turkish_meaning": "Desteklemek",
+        "sound_url": "sesler\\أيد.mp3"
+    },
+    "نَضَّرَ": {
+        "turkish_meaning": "Yüzünü ağartmak",
+        "sound_url": "sesler\\نضر.mp3"
+    },
+    "أَوْعَي": {
+        "turkish_meaning": "Daha anlayışlı",
+        "sound_url": "sesler\\أوعي.mp3"
+    },
+    "نَظِير": {
+        "turkish_meaning": "Benzer",
+        "sound_url": "sesler\\نظير.mp3"
+    },
+    "مَنْهَج": {
+        "turkish_meaning": "Düzen, sistem",
+        "sound_url": "sesler\\منهج.mp3"
+    },
+    "هَرَم": {
+        "turkish_meaning": "Yaşlılık",
+        "sound_url": "sesler\\هرم.mp3"
+    },
+    "مُجَالَسَة": {
+        "turkish_meaning": "Alaka, bağ",
+        "sound_url": "sesler\\مجالسة.mp3"
+    },
+    "يَنْتَزِعُ": {
+        "turkish_meaning": "Yırtmak",
+        "sound_url": "sesler\\ينتزع.mp3"
+    },
+    "تَقْلِيب": {
+        "turkish_meaning": "Çevirmek",
+        "sound_url": "sesler\\تقليب.mp3"
+    },
+    "مُرُونَة": {
+        "turkish_meaning": "Esneklik",
+        "sound_url": "sesler\\مرونة.mp3"
+    },
+    "مُسَلِّيَة": {
+        "turkish_meaning": "Eğlendiren",
+        "sound_url": "sesler\\مسلية.mp3"
+    },
+    "قِصَص": {
+        "turkish_meaning": "Kıssalar, hikayeler",
+        "sound_url": "sesler\\قصص.mp3"
+    },
+    "مُعَبِّر": {
+        "turkish_meaning": "Etkileyici",
+        "sound_url": "sesler\\معبر.mp3"
+    },
+    "يَظَلُّون": {
+        "turkish_meaning": "Kalmak",
+        "sound_url": "sesler\\يظلون.mp3"
+    },
+    "صَمَّمَ": {
+        "turkish_meaning": "Tasarlamak",
+        "sound_url": "sesler\\صمم.mp3"
+    },
+    "مَرْمُوق": {
+        "turkish_meaning": "İtibarlı, seçkin",
+        "sound_url": "sesler\\مرموق.mp3"
+    },
+    "اِفْتِقَار": {
+        "turkish_meaning": "Fakirlik",
+        "sound_url": "sesler\\افتقار.mp3"
+    },
+    "نَفَدَ": {
+        "turkish_meaning": "Tükenmek",
+        "sound_url": "sesler\\نفد.mp3"
+    },
+    "اِنْعِدَام": {
+        "turkish_meaning": "Olmaması",
+        "sound_url": "sesler\\انعدام.mp3"
+    },
+    "تَقْصِير": {
+        "turkish_meaning": "Kusur",
+        "sound_url": "sesler\\تقصير.mp3"
+    },
+    "تَضْحِيَة": {
+        "turkish_meaning": "Fedakarlık",
+        "sound_url": "sesler\\تضحية.mp3"
+    },
+    "مَجَاعَة": {
+        "turkish_meaning": "Açlık",
+        "sound_url": "sesler\\مجاعة.mp3"
+    },
+    "تَخَلَّي": {
+        "turkish_meaning": "Vazgeçmek",
+        "sound_url": "sesler\\تخلي.mp3"
+    },
+    "تَرَاجُع": {
+        "turkish_meaning": "Gerilemek",
+        "sound_url": "sesler\\تراجع.mp3"
+    },
+    "بَل": {
+        "turkish_meaning": "Belki de",
+        "sound_url": "sesler\\بل.mp3"
+    },
+    "نَهَضَ": {
+        "turkish_meaning": "Kalkınmak",
+        "sound_url": "sesler\\نهض.mp3"
+    },
+    "اِنْفِعَال": {
+        "turkish_meaning": "Heyecanlanma",
+        "sound_url": "sesler\\انفعال.mp3"
+    },
+    "نُعَاس": {
+        "turkish_meaning": "Uyuklama",
+        "sound_url": "sesler\\نعاس.mp3"
+    },
+    "فَاتِر": {
+        "turkish_meaning": "Ilık",
+        "sound_url": "sesler\\فاتر.mp3"
+    },
+    "لَبَن": {
+        "turkish_meaning": "Ayran",
+        "sound_url": "sesler\\لبن.mp3"
+    },
+    "شَخِير": {
+        "turkish_meaning": "Horlama",
+        "sound_url": "sesler\\شخير.mp3"
+    },
+    "مِن وَقْتِ لَاَخَر": {
+        "turkish_meaning": "Zaman zaman",
+        "sound_url": "sesler\\من وقت لاخر.mp3"
+    },
+    "تَدَحْرَجَ": {
+        "turkish_meaning": "Yuvarlanmak",
+        "sound_url": "sesler\\تدحرج.mp3"
+    },
+    "اِضْطَدَمَ بِ": {
+        "turkish_meaning": "Çarpmak",
+        "sound_url": "sesler\\اضطدم ب.mp3"
+    },
+    "جِدَار": {
+        "turkish_meaning": "Duvar",
+        "sound_url": "sesler\\جدار.mp3"
+    },
+    "نَوَادِر": {
+        "turkish_meaning": "Nükteler, fıkralar",
+        "sound_url": "sesler\\نوادر.mp3"
+    },
+    "طُرَف": {
+        "turkish_meaning": "Nükteler fıkralar",
+        "sound_url": "sesler\\طرف.mp3"
+    },
+    "طُرْفَة": {
+        "turkish_meaning": "Nükte, fıkra",
+        "sound_url": "sesler\\طرفة.mp3"
+    },
+    "طُفَيْلِي": {
+        "turkish_meaning": "Çocukça",
+        "sound_url": "sesler\\طفيلي.mp3"
+    },
+    "وَلِيمَة": {
+        "turkish_meaning": "Ziyafet",
+        "sound_url": "sesler\\وليمة.mp3"
+    },
+    "مَدِيح": {
+        "turkish_meaning": "Övgü",
+        "sound_url": "sesler\\مديح.mp3"
+    },
+    "لَءيِم": {
+        "turkish_meaning": "Kötü kimse",
+        "sound_url": "sesler\\لءيم.mp3"
+    },
+    "سُمٌّ": {
+        "turkish_meaning": "Zehir",
+        "sound_url": "sesler\\سم.mp3"
+    },
+    "جَوَاد": {
+        "turkish_meaning": "At",
+        "sound_url": "sesler\\جواد.mp3"
+    },
+    "سَحَابَة": {
+        "turkish_meaning": "Bulut",
+        "sound_url": "sesler\\سحابة.mp3"
+    },
+    "بَلَاهَة": {
+        "turkish_meaning": "Ahmaklık",
+        "sound_url": "sesler\\بلاهة.mp3"
+    },
+    "اِسْتِحْيَاء": {
+        "turkish_meaning": "Utanmak",
+        "sound_url": "sesler\\استحياء.mp3"
+    },
+    "حَشَا": {
+        "turkish_meaning": "Tıkamak",
+        "sound_url": "sesler\\حشا.mp3"
+    },
+    "وَسِخ": {
+        "turkish_meaning": "Kirli",
+        "sound_url": "sesler\\وسخ.mp3"
+    },
+    "هَبَّت": {
+        "turkish_meaning": "Esti",
+        "sound_url": "sesler\\هبت.mp3"
+    },
+    "هَزَّ": {
+        "turkish_meaning": "Sallamak",
+        "sound_url": "sesler\\هز.mp3"
+    },
+    "أَيْقَظَ": {
+        "turkish_meaning": "Uyandırmak",
+        "sound_url": "sesler\\أيقظ.mp3"
+    },
+    "لِصٌّ": {
+        "turkish_meaning": "Hırsız",
+        "sound_url": "sesler\\لص.mp3"
+    },
+    "بُنْدُقِيَّة": {
+        "turkish_meaning": "Tüfek",
+        "sound_url": "sesler\\بندقية.mp3"
+    },
+    "يَتَمَايَلُ": {
+        "turkish_meaning": "Eğilmek",
+        "sound_url": "sesler\\يتمايل.mp3"
+    },
+    "ضَخْم": {
+        "turkish_meaning": "İri",
+        "sound_url": "sesler\\ضخم.mp3"
+    },
+    "خَرَقَ": {
+        "turkish_meaning": "Delmek",
+        "sound_url": "sesler\\خرق.mp3"
+    },
+    "تَمْحِيص": {
+        "turkish_meaning": "Kapsamlı inceleme",
+        "sound_url": "sesler\\تمحيص.mp3"
+    },
+    "نَظَري": {
+        "turkish_meaning": "Teorik",
+        "sound_url": "sesler\\نظري.mp3"
+    },
+    "اِسْتَشْفَعَ": {
+        "turkish_meaning": "Aracı kılmak",
+        "sound_url": "sesler\\استشفع.mp3"
+    },
+    "دِرَّة": {
+        "turkish_meaning": "Sopa",
+        "sound_url": "sesler\\درة.mp3"
+    },
+    "أَبَي": {
+        "turkish_meaning": "Reddetmek",
+        "sound_url": "sesler\\أبي.mp3"
+    },
+    "وَضِيع": {
+        "turkish_meaning": "Değersiz",
+        "sound_url": "sesler\\وضيع.mp3"
+    },
+    "أَشْفَقَ عَلَي": {
+        "turkish_meaning": "Acımak",
+        "sound_url": "sesler\\أشفق علي.mp3"
+    },
+    "تَأْنِيب": {
+        "turkish_meaning": "Azarlamak",
+        "sound_url": "sesler\\تأنيب.mp3"
+    },
+    "حَلَفَ": {
+        "turkish_meaning": "Yemin etti",
+        "sound_url": "sesler\\حلف.mp3"
+    },
+    "سَوْط": {
+        "turkish_meaning": "Kamçı",
+        "sound_url": "sesler\\سوط.mp3"
+    },
+    "سِيَادَة": {
+        "turkish_meaning": "Temel",
+        "sound_url": "sesler\\سيادة.mp3"
+    },
+    "قَسْوَة": {
+        "turkish_meaning": "Zulüm",
+        "sound_url": "sesler\\قسوة.mp3"
+    },
+    "سَخَّرَ": {
+        "turkish_meaning": "Boyun eğdirmek",
+        "sound_url": "sesler\\سخر.mp3"
+    },
+    "دِفّءٌ": {
+        "turkish_meaning": "Isınma",
+        "sound_url": "sesler\\دفء.mp3"
+    },
+    "أِرْهَاق": {
+        "turkish_meaning": "Yormak",
+        "sound_url": "sesler\\أرهاق.mp3"
+    },
+    "ذَرَفَ": {
+        "turkish_meaning": "Gözünden yaş akmak",
+        "sound_url": "sesler\\ذرف.mp3"
+    },
+    "بَهِيمَة": {
+        "turkish_meaning": "Hayvan",
+        "sound_url": "sesler\\بهيمة.mp3"
+    },
+    "فِتْيَان": {
+        "turkish_meaning": "Gençler",
+        "sound_url": "sesler\\فتيان.mp3"
+    },
+    "سَلْخ": {
+        "turkish_meaning": "Yüzme",
+        "sound_url": "sesler\\سلخ.mp3"
+    },
+    "شَفْرَة": {
+        "turkish_meaning": "Bıçak",
+        "sound_url": "sesler\\شفرة.mp3"
+    },
+    "يُحِدُّ": {
+        "turkish_meaning": "Bilemek",
+        "sound_url": "sesler\\يحد.mp3"
+    },
+    "حُمَّرَة": {
+        "turkish_meaning": "Arı kuşu",
+        "sound_url": "sesler\\حمرة.mp3"
+    },
+    "تَفْرِشُ": {
+        "turkish_meaning": "Kanat çırpmak",
+        "sound_url": "sesler\\تفرش.mp3"
+    },
+    "فَجَعَ": {
+        "turkish_meaning": "Eziyet etmek",
+        "sound_url": "sesler\\فجع.mp3"
+    },
+    "بَعِير": {
+        "turkish_meaning": "Deve",
+        "sound_url": "sesler\\بعير.mp3"
+    },
+    "زَجَرَ": {
+        "turkish_meaning": "Kovmak",
+        "sound_url": "sesler\\زجر.mp3"
+    },
+    "فِراء": {
+        "turkish_meaning": "Tüy",
+        "sound_url": "sesler\\فراء.mp3"
+    },
+    "جِمَال": {
+        "turkish_meaning": "Develer",
+        "sound_url": "sesler\\جمال.mp3"
+    },
+    "زِينَة": {
+        "turkish_meaning": "Süs",
+        "sound_url": "sesler\\زينة.mp3"
+    },
+    "حِصَان": {
+        "turkish_meaning": "At",
+        "sound_url": "sesler\\حصان.mp3"
+    },
+    "صَقْر": {
+        "turkish_meaning": "Atmaca, doğan",
+        "sound_url": "sesler\\صقر.mp3"
+    },
+    "حُوت": {
+        "turkish_meaning": "Balina",
+        "sound_url": "sesler\\حوت.mp3"
+    },
+    "فِيل": {
+        "turkish_meaning": "Fil",
+        "sound_url": "sesler\\فيل.mp3"
+    },
+    "ذُبَاب": {
+        "turkish_meaning": "Sinek",
+        "sound_url": "sesler\\ذباب.mp3"
+    },
+    "نَمْر": {
+        "turkish_meaning": "Kaplan",
+        "sound_url": "sesler\\نمر.mp3"
+    },
+    "أَبْقَار": {
+        "turkish_meaning": "Sığırlar",
+        "sound_url": "sesler\\أبقار.mp3"
+    },
+    "أَرْنَب": {
+        "turkish_meaning": "Tavşan",
+        "sound_url": "sesler\\أرنب.mp3"
+    },
+    "أَجْيَال": {
+        "turkish_meaning": "Nesiller",
+        "sound_url": "sesler\\أجيال.mp3"
+    },
+    "رِفْق": {
+        "turkish_meaning": "Şefkat",
+        "sound_url": "sesler\\رفق.mp3"
+    },
+    "عَبَث": {
+        "turkish_meaning": "Boş iş",
+        "sound_url": "sesler\\عبث.mp3"
+    },
+    "تَمْثِيل": {
+        "turkish_meaning": "Sakatlama",
+        "sound_url": "sesler\\تمثيل.mp3"
+    },
+    "كَوَا": {
+        "turkish_meaning": "Dağlamak",
+        "sound_url": "sesler\\كوا.mp3"
+    },
+    "اِسْكَافِي": {
+        "turkish_meaning": "Ayakkabıcı",
+        "sound_url": "sesler\\اسكافي.mp3"
+    },
+    "اَعْرَابِي": {
+        "turkish_meaning": "Bedevi",
+        "sound_url": "sesler\\اعرابي.mp3"
+    },
+    "شَحِيح": {
+        "turkish_meaning": "Cimri",
+        "sound_url": "sesler\\شحيح.mp3"
+    },
+    "مَرْعَي": {
+        "turkish_meaning": "Otlak",
+        "sound_url": "sesler\\مرعي.mp3"
+    },
+    "نَبَحَ": {
+        "turkish_meaning": "Horlama",
+        "sound_url": "sesler\\نبح.mp3"
+    },
+    "نُبَاح": {
+        "turkish_meaning": "Ürüme",
+        "sound_url": "sesler\\نباح.mp3"
+    },
+    "نَكْبَة": {
+        "turkish_meaning": "Felaket",
+        "sound_url": "sesler\\نكبة.mp3"
+    },
+    "دِيَة": {
+        "turkish_meaning": "Diyet",
+        "sound_url": "sesler\\دية.mp3"
+    },
+    "ثَأرَ": {
+        "turkish_meaning": "Öc almak",
+        "sound_url": "sesler\\ثأر.mp3"
+    },
+    "نَمَاذِج": {
+        "turkish_meaning": "Örnekler",
+        "sound_url": "sesler\\نماذج.mp3"
+    },
+    "بَنَّا": {
+        "turkish_meaning": "Usta",
+        "sound_url": "sesler\\بنا.mp3"
+    },
+    "اِسَاءَة": {
+        "turkish_meaning": "Kötülük",
+        "sound_url": "sesler\\اساءة.mp3"
+    },
+    "خَيْبَة": {
+        "turkish_meaning": "Hayal kırıklığı",
+        "sound_url": "sesler\\خيبة.mp3"
+    },
+    "زَهْو": {
+        "turkish_meaning": "Olgunlaşmak",
+        "sound_url": "sesler\\زهو.mp3"
+    },
+    "أَرْطَبَ": {
+        "turkish_meaning": "Olgunlaşmak",
+        "sound_url": "sesler\\أرطب.mp3"
+    },
+    "نَبَّهَ": {
+        "turkish_meaning": "Felakete atmak",
+        "sound_url": "sesler\\نبه.mp3"
+    },
+    "سَلْب": {
+        "turkish_meaning": "Soygun",
+        "sound_url": "sesler\\سلب.mp3"
+    },
+    "نَهْب": {
+        "turkish_meaning": "Yağma",
+        "sound_url": "sesler\\نهب.mp3"
+    },
+    "اِنْتَهَزَ": {
+        "turkish_meaning": "Fırsat bilmek",
+        "sound_url": "sesler\\انتهز.mp3"
+    },
+    "تَصَرُّف مِن": {
+        "turkish_meaning": "Den uyarlanmıştır",
+        "sound_url": "sesler\\تصرف من.mp3"
+    },
+    "رَفِيع": {
+        "turkish_meaning": "Yüksek",
+        "sound_url": "sesler\\رفيع.mp3"
+    },
+    "جَوْف": {
+        "turkish_meaning": "Karın",
+        "sound_url": "sesler\\جوف.mp3"
+    },
+    "وَيْل": {
+        "turkish_meaning": "Yazık",
+        "sound_url": "sesler\\ويل.mp3"
+    },
+    "هَم": {
+        "turkish_meaning": "Dert, endişe",
+        "sound_url": "sesler\\هم.mp3"
+    },
+    "وَاصَلَ": {
+        "turkish_meaning": "Devam etti",
+        "sound_url": "sesler\\واصل.mp3"
+    },
+    "أَمْزِجَة": {
+        "turkish_meaning": "Mizaçlar",
+        "sound_url": "sesler\\أمزجة.mp3"
+    },
+    "شِجَار": {
+        "turkish_meaning": "Kavga",
+        "sound_url": "sesler\\شجار.mp3"
+    },
+    "نَهْجَة": {
+        "turkish_meaning": "Metod",
+        "sound_url": "sesler\\نهجة.mp3"
+    },
+    "تَعْقِيد": {
+        "turkish_meaning": "Düğüm",
+        "sound_url": "sesler\\تعقيد.mp3"
+    },
+    "اِنْجَاب": {
+        "turkish_meaning": "Doğurma",
+        "sound_url": "sesler\\انجاب.mp3"
+    },
+    "حَفَدَة": {
+        "turkish_meaning": "Torun",
+        "sound_url": "sesler\\حفدة.mp3"
+    },
+    "اِحْتِكَاك": {
+        "turkish_meaning": "Sürtüşme",
+        "sound_url": "sesler\\احتكاك.mp3"
+    },
+    "لَجَأَ اِلَي": {
+        "turkish_meaning": "Başvurmak",
+        "sound_url": "sesler\\لجأ الي.mp3"
+    },
+    "شَقَاء": {
+        "turkish_meaning": "Huzursuzluk",
+        "sound_url": "sesler\\شقاء.mp3"
+    },
+    "اِنْهِيَار": {
+        "turkish_meaning": "Dağılma",
+        "sound_url": "sesler\\انهيار.mp3"
+    },
+    "تَمَاسُك": {
+        "turkish_meaning": "Kenetlenme",
+        "sound_url": "sesler\\تماسك.mp3"
+    },
+    "بِجَلَاء": {
+        "turkish_meaning": "Açıklıkla",
+        "sound_url": "sesler\\بجلاء.mp3"
+    },
+    "خَالِص": {
+        "turkish_meaning": "Arı",
+        "sound_url": "sesler\\خالص.mp3"
+    },
+    "كَبْش": {
+        "turkish_meaning": "Koç",
+        "sound_url": "sesler\\كبش.mp3"
+    },
+    "عُكُوف": {
+        "turkish_meaning": "Tapmak",
+        "sound_url": "sesler\\عكوف.mp3"
+    },
+    "عَلَي عِلَّاتِهِم": {
+        "turkish_meaning": "Her şeyi, tümü",
+        "sound_url": "sesler\\علي علاتهم.mp3"
+    },
+    "يَغُضُّون": {
+        "turkish_meaning": "Kapatmak",
+        "sound_url": "sesler\\يغضون.mp3"
+    },
+    "طَرْف": {
+        "turkish_meaning": "Göz",
+        "sound_url": "sesler\\طرف.mp3"
+    },
+    "تَبْرِير": {
+        "turkish_meaning": "Temize çıkartmak",
+        "sound_url": "sesler\\تبرير.mp3"
+    },
+    "اِثْم": {
+        "turkish_meaning": "Günah",
+        "sound_url": "sesler\\اثم.mp3"
+    },
+    "لَبِنَات": {
+        "turkish_meaning": "Tuğlalar",
+        "sound_url": "sesler\\لبنات.mp3"
+    },
+    "اِلَي اَيِّ مَدَ": {
+        "turkish_meaning": "Nereye kadar",
+        "sound_url": "sesler\\الي اي مد.mp3"
+    },
+    "أَعْمَار": {
+        "turkish_meaning": "Yaşlar,ömürler",
+        "sound_url": "sesler\\أعمار.mp3"
+    },
+    "كَامِنَة": {
+        "turkish_meaning": "Potansiyel",
+        "sound_url": "sesler\\كامنة.mp3"
+    },
+    "بُذُور": {
+        "turkish_meaning": "Tohumlar",
+        "sound_url": "sesler\\بذور.mp3"
+    },
+    "أَظْلَاف": {
+        "turkish_meaning": "Tırnaklar, toynaklar",
+        "sound_url": "sesler\\أظلاف.mp3"
+    },
+    "مَنَاعَة": {
+        "turkish_meaning": "Bağışıklık",
+        "sound_url": "sesler\\مناعة.mp3"
+    },
+    "أَنْسِجَة": {
+        "turkish_meaning": "Dokular",
+        "sound_url": "sesler\\أنسجة.mp3"
+    },
+    "ظَمَأ": {
+        "turkish_meaning": "Susuzluk",
+        "sound_url": "sesler\\ظمأ.mp3"
+    },
+    "غَثَيَان": {
+        "turkish_meaning": "Mide bulantısı",
+        "sound_url": "sesler\\غثيان.mp3"
+    },
+    "اِخْتِلَاجَات": {
+        "turkish_meaning": "Titreme",
+        "sound_url": "sesler\\اختلاجات.mp3"
+    },
+    "تَشَنُّجَات": {
+        "turkish_meaning": "Çarpıntı, kasılma",
+        "sound_url": "sesler\\تشنجات.mp3"
+    },
+    "مَوْضِع": {
+        "turkish_meaning": "Yer",
+        "sound_url": "sesler\\موضع.mp3"
+    },
+    "وِقْر": {
+        "turkish_meaning": "Ağırlık",
+        "sound_url": "sesler\\وقر.mp3"
+    },
+    "غَزِير": {
+        "turkish_meaning": "Bolca",
+        "sound_url": "sesler\\غزير.mp3"
+    },
+    "شَاذ": {
+        "turkish_meaning": "İstisna",
+        "sound_url": "sesler\\شاذ.mp3"
+    },
+    "دِمَار": {
+        "turkish_meaning": "Yıkım",
+        "sound_url": "sesler\\دمار.mp3"
+    },
+    "تَغْرِسُ": {
+        "turkish_meaning": "Ekmek",
+        "sound_url": "sesler\\تغرس.mp3"
+    },
+    "حُلِيّ": {
+        "turkish_meaning": "Takı",
+        "sound_url": "sesler\\حلي.mp3"
+    },
+    "تَكْشِير": {
+        "turkish_meaning": "Yüzünü ekşitmek",
+        "sound_url": "sesler\\تكشير.mp3"
+    },
+    "تَافِهَة": {
+        "turkish_meaning": "Değersiz",
+        "sound_url": "sesler\\تافهة.mp3"
+    },
+    "حَاضِنَة": {
+        "turkish_meaning": "Küvez, dadı",
+        "sound_url": "sesler\\حاضنة.mp3"
+    },
+    "اِتَّسَعَ": {
+        "turkish_meaning": "Yayılmak",
+        "sound_url": "sesler\\اتسع.mp3"
+    },
+    "اِنْزَعَجَ": {
+        "turkish_meaning": "Rahatsız olmak",
+        "sound_url": "sesler\\انزعج.mp3"
+    },
+    "اُمُومَة": {
+        "turkish_meaning": "Annelik",
+        "sound_url": "sesler\\امومة.mp3"
+    },
+    "فِطَام": {
+        "turkish_meaning": "Sütten kesmek",
+        "sound_url": "sesler\\فطام.mp3"
+    },
+    "دَخْل": {
+        "turkish_meaning": "Gelir",
+        "sound_url": "sesler\\دخل.mp3"
+    },
+    "اِضَاعَة": {
+        "turkish_meaning": "Zayi etme",
+        "sound_url": "sesler\\اضاعة.mp3"
+    },
+    "يَخْلُدُ": {
+        "turkish_meaning": "Uykuya dalmak",
+        "sound_url": "sesler\\يخلد.mp3"
+    },
+    "اِنْزِعَاج": {
+        "turkish_meaning": "Bıkkınlık",
+        "sound_url": "sesler\\انزعاج.mp3"
+    },
+    "غَفْوَة": {
+        "turkish_meaning": "Şekerleme",
+        "sound_url": "sesler\\غفوة.mp3"
+    },
+    "جَوْدَة": {
+        "turkish_meaning": "Kalite",
+        "sound_url": "sesler\\جودة.mp3"
+    },
+    "مُفَاخَرَة": {
+        "turkish_meaning": "Gururlanma",
+        "sound_url": "sesler\\مفاخرة.mp3"
+    },
+    "تَشْوِيه": {
+        "turkish_meaning": "Karalama",
+        "sound_url": "sesler\\تشويه.mp3"
+    },
+    "عَقَبَة": {
+        "turkish_meaning": "Tepe",
+        "sound_url": "sesler\\عقبة.mp3"
+    },
+    "مُتَاح": {
+        "turkish_meaning": "Mevcut",
+        "sound_url": "sesler\\متاح.mp3"
+    },
+    "مَاسَّة": {
+        "turkish_meaning": "Acil",
+        "sound_url": "sesler\\ماسة.mp3"
+    },
+    "بَادِر": {
+        "turkish_meaning": "Acele et",
+        "sound_url": "sesler\\بادر.mp3"
+    },
+    "بَلَاغ": {
+        "turkish_meaning": "Bela,felaket,imtihan",
+        "sound_url": "sesler\\بلاغ.mp3"
+    },
+    "أَقْدَر": {
+        "turkish_meaning": "Kıymetli",
+        "sound_url": "sesler\\أقدر.mp3"
+    },
+    "عَسِير": {
+        "turkish_meaning": "Zor, güç",
+        "sound_url": "sesler\\عسير.mp3"
+    },
+    "ثَيِّب": {
+        "turkish_meaning": "Dul",
+        "sound_url": "sesler\\ثيب.mp3"
+    },
+    "صِهْر": {
+        "turkish_meaning": "Damat",
+        "sound_url": "sesler\\صهر.mp3"
+    },
+    "عَبَّأ": {
+        "turkish_meaning": "Sevk etmek",
+        "sound_url": "sesler\\عبأ.mp3"
+    },
+    "بَرَكَ": {
+        "turkish_meaning": "Diz üstü çöktü",
+        "sound_url": "sesler\\برك.mp3"
+    },
+    "مَاجَ": {
+        "turkish_meaning": "Dalgalanmak",
+        "sound_url": "sesler\\ماج.mp3"
+    },
+    "جُور": {
+        "turkish_meaning": "Zulüm",
+        "sound_url": "sesler\\جور.mp3"
+    },
+    "نِسْوَة": {
+        "turkish_meaning": "Kadın",
+        "sound_url": "sesler\\نسوة.mp3"
+    },
+    "تَسَلَّلَ": {
+        "turkish_meaning": "Sızmak",
+        "sound_url": "sesler\\تسلل.mp3"
+    },
+    "بِطْرِيق": {
+        "turkish_meaning": "Patrik",
+        "sound_url": "sesler\\بطريق.mp3"
+    },
+    "أَوَي": {
+        "turkish_meaning": "Sığınmak",
+        "sound_url": "sesler\\أوي.mp3"
+    },
+    "أَبْغَض": {
+        "turkish_meaning": "Daha kötü",
+        "sound_url": "sesler\\أبغض.mp3"
+    },
+    "أَسَاقِف": {
+        "turkish_meaning": "Psikopos",
+        "sound_url": "sesler\\أساقف.mp3"
+    },
+    "أَوْثَان": {
+        "turkish_meaning": "Putlar",
+        "sound_url": "sesler\\أوثان.mp3"
+    },
+    "اِخْضَلَّ": {
+        "turkish_meaning": "Islanmak",
+        "sound_url": "sesler\\اخضل.mp3"
+    },
+    "اِبْتَلَّ": {
+        "turkish_meaning": "Islanmak",
+        "sound_url": "sesler\\ابتل.mp3"
+    },
+    "مِشْكَاة": {
+        "turkish_meaning": "Kandil",
+        "sound_url": "sesler\\مشكاة.mp3"
+    },
+    "قَاطِبَة": {
+        "turkish_meaning": "Her beraber, birlikte",
+        "sound_url": "sesler\\قاطبة.mp3"
+    },
+    "اَصْقَاع": {
+        "turkish_meaning": "Bölgeler",
+        "sound_url": "sesler\\اصقاع.mp3"
+    },
+    "قَامَ عَلَي": {
+        "turkish_meaning": "Dayanmak",
+        "sound_url": "sesler\\قام علي.mp3"
+    },
+    "صَرْح": {
+        "turkish_meaning": "Köşk",
+        "sound_url": "sesler\\صرح.mp3"
+    },
+    "حَفَزَ": {
+        "turkish_meaning": "Teşvik etmek, motive etmek",
+        "sound_url": "sesler\\حفز.mp3"
+    },
+    "تَرَعْرَعَ": {
+        "turkish_meaning": "Gelişmek, büyümek",
+        "sound_url": "sesler\\ترعرع.mp3"
+    },
+    "خَرْسَاء": {
+        "turkish_meaning": "Dilsiz",
+        "sound_url": "sesler\\خرساء.mp3"
+    },
+    "مُخْزِي": {
+        "turkish_meaning": "Utanç verici",
+        "sound_url": "sesler\\مخزي.mp3"
+    },
+    "تَعَطَّلَ": {
+        "turkish_meaning": "Atıl kalmak",
+        "sound_url": "sesler\\تعطل.mp3"
+    },
+    "خَبَّاز": {
+        "turkish_meaning": "Fırıncı",
+        "sound_url": "sesler\\خباز.mp3"
+    },
+    "اِنْحِدَار": {
+        "turkish_meaning": "Azalma, düşme",
+        "sound_url": "sesler\\انحدار.mp3"
+    },
+    "دَأْب": {
+        "turkish_meaning": "Azimli, sebatlı olma",
+        "sound_url": "sesler\\دأب.mp3"
+    },
+    "جَرْس": {
+        "turkish_meaning": "Tını",
+        "sound_url": "sesler\\جرس.mp3"
+    },
+    "صَالَة": {
+        "turkish_meaning": "Salon",
+        "sound_url": "sesler\\صالة.mp3"
+    },
+    "بِالتَّالِي": {
+        "turkish_meaning": "Böylece",
+        "sound_url": "sesler\\بالتالي.mp3"
+    },
+    "ضَجِرَ": {
+        "turkish_meaning": "Ağır, sıkıcı",
+        "sound_url": "sesler\\ضجر.mp3"
+    },
+    "سَفْسَفَة": {
+        "turkish_meaning": "Bayağılık",
+        "sound_url": "sesler\\سفسفة.mp3"
+    },
+    "دِعَايَة": {
+        "turkish_meaning": "Propaganda",
+        "sound_url": "sesler\\دعاية.mp3"
+    },
+    "اِسْتَهْوَي": {
+        "turkish_meaning": "Cezb etmek",
+        "sound_url": "sesler\\استهوي.mp3"
+    },
+    "رَوْع": {
+        "turkish_meaning": "Korku",
+        "sound_url": "sesler\\روع.mp3"
+    },
+    "كَلّ": {
+        "turkish_meaning": "Yoksul",
+        "sound_url": "sesler\\كل.mp3"
+    },
+    "جَذَع": {
+        "turkish_meaning": "Güç, kuvvet",
+        "sound_url": "sesler\\جذع.mp3"
+    },
+    "أَبَدَ الأَبِدِين": {
+        "turkish_meaning": "Sonsuza dek",
+        "sound_url": "sesler\\أبد الأبدين.mp3"
+    },
+    "كُرُوم": {
+        "turkish_meaning": "Üzüm bağları",
+        "sound_url": "sesler\\كروم.mp3"
+    },
+    "هَيِّن": {
+        "turkish_meaning": "Kolay",
+        "sound_url": "sesler\\هين.mp3"
+    },
+    "شَمَتَ ب": {
+        "turkish_meaning": "Alay etmek",
+        "sound_url": "sesler\\شمت ب.mp3"
+    },
+    "مَغْشِيَّا": {
+        "turkish_meaning": "Bayılarak",
+        "sound_url": "sesler\\مغشيا.mp3"
+    },
+    "طَارِدَة": {
+        "turkish_meaning": "Göç veren",
+        "sound_url": "sesler\\طاردة.mp3"
+    },
+    "اِسْتِقْطَاب": {
+        "turkish_meaning": "Kendine çekme",
+        "sound_url": "sesler\\استقطاب.mp3"
+    },
+    "مُعَلَّب": {
+        "turkish_meaning": "Ambalajlı",
+        "sound_url": "sesler\\معلب.mp3"
+    },
+    "ضَءِل": {
+        "turkish_meaning": "Az, yetersiz",
+        "sound_url": "sesler\\ضءل.mp3"
+    },
+    "رَغِيدَة": {
+        "turkish_meaning": "Refah, konforlu",
+        "sound_url": "sesler\\رغيدة.mp3"
+    },
+    "أَمْثَل": {
+        "turkish_meaning": "İdeal",
+        "sound_url": "sesler\\أمثل.mp3"
+    },
+    "دَقِيق": {
+        "turkish_meaning": "Un",
+        "sound_url": "sesler\\دقيق.mp3"
+    },
+    "عُطْب": {
+        "turkish_meaning": "Sakatlık",
+        "sound_url": "sesler\\عطب.mp3"
+    },
+    "لَمَسَ": {
+        "turkish_meaning": "Fark etmek",
+        "sound_url": "sesler\\لمس.mp3"
+    },
+    "رَهْط": {
+        "turkish_meaning": "Raht",
+        "sound_url": "sesler\\رهط.mp3"
+    },
+    "اِنْحَدَرَ": {
+        "turkish_meaning": "Yuvarlanmak",
+        "sound_url": "sesler\\انحدر.mp3"
+    },
+    "كَابِر عَن كَابِر": {
+        "turkish_meaning": "Babadan oğla",
+        "sound_url": "sesler\\كابر عن كابر.mp3"
+    },
+    "قَعَدَ": {
+        "turkish_meaning": "Oturmak",
+        "sound_url": "sesler\\قعد.mp3"
+    },
+    "جَلِيس": {
+        "turkish_meaning": "Vezir",
+        "sound_url": "sesler\\جليس.mp3"
+    },
+    "قُرْقُور": {
+        "turkish_meaning": "Kayık",
+        "sound_url": "sesler\\قرقور.mp3"
+    },
+    "صَعِيد": {
+        "turkish_meaning": "Düzlük",
+        "sound_url": "sesler\\صعيد.mp3"
+    },
+    "شَعْث": {
+        "turkish_meaning": "Saçı başı dağınık",
+        "sound_url": "sesler\\شعث.mp3"
+    },
+    "اِسْتِحْدَاد": {
+        "turkish_meaning": "Etek tıraşı",
+        "sound_url": "sesler\\استحداد.mp3"
+    },
+    "خِتَان": {
+        "turkish_meaning": "Sünnet olmak",
+        "sound_url": "sesler\\ختان.mp3"
+    },
+    "مَجَاهِل": {
+        "turkish_meaning": "Bilinmeyen yerler",
+        "sound_url": "sesler\\مجاهل.mp3"
+    },
+    "مُثَابَرَة": {
+        "turkish_meaning": "Azim",
+        "sound_url": "sesler\\مثابرة.mp3"
+    },
+    "عَفَاف": {
+        "turkish_meaning": "İffetli olma",
+        "sound_url": "sesler\\عفاف.mp3"
+    },
+    "بَشَاشَة": {
+        "turkish_meaning": "Tebessüm",
+        "sound_url": "sesler\\بشاشة.mp3"
+    },
+    "أَرَباً": {
+        "turkish_meaning": "İstek",
+        "sound_url": "sesler\\أربا.mp3"
+    },
+    "اِسْتَبْقِيَ": {
+        "turkish_meaning": "Bırakmak",
+        "sound_url": "sesler\\استبقي.mp3"
+    },
+    "قَلَّمَا": {
+        "turkish_meaning": "Çok az",
+        "sound_url": "sesler\\قلما.mp3"
+    },
+    "أَرْزَاء": {
+        "turkish_meaning": "Sıkıntılar",
+        "sound_url": "sesler\\أرزاء.mp3"
+    },
+    "غِمَار": {
+        "turkish_meaning": "Orta halli",
+        "sound_url": "sesler\\غمار.mp3"
+    },
+    "اِرْتَاعَ": {
+        "turkish_meaning": "Ürkmek",
+        "sound_url": "sesler\\ارتاع.mp3"
+    },
+    "تَهَيَّبَ": {
+        "turkish_meaning": "Korkmak",
+        "sound_url": "sesler\\تهيب.mp3"
+    },
+    "حُلِيَّ": {
+        "turkish_meaning": "Takılar",
+        "sound_url": "sesler\\حلي.mp3"
+    },
+    "بَارِحَة": {
+        "turkish_meaning": "Dün",
+        "sound_url": "sesler\\بارحة.mp3"
+    },
+    "خَرَّ": {
+        "turkish_meaning": "Düştü",
+        "sound_url": "sesler\\خر.mp3"
+    },
+    "تَصُبُّ": {
+        "turkish_meaning": "Dökmek",
+        "sound_url": "sesler\\تصب.mp3"
+    },
+    "مَصْرَع": {
+        "turkish_meaning": "Düşmek",
+        "sound_url": "sesler\\مصرع.mp3"
+    },
+    "شَهِقَ": {
+        "turkish_meaning": "Hıçkırmak",
+        "sound_url": "sesler\\شهق.mp3"
+    },
+    "قَاطِن": {
+        "turkish_meaning": "Oturan",
+        "sound_url": "sesler\\قاطن.mp3"
+    },
+    "رَكْبٌ": {
+        "turkish_meaning": "Kervan, kafile",
+        "sound_url": "sesler\\ركب.mp3"
+    },
+    "كَاهِل": {
+        "turkish_meaning": "Sırt, omuz",
+        "sound_url": "sesler\\كاهل.mp3"
+    },
+    "أَكْبَبْتُ": {
+        "turkish_meaning": "Kapaklandım, eğildim",
+        "sound_url": "sesler\\أكببت.mp3"
+    },
+    "لَبِيب": {
+        "turkish_meaning": "Zeki, sağ duyulu",
+        "sound_url": "sesler\\لبيب.mp3"
+    },
+    "أَعْضَلَ": {
+        "turkish_meaning": "Yormak, uğraştırmak",
+        "sound_url": "sesler\\أعضل.mp3"
+    },
+    "تَضَجُّر": {
+        "turkish_meaning": "Bunalma",
+        "sound_url": "sesler\\تضجر.mp3"
+    },
+    "نَغَّصَ": {
+        "turkish_meaning": "Üzmek, hayatı zehir etmek",
+        "sound_url": "sesler\\نغص.mp3"
+    },
+    "عَلِيل": {
+        "turkish_meaning": "Güzel",
+        "sound_url": "sesler\\عليل.mp3"
+    },
+    "تَسَاهُل": {
+        "turkish_meaning": "İhmalkarlık",
+        "sound_url": "sesler\\تساهل.mp3"
+    },
+    "سَاءِل": {
+        "turkish_meaning": "Dilenci",
+        "sound_url": "sesler\\ساءل.mp3"
+    },
+    "طَيْلَة": {
+        "turkish_meaning": "Boyunca",
+        "sound_url": "sesler\\طيلة.mp3"
+    },
+    "اِعْتَنَقَ": {
+        "turkish_meaning": "Boyun eğmek",
+        "sound_url": "sesler\\اعتنق.mp3"
+    },
+    "تَغَلْغُل": {
+        "turkish_meaning": "Girmek, sızmak",
+        "sound_url": "sesler\\تغلغل.mp3"
+    },
+    "نَبْذ": {
+        "turkish_meaning": "Asosyallik",
+        "sound_url": "sesler\\نبذ.mp3"
+    },
+    "تَألُّق": {
+        "turkish_meaning": "Parlaklık",
+        "sound_url": "sesler\\تألق.mp3"
+    },
+    "تَدَفَّقَ": {
+        "turkish_meaning": "Akıtmak",
+        "sound_url": "sesler\\تدفق.mp3"
+    },
+    "تَكَدَّسَ": {
+        "turkish_meaning": "Yığılmak",
+        "sound_url": "sesler\\تكدس.mp3"
+    },
+    "مُدَاعِباً": {
+        "turkish_meaning": "Şakacıktan",
+        "sound_url": "sesler\\مداعبا.mp3"
+    },
+    "تَمَطَّي": {
+        "turkish_meaning": "Gerildi, uzandı",
+        "sound_url": "sesler\\تمطي.mp3"
+    },
+    "أَلْغَاز": {
+        "turkish_meaning": "Bulmacalar",
+        "sound_url": "sesler\\ألغاز.mp3"
+    },
+    "تَقَيُّؤ": {
+        "turkish_meaning": "Kusma,istifra",
+        "sound_url": "sesler\\تقيؤ.mp3"
+    },
+    "بَصِيص": {
+        "turkish_meaning": "Işık",
+        "sound_url": "sesler\\بصيص.mp3"
+    },
+    "صَفْقَة": {
+        "turkish_meaning": "Antlaşma",
+        "sound_url": "sesler\\صفقة.mp3"
+    },
+    "اِسْتِنْزَاف": {
+        "turkish_meaning": "Tüketme,yıpratma",
+        "sound_url": "sesler\\استنزاف.mp3"
+    },
+    "حِوَارٌ": {
+        "turkish_meaning": "Diyalog",
+        "sound_url": "sesler\\حوار.mp3"
+    },
+    "جِنْسِيَّةٌ": {
+        "turkish_meaning": "Uyruk",
+        "sound_url": "sesler\\جنسية.mp3"
+    },
+    "صَدِيقٌ": {
+        "turkish_meaning": "Arkadaş",
+        "sound_url": "sesler\\صديق.mp3"
+    },
+    "جُمْلَةٌ": {
+        "turkish_meaning": "Cümle",
+        "sound_url": "sesler\\جملة.mp3"
+    },
+    "طَبِيبٌ": {
+        "turkish_meaning": "Doktor",
+        "sound_url": "sesler\\طبيب.mp3"
+    },
+    "خَرِيطَةٌ": {
+        "turkish_meaning": "Harita",
+        "sound_url": "sesler\\خريطة.mp3"
+    },
+    "نَظَرَ": {
+        "turkish_meaning": "Baktı",
+        "sound_url": "sesler\\نظر.mp3"
+    },
+    "اِسْتَمَعَ": {
+        "turkish_meaning": "Dinlemek",
+        "sound_url": "sesler\\استمع.mp3"
+    },
+    "أَعَادَ": {
+        "turkish_meaning": "Tek tek okumak",
+        "sound_url": "sesler\\أعاد.mp3"
+    },
+    "وَصَلَ": {
+        "turkish_meaning": "Birleştirmek,Bir araya getirmek",
+        "sound_url": "sesler\\وصل.mp3"
+    },
+    "رَتَّبَ": {
+        "turkish_meaning": "Sıraya koymak,Düzenlemek",
+        "sound_url": "sesler\\رتب.mp3"
+    },
+    "تَبَادَلَ": {
+        "turkish_meaning": "Değiştirmek,Karşılıklı yapmak",
+        "sound_url": "sesler\\تبادل.mp3"
+    },
+    "أَشَارَ": {
+        "turkish_meaning": "İşaret etmek",
+        "sound_url": "sesler\\أشار.mp3"
+    },
+    "زَمِيلٌ": {
+        "turkish_meaning": "Arkadaş,meslektaş",
+        "sound_url": "sesler\\زميل.mp3"
+    },
+    "تَدْرِيبٌ": {
+        "turkish_meaning": "Alıştırma",
+        "sound_url": "sesler\\تدريب.mp3"
+    },
+    "اَلصُّورَةُالْمُنَاسِبَةُ": {
+        "turkish_meaning": "Uygun resim",
+        "sound_url": "sesler\\الصورةالمناسبة.mp3"
+    },
+    "نَاسَبَ": {
+        "turkish_meaning": "Uygun olmak,Denk gelmek",
+        "sound_url": "sesler\\ناسب.mp3"
+    },
+    "سُؤَالٌ": {
+        "turkish_meaning": "Sormak",
+        "sound_url": "sesler\\سؤال.mp3"
+    },
+    "جَوَابٌ": {
+        "turkish_meaning": "Cevap",
+        "sound_url": "sesler\\جواب.mp3"
+    },
+    "مِثَالٌ": {
+        "turkish_meaning": "Örnek",
+        "sound_url": "sesler\\مثال.mp3"
+    },
+    "صُورَةٌ": {
+        "turkish_meaning": "Resim,Tablo",
+        "sound_url": "sesler\\صورة.mp3"
+    },
+    "عِبَارَةٌ": {
+        "turkish_meaning": "İbare ,İfade",
+        "sound_url": "sesler\\عبارة.mp3"
+    },
+    "هَاتِ": {
+        "turkish_meaning": "Getirmek",
+        "sound_url": "sesler\\هات.mp3"
+    },
+    "قَرَأَ": {
+        "turkish_meaning": "Okudu",
+        "sound_url": "sesler\\قرأ.mp3"
+    },
+    "قَالَ": {
+        "turkish_meaning": "Söylemek , Demek",
+        "sound_url": "sesler\\قال.mp3"
+    },
+    "اَلْقِرَاءَةُ و الْكِتَابَةُ": {
+        "turkish_meaning": "Okuma ve yazma",
+        "sound_url": "sesler\\القراءة و الكتابة.mp3"
+    },
+    "مَدْرَسَةٌ": {
+        "turkish_meaning": "Okul",
+        "sound_url": "sesler\\مدرسة.mp3"
+    },
+    "كَلِمَةٌ": {
+        "turkish_meaning": "Kelime",
+        "sound_url": "sesler\\كلمة.mp3"
+    },
+    "اَلْكَلِمَةُ الْمُمَاثِلَةُ": {
+        "turkish_meaning": "Benzer kelime",
+        "sound_url": "sesler\\الكلمة المماثلة.mp3"
+    },
+    "مَجْمُوعَةٌ": {
+        "turkish_meaning": "Grup",
+        "sound_url": "sesler\\مجموعة.mp3"
+    },
+    "أُسْرَةٌ": {
+        "turkish_meaning": "Aile",
+        "sound_url": "sesler\\أسرة.mp3"
+    },
+    "وَالِدٌ": {
+        "turkish_meaning": "Baba-Anne",
+        "sound_url": "sesler\\والد.mp3"
+    },
+    "أَبٌ": {
+        "turkish_meaning": "Baba",
+        "sound_url": "sesler\\أب.mp3"
+    },
+    "أُمٌّ": {
+        "turkish_meaning": "Anne",
+        "sound_url": "sesler\\أم.mp3"
+    },
+    "جَدٌّ": {
+        "turkish_meaning": "Dede-Nine",
+        "sound_url": "sesler\\جد.mp3"
+    },
+    "عَمٌّ": {
+        "turkish_meaning": "Amca-Hala",
+        "sound_url": "sesler\\عم.mp3"
+    },
+    "خَالٌ": {
+        "turkish_meaning": "Dayı-Teyze",
+        "sound_url": "sesler\\خال.mp3"
+    },
+    "اِبْنٌ": {
+        "turkish_meaning": "Oğul",
+        "sound_url": "sesler\\ابن.mp3"
+    },
+    "بِنْتٌ": {
+        "turkish_meaning": "Kız",
+        "sound_url": "sesler\\بنت.mp3"
+    },
+    "أَخٌ": {
+        "turkish_meaning": "Erkek kardeş",
+        "sound_url": "sesler\\أخ.mp3"
+    },
+    "أُخْتٌ": {
+        "turkish_meaning": "Kız kardeş",
+        "sound_url": "sesler\\أخت.mp3"
+    },
+    "حَفِيدٌ": {
+        "turkish_meaning": "Erkek torun- Kız torun",
+        "sound_url": "sesler\\حفيد.mp3"
+    },
+    "وَلَدٌ": {
+        "turkish_meaning": "Çocuk",
+        "sound_url": "sesler\\ولد.mp3"
+    },
+    "شَجَرَةٌ": {
+        "turkish_meaning": "Ağaç",
+        "sound_url": "sesler\\شجرة.mp3"
+    },
+    "غُرْفَةٌ": {
+        "turkish_meaning": "Oda",
+        "sound_url": "sesler\\غرفة.mp3"
+    },
+    "تَوَضَّأَ": {
+        "turkish_meaning": "Abdest almak",
+        "sound_url": "sesler\\توضأ.mp3"
+    },
+    "صَلَّى": {
+        "turkish_meaning": "Namaz kılmak",
+        "sound_url": "sesler\\صلى.mp3"
+    },
+    "مِعْطَفٌ": {
+        "turkish_meaning": "Palto",
+        "sound_url": "sesler\\معطف.mp3"
+    },
+    "نَظَّارَةٌ": {
+        "turkish_meaning": "Gözlük",
+        "sound_url": "sesler\\نظارة.mp3"
+    },
+    "عَدَدٌ": {
+        "turkish_meaning": "Sayı",
+        "sound_url": "sesler\\عدد.mp3"
+    },
+    "وَاحِدٌ": {
+        "turkish_meaning": "Bir",
+        "sound_url": "sesler\\واحد.mp3"
+    },
+    "اِثْنَانِ": {
+        "turkish_meaning": "İki ",
+        "sound_url": "sesler\\اثنان.mp3"
+    },
+    "ثَلاَثَةٌ": {
+        "turkish_meaning": "Üç ",
+        "sound_url": "sesler\\ثلاثة.mp3"
+    },
+    "أَرْبَعَةٌ": {
+        "turkish_meaning": "Dört",
+        "sound_url": "sesler\\أربعة.mp3"
+    },
+    "خَمْسَةٌ": {
+        "turkish_meaning": "Beş",
+        "sound_url": "sesler\\خمسة.mp3"
+    },
+    "سِتَّةٌ": {
+        "turkish_meaning": "Altı",
+        "sound_url": "sesler\\ستة.mp3"
+    },
+    "سَبْعَةٌ": {
+        "turkish_meaning": "Yedi",
+        "sound_url": "sesler\\سبعة.mp3"
+    },
+    "ثَمَانِيَةٌ": {
+        "turkish_meaning": "Sekiz",
+        "sound_url": "sesler\\ثمانية.mp3"
+    },
+    "تِسْعَةٌ": {
+        "turkish_meaning": "Dokuz",
+        "sound_url": "sesler\\تسعة.mp3"
+    },
+    "عَشَرَةٌ": {
+        "turkish_meaning": "On",
+        "sound_url": "sesler\\عشرة.mp3"
+    },
+    "أَجَابَ": {
+        "turkish_meaning": "Cevaplamak",
+        "sound_url": "sesler\\أجاب.mp3"
+    },
+    "اَلْاَسْءِلَةُ التَّلِيَةُ": {
+        "turkish_meaning": "Aşağıdaki sorular",
+        "sound_url": "sesler\\الاسءلة التلية.mp3"
+    },
+    "مُلَخَّصٌ": {
+        "turkish_meaning": "Özet",
+        "sound_url": "sesler\\ملخص.mp3"
+    },
+    "تَرْكِيبٌ": {
+        "turkish_meaning": "Terkip",
+        "sound_url": "sesler\\تركيب.mp3"
+    },
+    "صَوْتٌ": {
+        "turkish_meaning": "Ses",
+        "sound_url": "sesler\\صوت.mp3"
+    },
+    "مَسْمُوعٌ": {
+        "turkish_meaning": "İşitilen,duyulan,sesli",
+        "sound_url": "sesler\\مسموع.mp3"
+    },
+    "فَهِمَ": {
+        "turkish_meaning": "Anladı",
+        "sound_url": "sesler\\فهم.mp3"
+    },
+    "سَكَنَ": {
+        "turkish_meaning": "Oturmak , ikamet etmek",
+        "sound_url": "sesler\\سكن.mp3"
+    },
+    "مَطَارٌ": {
+        "turkish_meaning": "Hava alanı",
+        "sound_url": "sesler\\مطار.mp3"
+    },
+    "سَكَنٌ": {
+        "turkish_meaning": "Yurt",
+        "sound_url": "sesler\\سكن.mp3"
+    },
+    "خَيٌّ": {
+        "turkish_meaning": "Mahalle",
+        "sound_url": "sesler\\خي.mp3"
+    },
+    "جَامِعَةٌ": {
+        "turkish_meaning": "Üniversite",
+        "sound_url": "sesler\\جامعة.mp3"
+    },
+    "كُلِّيَّةٌ": {
+        "turkish_meaning": "Fakülte",
+        "sound_url": "sesler\\كلية.mp3"
+    },
+    "بَيْتٌ": {
+        "turkish_meaning": "Ev",
+        "sound_url": "sesler\\بيت.mp3"
+    },
+    "شَقَّةٌ": {
+        "turkish_meaning": "Daire",
+        "sound_url": "sesler\\شقة.mp3"
+    },
+    "دَوْرٌ": {
+        "turkish_meaning": "Kat",
+        "sound_url": "sesler\\دور.mp3"
+    },
+    "رَقْمٌ": {
+        "turkish_meaning": "Numara",
+        "sound_url": "sesler\\رقم.mp3"
+    },
+    "مَسْتَأْجِرٌ": {
+        "turkish_meaning": "Kiracı",
+        "sound_url": "sesler\\مستأجر.mp3"
+    },
+    "مُؤَجِّرٌ": {
+        "turkish_meaning": "Kiraya veren",
+        "sound_url": "sesler\\مؤجر.mp3"
+    },
+    "أَرَادَ": {
+        "turkish_meaning": "İstemek",
+        "sound_url": "sesler\\أراد.mp3"
+    },
+    "شَاهَدَ": {
+        "turkish_meaning": "Görmek,şahit olmak",
+        "sound_url": "sesler\\شاهد.mp3"
+    },
+    "بَاءِعٌ": {
+        "turkish_meaning": "Satıcı",
+        "sound_url": "sesler\\باءع.mp3"
+    },
+    "بَاعَ": {
+        "turkish_meaning": "Sattı",
+        "sound_url": "sesler\\باع.mp3"
+    },
+    "أَثَاثٌ": {
+        "turkish_meaning": "Ev eşyası,Mobilya",
+        "sound_url": "sesler\\أثاث.mp3"
+    },
+    "مِصْبَاحٌ": {
+        "turkish_meaning": "Lamba",
+        "sound_url": "sesler\\مصباح.mp3"
+    },
+    "غِطَاءٌ": {
+        "turkish_meaning": "Örtü,Kapak",
+        "sound_url": "sesler\\غطاء.mp3"
+    },
+    "هَاتِفٌ": {
+        "turkish_meaning": "Telefon",
+        "sound_url": "sesler\\هاتف.mp3"
+    },
+    "مِرْوَحَةٌ": {
+        "turkish_meaning": "Vantilatör,Pervane,Yelpaze",
+        "sound_url": "sesler\\مروحة.mp3"
+    },
+    "مُكَيِّفٌ": {
+        "turkish_meaning": "Klima",
+        "sound_url": "sesler\\مكيف.mp3"
+    },
+    "خِزَانَةٌ": {
+        "turkish_meaning": "Dolap",
+        "sound_url": "sesler\\خزانة.mp3"
+    },
+    "وِسَادَةٌ": {
+        "turkish_meaning": "Yastık",
+        "sound_url": "sesler\\وسادة.mp3"
+    },
+    "كُرْسِيٌّ": {
+        "turkish_meaning": "Sandalye",
+        "sound_url": "sesler\\كرسي.mp3"
+    },
+    "طَاوِلَةٌ": {
+        "turkish_meaning": "Masa",
+        "sound_url": "sesler\\طاولة.mp3"
+    },
+    "مِدْفَأَةٌ": {
+        "turkish_meaning": "Soba",
+        "sound_url": "sesler\\مدفأة.mp3"
+    },
+    "رَفٌّ": {
+        "turkish_meaning": "Raf",
+        "sound_url": "sesler\\رف.mp3"
+    },
+    "حَمَّامٌ": {
+        "turkish_meaning": "Banyo",
+        "sound_url": "sesler\\حمام.mp3"
+    },
+    "مَطْبَخٌ": {
+        "turkish_meaning": "Mutfak",
+        "sound_url": "sesler\\مطبخ.mp3"
+    },
+    "غُرْفَةُ النَّوْمِ": {
+        "turkish_meaning": "Yatak odası",
+        "sound_url": "sesler\\غرفة النوم.mp3"
+    },
+    "غَرْفَتُ الْجُلُوسِ": {
+        "turkish_meaning": "Oturma odası",
+        "sound_url": "sesler\\غرفت الجلوس.mp3"
+    },
+    "سَرِيرٌ": {
+        "turkish_meaning": "Yatak",
+        "sound_url": "sesler\\سرير.mp3"
+    },
+    "سِتَارَةٌ": {
+        "turkish_meaning": "Perde",
+        "sound_url": "sesler\\ستارة.mp3"
+    },
+    "أَرِيكَةٌ": {
+        "turkish_meaning": "Koltuk",
+        "sound_url": "sesler\\أريكة.mp3"
+    },
+    "سَجَّادَةٌ": {
+        "turkish_meaning": "Halı",
+        "sound_url": "sesler\\سجادة.mp3"
+    },
+    "فُرْنٌ": {
+        "turkish_meaning": "Fırın",
+        "sound_url": "sesler\\فرن.mp3"
+    },
+    "ثَلاَّجَةٌ": {
+        "turkish_meaning": "Buzdolabı",
+        "sound_url": "sesler\\ثلاجة.mp3"
+    },
+    "سَخَّانٌ": {
+        "turkish_meaning": "Şofben",
+        "sound_url": "sesler\\سخان.mp3"
+    },
+    "مِرْآةٌ": {
+        "turkish_meaning": "Ayna",
+        "sound_url": "sesler\\مرآة.mp3"
+    },
+    "يَوْمٌ": {
+        "turkish_meaning": "Gün",
+        "sound_url": "sesler\\يوم.mp3"
+    },
+    "أَسْبُوعٌ": {
+        "turkish_meaning": "Hafta",
+        "sound_url": "sesler\\أسبوع.mp3"
+    },
+    "شَهْرٌ": {
+        "turkish_meaning": "Ay",
+        "sound_url": "sesler\\شهر.mp3"
+    },
+    "سَنَةٌ": {
+        "turkish_meaning": "Yıl",
+        "sound_url": "sesler\\سنة.mp3"
+    },
+    "أَيَّامُ الْأَسْبُوعِ": {
+        "turkish_meaning": "Haftanın günleri",
+        "sound_url": "sesler\\أيام الأسبوع.mp3"
+    },
+    "اَلسَّبْتُ": {
+        "turkish_meaning": "Cumartesi",
+        "sound_url": "sesler\\السبت.mp3"
+    },
+    "اَلْأَحَدُ": {
+        "turkish_meaning": "Pazar",
+        "sound_url": "sesler\\الأحد.mp3"
+    },
+    "اَلْاِثْنَيْنِ": {
+        "turkish_meaning": "Pazartesi",
+        "sound_url": "sesler\\الاثنين.mp3"
+    },
+    "اَلثُّلَاثَاءُ": {
+        "turkish_meaning": "Salı",
+        "sound_url": "sesler\\الثلاثاء.mp3"
+    },
+    "اَلْأَرْبِعَاءُ": {
+        "turkish_meaning": "Çarşamba",
+        "sound_url": "sesler\\الأربعاء.mp3"
+    },
+    "اَلْخَمِيسُ": {
+        "turkish_meaning": "Perşembe",
+        "sound_url": "sesler\\الخميس.mp3"
+    },
+    "اَلْجُمُعَةُ": {
+        "turkish_meaning": "Cuma",
+        "sound_url": "sesler\\الجمعة.mp3"
+    },
+    "أَكْمَلَ": {
+        "turkish_meaning": "Tamamlamak",
+        "sound_url": "sesler\\أكمل.mp3"
+    },
+    "زَكَرَ": {
+        "turkish_meaning": "Hatırlamak ,Söylemek,Zikretmek",
+        "sound_url": "sesler\\زكر.mp3"
+    },
+    "مُرَبَّعٌ": {
+        "turkish_meaning": "Kare",
+        "sound_url": "sesler\\مربع.mp3"
+    },
+    "حَيَاةٌ": {
+        "turkish_meaning": "Hayat",
+        "sound_url": "sesler\\حياة.mp3"
+    },
+    "جَمِيلٌ": {
+        "turkish_meaning": "Güzel",
+        "sound_url": "sesler\\جميل.mp3"
+    },
+    "قَبِيحٌ": {
+        "turkish_meaning": "Çirkin",
+        "sound_url": "sesler\\قبيح.mp3"
+    },
+    "مَسْجِدٌ": {
+        "turkish_meaning": "Mescit",
+        "sound_url": "sesler\\مسجد.mp3"
+    },
+    "اِسْتَيْقَظَ": {
+        "turkish_meaning": "Uyanmak",
+        "sound_url": "sesler\\استيقظ.mp3"
+    },
+    "نَامَ": {
+        "turkish_meaning": "Uyudu",
+        "sound_url": "sesler\\نام.mp3"
+    },
+    "فَعَلَ": {
+        "turkish_meaning": "Yapmak",
+        "sound_url": "sesler\\فعل.mp3"
+    },
+    "زَهَبَ": {
+        "turkish_meaning": "Gitmek",
+        "sound_url": "sesler\\زهب.mp3"
+    },
+    "سَيَّارَةٌ": {
+        "turkish_meaning": "Araba",
+        "sound_url": "sesler\\سيارة.mp3"
+    },
+    "حَافِلَةٌ": {
+        "turkish_meaning": "Otobüs",
+        "sound_url": "sesler\\حافلة.mp3"
+    },
+    "مَتْرُو": {
+        "turkish_meaning": "Metro",
+        "sound_url": "sesler\\مترو.mp3"
+    },
+    "صَلاَةٌ": {
+        "turkish_meaning": "Namaz",
+        "sound_url": "sesler\\صلاة.mp3"
+    },
+    "وُضُوءٌ": {
+        "turkish_meaning": "Abdest ",
+        "sound_url": "sesler\\وضوء.mp3"
+    },
+    "عُطْلَةٌ": {
+        "turkish_meaning": "Tatil-Tatil günü",
+        "sound_url": "sesler\\عطلة.mp3"
+    },
+    "عَمَلٌ": {
+        "turkish_meaning": "İş-İş günü",
+        "sound_url": "sesler\\عمل.mp3"
+    },
+    "عَمِلَ": {
+        "turkish_meaning": "Çalışmak,Yapmak",
+        "sound_url": "sesler\\عمل.mp3"
+    },
+    "كَنَسَ": {
+        "turkish_meaning": "Süpürmek",
+        "sound_url": "sesler\\كنس.mp3"
+    },
+    "غَسَلَ": {
+        "turkish_meaning": "Yıkamak",
+        "sound_url": "sesler\\غسل.mp3"
+    },
+    "طَبَقٌ": {
+        "turkish_meaning": "Tabak",
+        "sound_url": "sesler\\طبق.mp3"
+    },
+    "كَوَى": {
+        "turkish_meaning": "Ütüledi",
+        "sound_url": "sesler\\كوى.mp3"
+    },
+    "مِكْوَاةٌ": {
+        "turkish_meaning": "Ütü",
+        "sound_url": "sesler\\مكواة.mp3"
+    },
+    "ثَوْبٌ": {
+        "turkish_meaning": "Elbise",
+        "sound_url": "sesler\\ثوب.mp3"
+    },
+    "مَلْبَسٌ": {
+        "turkish_meaning": "Elbise",
+        "sound_url": "sesler\\ملبس.mp3"
+    },
+    "مُبَكِّرًا": {
+        "turkish_meaning": "Erkenden",
+        "sound_url": "sesler\\مبكرا.mp3"
+    },
+    "مُتَأَخِّرًا": {
+        "turkish_meaning": "Geç",
+        "sound_url": "sesler\\متأخرا.mp3"
+    },
+    "مُشَاهَدَةُ التِّلْفَازِ": {
+        "turkish_meaning": "Televizyon seyretmek",
+        "sound_url": "sesler\\مشاهدة التلفاز.mp3"
+    },
+    "صَحِيفَةٌ": {
+        "turkish_meaning": "Gazete",
+        "sound_url": "sesler\\صحيفة.mp3"
+    },
+    "جَرِيدَةٌ": {
+        "turkish_meaning": "Gazete",
+        "sound_url": "sesler\\جريدة.mp3"
+    },
+    "مَجَلَّةٌ": {
+        "turkish_meaning": "Dergi",
+        "sound_url": "sesler\\مجلة.mp3"
+    },
+    "كَبِيرٌ": {
+        "turkish_meaning": "Büyük",
+        "sound_url": "sesler\\كبير.mp3"
+    },
+    "صَغِيرٌ": {
+        "turkish_meaning": "Küçük",
+        "sound_url": "sesler\\صغير.mp3"
+    },
+    "سَاعَةٌ": {
+        "turkish_meaning": "Saat",
+        "sound_url": "sesler\\ساعة.mp3"
+    },
+    "اَلْأَعْدَادُ التَّرْتِيبِيَّةُ": {
+        "turkish_meaning": "Sıra sayıları",
+        "sound_url": "sesler\\الأعداد الترتيبية.mp3"
+    },
+    "اَلْأَوَّلُ": {
+        "turkish_meaning": "Birinci",
+        "sound_url": "sesler\\الأول.mp3"
+    },
+    "اَلثَّانِي": {
+        "turkish_meaning": "İkinci",
+        "sound_url": "sesler\\الثاني.mp3"
+    },
+    "اَلثَّالِثُ": {
+        "turkish_meaning": "Üçüncü",
+        "sound_url": "sesler\\الثالث.mp3"
+    },
+    "اَلرَّابِعُ": {
+        "turkish_meaning": "Dördüncü",
+        "sound_url": "sesler\\الرابع.mp3"
+    },
+    "اَلْخَامِسُ": {
+        "turkish_meaning": "Beşinci",
+        "sound_url": "sesler\\الخامس.mp3"
+    },
+    "اَلسَّادِسُ": {
+        "turkish_meaning": "Altıncı",
+        "sound_url": "sesler\\السادس.mp3"
+    },
+    "اَلسَّابِعُ": {
+        "turkish_meaning": "Yedinci",
+        "sound_url": "sesler\\السابع.mp3"
+    },
+    "اَلثَّامِنُ": {
+        "turkish_meaning": "Sekizinci",
+        "sound_url": "sesler\\الثامن.mp3"
+    },
+    "اَلتَّاسِعُ": {
+        "turkish_meaning": "Dokuzuncu",
+        "sound_url": "sesler\\التاسع.mp3"
+    },
+    "اَلْعَاشِرُ": {
+        "turkish_meaning": "Onuncu",
+        "sound_url": "sesler\\العاشر.mp3"
+    },
+    "اَلْفَجْرُ": {
+        "turkish_meaning": "Sabah(Sabah namazı)",
+        "sound_url": "sesler\\الفجر.mp3"
+    },
+    "اَلظُّهْرُ": {
+        "turkish_meaning": "Öğle",
+        "sound_url": "sesler\\الظهر.mp3"
+    },
+    "اَلْعَصْرُ": {
+        "turkish_meaning": "İkindi",
+        "sound_url": "sesler\\العصر.mp3"
+    },
+    "اَلْمَغْرِبُ": {
+        "turkish_meaning": "Akşam",
+        "sound_url": "sesler\\المغرب.mp3"
+    },
+    "العِشَاءُ": {
+        "turkish_meaning": "Yatsı",
+        "sound_url": "sesler\\العشاء.mp3"
+    },
+    "فِعْلٌ": {
+        "turkish_meaning": "Fiil,Eylem",
+        "sound_url": "sesler\\فعل.mp3"
+    },
+    "مَكَانٌ": {
+        "turkish_meaning": "Yer,Mekan",
+        "sound_url": "sesler\\مكان.mp3"
+    },
+    "فِقْرَةٌ": {
+        "turkish_meaning": "Okuma parçası,Paragraf",
+        "sound_url": "sesler\\فقرة.mp3"
+    },
+    "نَصٌّ": {
+        "turkish_meaning": "Metin",
+        "sound_url": "sesler\\نص.mp3"
+    },
+    "طَعَامٌ": {
+        "turkish_meaning": "Yiyecek",
+        "sound_url": "sesler\\طعام.mp3"
+    },
+    "شَرَابٌ": {
+        "turkish_meaning": "İçecek",
+        "sound_url": "sesler\\شراب.mp3"
+    },
+    "وَجْبَةٌ": {
+        "turkish_meaning": "Öğün",
+        "sound_url": "sesler\\وجبة.mp3"
+    },
+    "أَكَلَ": {
+        "turkish_meaning": "Yedi",
+        "sound_url": "sesler\\أكل.mp3"
+    },
+    "شَرِبَ": {
+        "turkish_meaning": "İçmek",
+        "sound_url": "sesler\\شرب.mp3"
+    },
+    "فَطُورٌ": {
+        "turkish_meaning": "Kahvaltı",
+        "sound_url": "sesler\\فطور.mp3"
+    },
+    "غَدَاءٌ": {
+        "turkish_meaning": "Öğle yemeği",
+        "sound_url": "sesler\\غداء.mp3"
+    },
+    "عَشَاءٌ": {
+        "turkish_meaning": "Akşam yemeği",
+        "sound_url": "sesler\\عشاء.mp3"
+    },
+    "لَحْمٌ": {
+        "turkish_meaning": "Et",
+        "sound_url": "sesler\\لحم.mp3"
+    },
+    "دَجَاجَةٌ": {
+        "turkish_meaning": "Tavuk",
+        "sound_url": "sesler\\دجاجة.mp3"
+    },
+    "أَرُزُّ": {
+        "turkish_meaning": "Pirinç,pilav",
+        "sound_url": "sesler\\أرز.mp3"
+    },
+    "بُرْغُلٌ": {
+        "turkish_meaning": "Bulgur",
+        "sound_url": "sesler\\برغل.mp3"
+    },
+    "خُبْزٌ": {
+        "turkish_meaning": "Ekmek",
+        "sound_url": "sesler\\خبز.mp3"
+    },
+    "سَمَكٌ": {
+        "turkish_meaning": "Balık",
+        "sound_url": "sesler\\سمك.mp3"
+    },
+    "سَمَّكٌ": {
+        "turkish_meaning": "Balıkçı",
+        "sound_url": "sesler\\سمك.mp3"
+    },
+    "فَاكِهَةٌ": {
+        "turkish_meaning": "Meyve",
+        "sound_url": "sesler\\فاكهة.mp3"
+    },
+    "تُفَّاحَةٌ": {
+        "turkish_meaning": "Elma",
+        "sound_url": "sesler\\تفاحة.mp3"
+    },
+    "بُرْتَقَالَةٌ": {
+        "turkish_meaning": "Portakal",
+        "sound_url": "sesler\\برتقالة.mp3"
+    },
+    "لَيْمُونَةٌ": {
+        "turkish_meaning": "Limon",
+        "sound_url": "sesler\\ليمونة.mp3"
+    },
+    "مَوْزَةٌ": {
+        "turkish_meaning": "Muz",
+        "sound_url": "sesler\\موزة.mp3"
+    },
+    "تُوْتَةٌ": {
+        "turkish_meaning": "Dut",
+        "sound_url": "sesler\\توتة.mp3"
+    },
+    "خَوْخَةٌ": {
+        "turkish_meaning": "Şeftali",
+        "sound_url": "sesler\\خوخة.mp3"
+    },
+    "عِنَبٌ": {
+        "turkish_meaning": "Üzüm",
+        "sound_url": "sesler\\عنب.mp3"
+    },
+    "مَانْجُو": {
+        "turkish_meaning": "Mango",
+        "sound_url": "sesler\\مانجو.mp3"
+    },
+    "يُوسُفِيَّةٌ": {
+        "turkish_meaning": "Mandalina",
+        "sound_url": "sesler\\يوسفية.mp3"
+    },
+    "تِينٌ": {
+        "turkish_meaning": "İncir",
+        "sound_url": "sesler\\تين.mp3"
+    },
+    "مِشْمِشٌ": {
+        "turkish_meaning": "Zerdali",
+        "sound_url": "sesler\\مشمش.mp3"
+    },
+    "رُمَّانٌ": {
+        "turkish_meaning": "Nar",
+        "sound_url": "sesler\\رمان.mp3"
+    },
+    "خَضْرَاوَاتٌ": {
+        "turkish_meaning": "Sebze",
+        "sound_url": "sesler\\خضراوات.mp3"
+    },
+    "خَسٌّ": {
+        "turkish_meaning": "Marul",
+        "sound_url": "sesler\\خس.mp3"
+    },
+    "كُرَّاثَةٌ": {
+        "turkish_meaning": "Pırasa",
+        "sound_url": "sesler\\كراثة.mp3"
+    },
+    "بَقْدُونِسٌ": {
+        "turkish_meaning": "Maydanoz",
+        "sound_url": "sesler\\بقدونس.mp3"
+    },
+    "بَطَاطِسٌ": {
+        "turkish_meaning": "Patates",
+        "sound_url": "sesler\\بطاطس.mp3"
+    },
+    "قَرْعٌ": {
+        "turkish_meaning": "Kabak",
+        "sound_url": "sesler\\قرع.mp3"
+    },
+    "بَامْيَا": {
+        "turkish_meaning": "Bamya",
+        "sound_url": "sesler\\باميا.mp3"
+    },
+    "بَازِنْجَانٌ": {
+        "turkish_meaning": "Patlıcan",
+        "sound_url": "sesler\\بازنجان.mp3"
+    },
+    "فَاصُولْيَا": {
+        "turkish_meaning": "Yeşil fasulye",
+        "sound_url": "sesler\\فاصوليا.mp3"
+    },
+    "فُلْفُلٌ": {
+        "turkish_meaning": "Biber",
+        "sound_url": "sesler\\فلفل.mp3"
+    },
+    "لُوبِيَاء": {
+        "turkish_meaning": "Barbunya",
+        "sound_url": "sesler\\لوبياء.mp3"
+    },
+    "وَزْنٌ": {
+        "turkish_meaning": "Ağırlık",
+        "sound_url": "sesler\\وزن.mp3"
+    },
+    "مِءَةُ كَيْلٍ": {
+        "turkish_meaning": "100 kilo",
+        "sound_url": "sesler\\مءة كيل.mp3"
+    },
+    "كَيْلٌ": {
+        "turkish_meaning": "Kilo,ölçü",
+        "sound_url": "sesler\\كيل.mp3"
+    },
+    "سَمِيْنٌ": {
+        "turkish_meaning": "Şişman",
+        "sound_url": "sesler\\سمين.mp3"
+    },
+    "نَحِيفٌ": {
+        "turkish_meaning": "Zayıf",
+        "sound_url": "sesler\\نحيف.mp3"
+    },
+    "مُضِيفٌ": {
+        "turkish_meaning": "Ev sahibi;Host-Hostes",
+        "sound_url": "sesler\\مضيف.mp3"
+    },
+    "مُسَافِرٌ": {
+        "turkish_meaning": "Yolcu",
+        "sound_url": "sesler\\مسافر.mp3"
+    },
+    "طَلَبَ": {
+        "turkish_meaning": "İstemek",
+        "sound_url": "sesler\\طلب.mp3"
+    },
+    "فَضَّلَ": {
+        "turkish_meaning": "Bir şeyi bir şeye tercih etmek",
+        "sound_url": "sesler\\فضل.mp3"
+    },
+    "تَمْرٌ": {
+        "turkish_meaning": "Hurma",
+        "sound_url": "sesler\\تمر.mp3"
+    },
+    "اَلْقَهْوَةُ بِالْحَلِيبِ": {
+        "turkish_meaning": "Sütlü kahve",
+        "sound_url": "sesler\\القهوة بالحليب.mp3"
+    },
+    "حَلِيبَ": {
+        "turkish_meaning": "Süt",
+        "sound_url": "sesler\\حليب.mp3"
+    },
+    "شَكَرَ": {
+        "turkish_meaning": "Şükretti",
+        "sound_url": "sesler\\شكر.mp3"
+    },
+    "جَوْعَانُ": {
+        "turkish_meaning": "Aç",
+        "sound_url": "sesler\\جوعان.mp3"
+    },
+    "ثَبْعَانُ": {
+        "turkish_meaning": "Tok",
+        "sound_url": "sesler\\ثبعان.mp3"
+    },
+    "مَاءِدَةٌ": {
+        "turkish_meaning": "Sofra",
+        "sound_url": "sesler\\ماءدة.mp3"
+    },
+    "ضَيْفٌ": {
+        "turkish_meaning": "Misafir,konuk",
+        "sound_url": "sesler\\ضيف.mp3"
+    },
+    "حَوَّلَ": {
+        "turkish_meaning": "Değiştirmek",
+        "sound_url": "sesler\\حول.mp3"
+    },
+    "عَصِيرٌ": {
+        "turkish_meaning": "Meyve suyu",
+        "sound_url": "sesler\\عصير.mp3"
+    },
+    "يُزَلْزِلُ": {
+        "turkish_meaning": "Sarsıyor / Sallıyor",
+        "sound_url": "sesler\\يزلزل.mp3"
+    },
+    "يُتْمٌ": {
+        "turkish_meaning": "Yetim kalmak",
+        "sound_url": "sesler\\يتم.mp3"
+    },
+    "يَئِسُ": {
+        "turkish_meaning": "Ümidini kesti",
+        "sound_url": "sesler\\يئس.mp3"
+    },
+    "يَيْقَظُ": {
+        "turkish_meaning": "Uyanıyor / Uyanık oluyor",
+        "sound_url": "sesler\\ييقظ.mp3"
+    },
+    "يَيْتُمُ": {
+        "turkish_meaning": "Yetim kalıyor",
+        "sound_url": "sesler\\ييتم.mp3"
+    },
+    "يَوْجَلُ": {
+        "turkish_meaning": "Korkuyor",
+        "sound_url": "sesler\\يوجل.mp3"
+    },
+    "يَهْوَى": {
+        "turkish_meaning": "Seviyor",
+        "sound_url": "sesler\\يهوى.mp3"
+    },
+    "يَهَبُ": {
+        "turkish_meaning": "Veriyor / bağışlıyor",
+        "sound_url": "sesler\\يهب.mp3"
+    },
+    "يَنْهَى": {
+        "turkish_meaning": "Yasaklıyor / Nehyediyor",
+        "sound_url": "sesler\\ينهى.mp3"
+    },
+    "يَنْصَحُ": {
+        "turkish_meaning": "Öğütlüyor  // Nasihat ediyor",
+        "sound_url": "sesler\\ينصح.mp3"
+    },
+    "يَنْسَى": {
+        "turkish_meaning": "Unutuyor",
+        "sound_url": "sesler\\ينسى.mp3"
+    },
+    "يَمْلَأُ": {
+        "turkish_meaning": "Dolduruyor",
+        "sound_url": "sesler\\يملأ.mp3"
+    },
+    "يَمَسُّ": {
+        "turkish_meaning": "Dokunuyor // Temas ediyor",
+        "sound_url": "sesler\\يمس.mp3"
+    },
+    "يَلِي": {
+        "turkish_meaning": "İş başına geliyor / Yönetiyor / Gözetiyor",
+        "sound_url": "sesler\\يلي.mp3"
+    },
+    "يَكْوِي": {
+        "turkish_meaning": "Ütülüyor / dağlıyor",
+        "sound_url": "sesler\\يكوي.mp3"
+    },
+    "يَقِي": {
+        "turkish_meaning": "Koruyor , muhafaza ediyor",
+        "sound_url": "sesler\\يقي.mp3"
+    },
+    "يَقِنَ": {
+        "turkish_meaning": "Kesin olarak bildi",
+        "sound_url": "sesler\\يقن.mp3"
+    },
+    "يَقِظَ": {
+        "turkish_meaning": "Uyandı",
+        "sound_url": "sesler\\يقظ.mp3"
+    },
+    "يَقَظٌ": {
+        "turkish_meaning": "Uyanmak",
+        "sound_url": "sesler\\يقظ.mp3"
+    },
+    "يَفِرُّ": {
+        "turkish_meaning": "Kaçıyor",
+        "sound_url": "sesler\\يفر.mp3"
+    },
+    "يَعْرِفُ": {
+        "turkish_meaning": "Biliyor / Tanıyor",
+        "sound_url": "sesler\\يعرف.mp3"
+    },
+    "يَشْكُرُ": {
+        "turkish_meaning": "Şükrediyor",
+        "sound_url": "sesler\\يشكر.mp3"
+    },
+    "يَسْمَعُ": {
+        "turkish_meaning": "İşitiyor // Dinliyor",
+        "sound_url": "sesler\\يسمع.mp3"
+    },
+    "يَسْقِي": {
+        "turkish_meaning": "Suluyor / Su veriyor",
+        "sound_url": "sesler\\يسقي.mp3"
+    },
+    "يَسْأَلُ": {
+        "turkish_meaning": "Soruyor  //  İstiyor",
+        "sound_url": "sesler\\يسأل.mp3"
+    },
+    "يَسُرُّ": {
+        "turkish_meaning": "Sevindiriyor",
+        "sound_url": "sesler\\يسر.mp3"
+    },
+    "يَسُرَ": {
+        "turkish_meaning": "Kolay oldu",
+        "sound_url": "sesler\\يسر.mp3"
+    },
+    "يَزِيدُ": {
+        "turkish_meaning": "Artırıyor,çoğaltıyor",
+        "sound_url": "sesler\\يزيد.mp3"
+    },
+    "يَزُورُ": {
+        "turkish_meaning": "Ziyaret ediyor",
+        "sound_url": "sesler\\يزور.mp3"
+    },
+    "يَرْؤُفُ": {
+        "turkish_meaning": "Acıyor // Merhamet ediyor",
+        "sound_url": "sesler\\يرؤف.mp3"
+    },
+    "يَرِثُ": {
+        "turkish_meaning": "Varis / Mirasçı oluyor",
+        "sound_url": "sesler\\يرث.mp3"
+    },
+    "يَدْعُو": {
+        "turkish_meaning": "Çağırıyor,davet ediyor",
+        "sound_url": "sesler\\يدعو.mp3"
+    },
+    "يَخَافُ": {
+        "turkish_meaning": "Korkuyor",
+        "sound_url": "sesler\\يخاف.mp3"
+    },
+    "يَحْسِبُ": {
+        "turkish_meaning": "Sanıyor // Zannediyor",
+        "sound_url": "sesler\\يحسب.mp3"
+    },
+    "يَجِدُ": {
+        "turkish_meaning": "Buluyor",
+        "sound_url": "sesler\\يجد.mp3"
+    },
+    "يَتُمَ": {
+        "turkish_meaning": "Yetim kaldı",
+        "sound_url": "sesler\\يتم.mp3"
+    },
+    "يَبْعُدُ": {
+        "turkish_meaning": "Uzak oluyor",
+        "sound_url": "sesler\\يبعد.mp3"
+    },
+    "يَبِسَ": {
+        "turkish_meaning": "Kurudu , kuru oldu",
+        "sound_url": "sesler\\يبس.mp3"
+    },
+    "يَأْمُرُ": {
+        "turkish_meaning": "Emrediyor",
+        "sound_url": "sesler\\يأمر.mp3"
+    },
+    "يَأْلَفُ": {
+        "turkish_meaning": "Alışıyor  //  Isınıyor",
+        "sound_url": "sesler\\يألف.mp3"
+    },
+    "يَأْسِرُ": {
+        "turkish_meaning": "Esir alıyor",
+        "sound_url": "sesler\\يأسر.mp3"
+    },
+    "وِلَايَةٌ": {
+        "turkish_meaning": "Yönetmek",
+        "sound_url": "sesler\\ولاية.mp3"
+    },
+    "وِقَايَةٌ": {
+        "turkish_meaning": "Korumak",
+        "sound_url": "sesler\\وقاية.mp3"
+    },
+    "وِرَاثَهٌ": {
+        "turkish_meaning": "Varis olmak",
+        "sound_url": "sesler\\وراثه.mp3"
+    },
+    "وُجُودٌ": {
+        "turkish_meaning": "Bulmak",
+        "sound_url": "sesler\\وجود.mp3"
+    },
+    "وَهْبٌ": {
+        "turkish_meaning": "Vermek",
+        "sound_url": "sesler\\وهب.mp3"
+    },
+    "وَهِيَ": {
+        "turkish_meaning": "Sağlığı bozulmak , kötüleşmek",
+        "sound_url": "sesler\\وهي.mp3"
+    },
+    "وَهِمَ": {
+        "turkish_meaning": "Yanıldı,hata etti",
+        "sound_url": "sesler\\وهم.mp3"
+    },
+    "وَهِلَ": {
+        "turkish_meaning": "Zayıf ve korkak oldu",
+        "sound_url": "sesler\\وهل.mp3"
+    },
+    "وَهَبَ": {
+        "turkish_meaning": "Verdi",
+        "sound_url": "sesler\\وهب.mp3"
+    },
+    "وَمِقَ": {
+        "turkish_meaning": "Sevdi , sevgi besledi",
+        "sound_url": "sesler\\ومق.mp3"
+    },
+    "وَلِيَ": {
+        "turkish_meaning": "Yönetti",
+        "sound_url": "sesler\\ولي.mp3"
+    },
+    "وَلَغَ": {
+        "turkish_meaning": "Yaladı",
+        "sound_url": "sesler\\ولغ.mp3"
+    },
+    "وَلَدَ": {
+        "turkish_meaning": "Doğurdu",
+        "sound_url": "sesler\\ولد.mp3"
+    },
+    "وَكَزَ": {
+        "turkish_meaning": "Dürttü",
+        "sound_url": "sesler\\وكز.mp3"
+    },
+    "وَقِرَ": {
+        "turkish_meaning": "Kulağı işitmez oldu",
+        "sound_url": "sesler\\وقر.mp3"
+    },
+    "وَقَى": {
+        "turkish_meaning": "Korudu",
+        "sound_url": "sesler\\وقى.mp3"
+    },
+    "وَفِقَ": {
+        "turkish_meaning": "Uygun ve muvafık oldu",
+        "sound_url": "sesler\\وفق.mp3"
+    },
+    "وَفَى": {
+        "turkish_meaning": "Vefalı oldu",
+        "sound_url": "sesler\\وفى.mp3"
+    },
+    "وَعَى": {
+        "turkish_meaning": "Anladı,kavradı",
+        "sound_url": "sesler\\وعى.mp3"
+    },
+    "وَعَظَ": {
+        "turkish_meaning": "Vazetti",
+        "sound_url": "sesler\\وعظ.mp3"
+    },
+    "وَعَدَ": {
+        "turkish_meaning": "Vadetti",
+        "sound_url": "sesler\\وعد.mp3"
+    },
+    "وَصَفَ": {
+        "turkish_meaning": "Anlattı",
+        "sound_url": "sesler\\وصف.mp3"
+    },
+    "وَشَى": {
+        "turkish_meaning": "İspiyonladı ,gammazladı",
+        "sound_url": "sesler\\وشى.mp3"
+    },
+    "وَزَنَ": {
+        "turkish_meaning": "Tarttı",
+        "sound_url": "sesler\\وزن.mp3"
+    },
+    "وَزَعَ": {
+        "turkish_meaning": "Alıkoydu",
+        "sound_url": "sesler\\وزع.mp3"
+    },
+    "وَرِيَ": {
+        "turkish_meaning": "Çakmak taşı çaktı",
+        "sound_url": "sesler\\وري.mp3"
+    },
+    "وَرِثَ": {
+        "turkish_meaning": "Varis oldu",
+        "sound_url": "sesler\\ورث.mp3"
+    },
+    "وَدَّ": {
+        "turkish_meaning": "Sevdi",
+        "sound_url": "sesler\\ود.mp3"
+    },
+    "وَدَعَ": {
+        "turkish_meaning": "Bıraktı",
+        "sound_url": "sesler\\ودع.mp3"
+    },
+    "وَجِلَ": {
+        "turkish_meaning": "Korktu",
+        "sound_url": "sesler\\وجل.mp3"
+    },
+    "وَجَلٌ": {
+        "turkish_meaning": "Korkmak",
+        "sound_url": "sesler\\وجل.mp3"
+    },
+    "وَجَدَ": {
+        "turkish_meaning": "Buldu",
+        "sound_url": "sesler\\وجد.mp3"
+    },
+    "وَثِقَ": {
+        "turkish_meaning": "Güvendi",
+        "sound_url": "sesler\\وثق.mp3"
+    },
+    "هَوِيَ": {
+        "turkish_meaning": "Sevdi",
+        "sound_url": "sesler\\هوي.mp3"
+    },
+    "هَوًى": {
+        "turkish_meaning": "Sevmek",
+        "sound_url": "sesler\\هوى.mp3"
+    },
+    "هَبْ": {
+        "turkish_meaning": "Ver ! // Bağışla !",
+        "sound_url": "sesler\\هب.mp3"
+    },
+    "هَابَ": {
+        "turkish_meaning": "Korktu",
+        "sound_url": "sesler\\هاب.mp3"
+    },
+    "نِسْيَانٌ": {
+        "turkish_meaning": "Unutmak",
+        "sound_url": "sesler\\نسيان.mp3"
+    },
+    "نُصْحًا": {
+        "turkish_meaning": "Nasihat etmek",
+        "sound_url": "sesler\\نصحا.mp3"
+    },
+    "نَهْيٌ": {
+        "turkish_meaning": "Yasaklamak",
+        "sound_url": "sesler\\نهي.mp3"
+    },
+    "نَهَى": {
+        "turkish_meaning": "Yasakladı",
+        "sound_url": "sesler\\نهى.mp3"
+    },
+    "نَقَلَ": {
+        "turkish_meaning": "Taşıdı",
+        "sound_url": "sesler\\نقل.mp3"
+    },
+    "نَصَحَ": {
+        "turkish_meaning": "Öğütledi",
+        "sound_url": "sesler\\نصح.mp3"
+    },
+    "نَسِيَ": {
+        "turkish_meaning": "Unuttu",
+        "sound_url": "sesler\\نسي.mp3"
+    },
+    "نَالَ": {
+        "turkish_meaning": "Kazandı",
+        "sound_url": "sesler\\نال.mp3"
+    },
+    "مُرْ": {
+        "turkish_meaning": "Emret !",
+        "sound_url": "sesler\\مر.mp3"
+    },
+    "مَنَعَ": {
+        "turkish_meaning": "Engelledi",
+        "sound_url": "sesler\\منع.mp3"
+    },
+    "مَنَحَ": {
+        "turkish_meaning": "Verdi",
+        "sound_url": "sesler\\منح.mp3"
+    },
+    "مَلَّ": {
+        "turkish_meaning": "Usandı",
+        "sound_url": "sesler\\مل.mp3"
+    },
+    "مَلْءٌ": {
+        "turkish_meaning": "Doldurmak",
+        "sound_url": "sesler\\ملء.mp3"
+    },
+    "مَلَأَ": {
+        "turkish_meaning": "Doldurdu",
+        "sound_url": "sesler\\ملأ.mp3"
+    },
+    "مَعْرِفَهٌ": {
+        "turkish_meaning": "Bilmek",
+        "sound_url": "sesler\\معرفه.mp3"
+    },
+    "مَسَّ": {
+        "turkish_meaning": "Dokundu",
+        "sound_url": "sesler\\مس.mp3"
+    },
+    "مَسٌّ": {
+        "turkish_meaning": "Dokunmak",
+        "sound_url": "sesler\\مس.mp3"
+    },
+    "مَدَّ": {
+        "turkish_meaning": "Uzattı      ",
+        "sound_url": "sesler\\مد.mp3"
+    },
+    "مَدَحَ": {
+        "turkish_meaning": "Övdü",
+        "sound_url": "sesler\\مدح.mp3"
+    },
+    "مَحَا": {
+        "turkish_meaning": "Sildi",
+        "sound_url": "sesler\\محا.mp3"
+    },
+    "لِ": {
+        "turkish_meaning": "Yönet ! // Gözet !",
+        "sound_url": "sesler\\ل.mp3"
+    },
+    "لَؤُمَ": {
+        "turkish_meaning": "Adi ve alçak oldu",
+        "sound_url": "sesler\\لؤم.mp3"
+    },
+    "لَوَى": {
+        "turkish_meaning": "Niyetlendi",
+        "sound_url": "sesler\\لوى.mp3"
+    },
+    "لَقِيَ": {
+        "turkish_meaning": "Karşılaştı , görüştü,buluştu",
+        "sound_url": "sesler\\لقي.mp3"
+    },
+    "لَجَأَ": {
+        "turkish_meaning": "Sığındı",
+        "sound_url": "sesler\\لجأ.mp3"
+    },
+    "لَامَ": {
+        "turkish_meaning": "Kınadı",
+        "sound_url": "sesler\\لام.mp3"
+    },
+    "كَيٌ": {
+        "turkish_meaning": "Ütülemek",
+        "sound_url": "sesler\\كي.mp3"
+    },
+    "كَسَا": {
+        "turkish_meaning": "Giydirdi",
+        "sound_url": "sesler\\كسا.mp3"
+    },
+    "كَرُمَ": {
+        "turkish_meaning": "Cömert oldu",
+        "sound_url": "sesler\\كرم.mp3"
+    },
+    "كَالَ": {
+        "turkish_meaning": "Ölçüp verdi",
+        "sound_url": "sesler\\كال.mp3"
+    },
+    "قِ": {
+        "turkish_meaning": "Koru ! // Muhafaza et !",
+        "sound_url": "sesler\\ق.mp3"
+    },
+    "قَوِيَ": {
+        "turkish_meaning": "Güçlü kuvvetli oldu",
+        "sound_url": "sesler\\قوي.mp3"
+    },
+    "قَرَى": {
+        "turkish_meaning": "Ağırladı",
+        "sound_url": "sesler\\قرى.mp3"
+    },
+    "قَتَلَ": {
+        "turkish_meaning": "Öldürdü",
+        "sound_url": "sesler\\قتل.mp3"
+    },
+    "قَاسَ": {
+        "turkish_meaning": "Kıyas etti",
+        "sound_url": "sesler\\قاس.mp3"
+    },
+    "قَادَ": {
+        "turkish_meaning": "Yönetti",
+        "sound_url": "sesler\\قاد.mp3"
+    },
+    "فِرَّ": {
+        "turkish_meaning": "Kaç !",
+        "sound_url": "sesler\\فر.mp3"
+    },
+    "فِرَارٌ": {
+        "turkish_meaning": "Kaçmak ",
+        "sound_url": "sesler\\فرار.mp3"
+    },
+    "فَصَلَ": {
+        "turkish_meaning": "Ayırdı",
+        "sound_url": "sesler\\فصل.mp3"
+    },
+    "فَرَّ": {
+        "turkish_meaning": "Kaçtı",
+        "sound_url": "sesler\\فر.mp3"
+    },
+    "فَاقَ": {
+        "turkish_meaning": "Üstün oldu",
+        "sound_url": "sesler\\فاق.mp3"
+    },
+    "غَفَرَ": {
+        "turkish_meaning": "Affetti",
+        "sound_url": "sesler\\غفر.mp3"
+    },
+    "غَزَا": {
+        "turkish_meaning": "Savaştı",
+        "sound_url": "sesler\\غزا.mp3"
+    },
+    "غَارَ": {
+        "turkish_meaning": "Kıskandı",
+        "sound_url": "sesler\\غار.mp3"
+    },
+    "عَضَّ": {
+        "turkish_meaning": "Isırdı",
+        "sound_url": "sesler\\عض.mp3"
+    },
+    "عَصَمَ": {
+        "turkish_meaning": "Korudu",
+        "sound_url": "sesler\\عصم.mp3"
+    },
+    "عَرَفَ": {
+        "turkish_meaning": "Bildi",
+        "sound_url": "sesler\\عرف.mp3"
+    },
+    "عَدَّ": {
+        "turkish_meaning": "Saydı",
+        "sound_url": "sesler\\عد.mp3"
+    },
+    "عَابَ": {
+        "turkish_meaning": "Ayıpladı",
+        "sound_url": "sesler\\عاب.mp3"
+    },
+    "ظَلَّ": {
+        "turkish_meaning": "Kaldı",
+        "sound_url": "sesler\\ظل.mp3"
+    },
+    "طَوَى": {
+        "turkish_meaning": "Katladı",
+        "sound_url": "sesler\\طوى.mp3"
+    },
+    "طَمْأَنَ": {
+        "turkish_meaning": "İçini rahatlattı",
+        "sound_url": "sesler\\طمأن.mp3"
+    },
+    "طَغَى": {
+        "turkish_meaning": "Haddi aştı",
+        "sound_url": "sesler\\طغى.mp3"
+    },
+    "ضَؤُلَ": {
+        "turkish_meaning": "Zayıf ve cılız oldu",
+        "sound_url": "sesler\\ضؤل.mp3"
+    },
+    "ضَلَّ": {
+        "turkish_meaning": "Yoldan çıktı ,saptı",
+        "sound_url": "sesler\\ضل.mp3"
+    },
+    "ضَرَبَ": {
+        "turkish_meaning": "Vurdu",
+        "sound_url": "sesler\\ضرب.mp3"
+    },
+    "ضَبَطَ": {
+        "turkish_meaning": "Tuttu",
+        "sound_url": "sesler\\ضبط.mp3"
+    },
+    "صَحَّ": {
+        "turkish_meaning": "Doğru oldu",
+        "sound_url": "sesler\\صح.mp3"
+    },
+    "صَانَ": {
+        "turkish_meaning": "Korudu",
+        "sound_url": "sesler\\صان.mp3"
+    },
+    "صَادَ": {
+        "turkish_meaning": "Avladı",
+        "sound_url": "sesler\\صاد.mp3"
+    },
+    "شُكْراً": {
+        "turkish_meaning": "Şükretmek",
+        "sound_url": "sesler\\شكرا.mp3"
+    },
+    "شَوَى": {
+        "turkish_meaning": "Izgara yaptı",
+        "sound_url": "sesler\\شوى.mp3"
+    },
+    "شَهِدَ": {
+        "turkish_meaning": "Tanık oldu",
+        "sound_url": "sesler\\شهد.mp3"
+    },
+    "شَكَا": {
+        "turkish_meaning": "Şikayet etti",
+        "sound_url": "sesler\\شكا.mp3"
+    },
+    "شَفَى": {
+        "turkish_meaning": "İyileştirdi",
+        "sound_url": "sesler\\شفى.mp3"
+    },
+    "شَدَّ": {
+        "turkish_meaning": "Çekti",
+        "sound_url": "sesler\\شد.mp3"
+    },
+    "شَجُعَ": {
+        "turkish_meaning": "Cesur oldu",
+        "sound_url": "sesler\\شجع.mp3"
+    },
+    "شَاءَ": {
+        "turkish_meaning": "Diledi",
+        "sound_url": "sesler\\شاء.mp3"
+    },
+    "سُرَّ": {
+        "turkish_meaning": "Sevindir",
+        "sound_url": "sesler\\سر.mp3"
+    },
+    "سُرُورٌ": {
+        "turkish_meaning": "Sevindirmek",
+        "sound_url": "sesler\\سرور.mp3"
+    },
+    "سَوِيَ": {
+        "turkish_meaning": "Düzgün oldu",
+        "sound_url": "sesler\\سوي.mp3"
+    },
+    "سَمِعَ": {
+        "turkish_meaning": "İşitti",
+        "sound_url": "sesler\\سمع.mp3"
+    },
+    "سَمَاعٌ": {
+        "turkish_meaning": "İşitmek",
+        "sound_url": "sesler\\سماع.mp3"
+    },
+    "سَلْسَلَ": {
+        "turkish_meaning": "Zincire bağladı",
+        "sound_url": "sesler\\سلسل.mp3"
+    },
+    "سَقْيٌ": {
+        "turkish_meaning": "Sulamak",
+        "sound_url": "sesler\\سقي.mp3"
+    },
+    "سَقَى": {
+        "turkish_meaning": "Suladı",
+        "sound_url": "sesler\\سقى.mp3"
+    },
+    "سَعِدَ": {
+        "turkish_meaning": "Sevindi",
+        "sound_url": "sesler\\سعد.mp3"
+    },
+    "سَعَى": {
+        "turkish_meaning": "Çalıştı ,çabaladı",
+        "sound_url": "sesler\\سعى.mp3"
+    },
+    "سَرَّ": {
+        "turkish_meaning": "Sevindirdi",
+        "sound_url": "sesler\\سر.mp3"
+    },
+    "سَحَبَ": {
+        "turkish_meaning": "Çekti",
+        "sound_url": "sesler\\سحب.mp3"
+    },
+    "سَأَلَ": {
+        "turkish_meaning": "Sordu",
+        "sound_url": "sesler\\سأل.mp3"
+    },
+    "سَأَرَ": {
+        "turkish_meaning": "Öç aldı",
+        "sound_url": "sesler\\سأر.mp3"
+    },
+    "سَاقَ": {
+        "turkish_meaning": "Sevk etti",
+        "sound_url": "sesler\\ساق.mp3"
+    },
+    "زِيَارَةٌ": {
+        "turkish_meaning": "Ziyaret etmek",
+        "sound_url": "sesler\\زيارة.mp3"
+    },
+    "زِيَادَتٌ": {
+        "turkish_meaning": "Arttırmak",
+        "sound_url": "sesler\\زيادت.mp3"
+    },
+    "زِدْ": {
+        "turkish_meaning": "Artır ! // Çoğalt !",
+        "sound_url": "sesler\\زد.mp3"
+    },
+    "زُرْ": {
+        "turkish_meaning": "Ziyaret et !",
+        "sound_url": "sesler\\زر.mp3"
+    },
+    "زَلْزِلْ": {
+        "turkish_meaning": "Sars ! // Salla !",
+        "sound_url": "sesler\\زلزل.mp3"
+    },
+    "زَلْزَلَةٌ": {
+        "turkish_meaning": "Sarsmak",
+        "sound_url": "sesler\\زلزلة.mp3"
+    },
+    "زَلْزَلَ": {
+        "turkish_meaning": "Sarstı",
+        "sound_url": "sesler\\زلزل.mp3"
+    },
+    "زَبَحَ": {
+        "turkish_meaning": "Boğazladı",
+        "sound_url": "sesler\\زبح.mp3"
+    },
+    "زَأَرَ": {
+        "turkish_meaning": "Kükredi",
+        "sound_url": "sesler\\زأر.mp3"
+    },
+    "رِثْ": {
+        "turkish_meaning": "Varis ol !",
+        "sound_url": "sesler\\رث.mp3"
+    },
+    "رَؤُفَ": {
+        "turkish_meaning": "Acıdı",
+        "sound_url": "sesler\\رؤف.mp3"
+    },
+    "رَؤُسَ": {
+        "turkish_meaning": "Baş ve reis oldu",
+        "sound_url": "sesler\\رؤس.mp3"
+    },
+    "رَوِيَ": {
+        "turkish_meaning": "Suya kandı,suya doydu",
+        "sound_url": "sesler\\روي.mp3"
+    },
+    "رَوَى": {
+        "turkish_meaning": "Rivayet etti",
+        "sound_url": "sesler\\روى.mp3"
+    },
+    "رَقَّ": {
+        "turkish_meaning": "Acıdı , merhamet etti",
+        "sound_url": "sesler\\رق.mp3"
+    },
+    "رَعَى": {
+        "turkish_meaning": "Güttü ; bakımını yaptı",
+        "sound_url": "sesler\\رعى.mp3"
+    },
+    "رَسَمَ": {
+        "turkish_meaning": "Çizdi",
+        "sound_url": "sesler\\رسم.mp3"
+    },
+    "رَدَّ": {
+        "turkish_meaning": "Reddetti",
+        "sound_url": "sesler\\رد.mp3"
+    },
+    "رَجَا": {
+        "turkish_meaning": "Rica etti",
+        "sound_url": "sesler\\رجا.mp3"
+    },
+    "رَأْفَةٌ": {
+        "turkish_meaning": "Acımak",
+        "sound_url": "sesler\\رأفة.mp3"
+    },
+    "رَامَ": {
+        "turkish_meaning": "Arzuladı",
+        "sound_url": "sesler\\رام.mp3"
+    },
+    "دَعْوَةٌ": {
+        "turkish_meaning": "Çağırmak",
+        "sound_url": "sesler\\دعوة.mp3"
+    },
+    "دَعَا": {
+        "turkish_meaning": "Çağırdı",
+        "sound_url": "sesler\\دعا.mp3"
+    },
+    "دَرَأَ": {
+        "turkish_meaning": "Kovdu",
+        "sound_url": "sesler\\درأ.mp3"
+    },
+    "دَحْرَجَ": {
+        "turkish_meaning": "Yuvarladı",
+        "sound_url": "sesler\\دحرج.mp3"
+    },
+    "خَوْفٌ": {
+        "turkish_meaning": "Korkmak",
+        "sound_url": "sesler\\خوف.mp3"
+    },
+    "خَفْ": {
+        "turkish_meaning": "Kork !",
+        "sound_url": "sesler\\خف.mp3"
+    },
+    "خَفِيَ": {
+        "turkish_meaning": "Gizli oldu,gizli kaldı",
+        "sound_url": "sesler\\خفي.mp3"
+    },
+    "خَفِظَ": {
+        "turkish_meaning": "Korudu",
+        "sound_url": "sesler\\خفظ.mp3"
+    },
+    "خَشِيَ": {
+        "turkish_meaning": "Korktu",
+        "sound_url": "sesler\\خشي.mp3"
+    },
+    "خَبَأَ": {
+        "turkish_meaning": "Sakladı",
+        "sound_url": "sesler\\خبأ.mp3"
+    },
+    "خَالَ": {
+        "turkish_meaning": "Sandı",
+        "sound_url": "sesler\\خال.mp3"
+    },
+    "خَافَ": {
+        "turkish_meaning": "Korktu",
+        "sound_url": "sesler\\خاف.mp3"
+    },
+    "حِسْبَانٌ": {
+        "turkish_meaning": "Zannetmek",
+        "sound_url": "sesler\\حسبان.mp3"
+    },
+    "حَوَى": {
+        "turkish_meaning": "İçerdi",
+        "sound_url": "sesler\\حوى.mp3"
+    },
+    "حَمِدَ": {
+        "turkish_meaning": "Övdü",
+        "sound_url": "sesler\\حمد.mp3"
+    },
+    "حَمَى": {
+        "turkish_meaning": "Korudu",
+        "sound_url": "sesler\\حمى.mp3"
+    },
+    "حَكَمَ": {
+        "turkish_meaning": "Yönetti",
+        "sound_url": "sesler\\حكم.mp3"
+    },
+    "حَضَّ": {
+        "turkish_meaning": "Teşvik etti",
+        "sound_url": "sesler\\حض.mp3"
+    },
+    "حَسِبَ": {
+        "turkish_meaning": "Sandı",
+        "sound_url": "sesler\\حسب.mp3"
+    },
+    "جِدْ": {
+        "turkish_meaning": "Bul !",
+        "sound_url": "sesler\\جد.mp3"
+    },
+    "جَهِلَ": {
+        "turkish_meaning": "Bilmedi",
+        "sound_url": "sesler\\جهل.mp3"
+    },
+    "جَنَى": {
+        "turkish_meaning": "Topladı",
+        "sound_url": "sesler\\جنى.mp3"
+    },
+    "جَمُلَ": {
+        "turkish_meaning": "Güzel oldu",
+        "sound_url": "sesler\\جمل.mp3"
+    },
+    "جَعَلَ": {
+        "turkish_meaning": "Kıldı",
+        "sound_url": "sesler\\جعل.mp3"
+    },
+    "تَلَا": {
+        "turkish_meaning": "Okudu",
+        "sound_url": "sesler\\تلا.mp3"
+    },
+    "بُعْدٌ": {
+        "turkish_meaning": "Uzak olmak",
+        "sound_url": "sesler\\بعد.mp3"
+    },
+    "بَنَى": {
+        "turkish_meaning": "İnşa etti",
+        "sound_url": "sesler\\بنى.mp3"
+    },
+    "بَعُدَ": {
+        "turkish_meaning": "Uzak oldu",
+        "sound_url": "sesler\\بعد.mp3"
+    },
+    "بَرَأَ": {
+        "turkish_meaning": "Yarattı",
+        "sound_url": "sesler\\برأ.mp3"
+    },
+    "بَدَأَ": {
+        "turkish_meaning": "Başladı",
+        "sound_url": "sesler\\بدأ.mp3"
+    },
+    "أَنِسَ": {
+        "turkish_meaning": "Kendine yakın buldu",
+        "sound_url": "sesler\\أنس.mp3"
+    },
+    "أَمْرٌ": {
+        "turkish_meaning": "Emretmek",
+        "sound_url": "sesler\\أمر.mp3"
+    },
+    "أَمَرَ": {
+        "turkish_meaning": "Emretti",
+        "sound_url": "sesler\\أمر.mp3"
+    },
+    "أَلِفَ": {
+        "turkish_meaning": "Alıştı",
+        "sound_url": "sesler\\ألف.mp3"
+    },
+    "أَفَلَ": {
+        "turkish_meaning": "Kayboldu, battı",
+        "sound_url": "sesler\\أفل.mp3"
+    },
+    "أَفَكَ": {
+        "turkish_meaning": "İftira etti , lekeledi",
+        "sound_url": "sesler\\أفك.mp3"
+    },
+    "أَسْرٌ": {
+        "turkish_meaning": "Esir almak",
+        "sound_url": "sesler\\أسر.mp3"
+    },
+    "أَسِفَ": {
+        "turkish_meaning": "Üzüldü , esef etti",
+        "sound_url": "sesler\\أسف.mp3"
+    },
+    "أَسَرَ": {
+        "turkish_meaning": "Esir aldı",
+        "sound_url": "sesler\\أسر.mp3"
+    },
+    "أَزِنَ": {
+        "turkish_meaning": "İzin verdi",
+        "sound_url": "sesler\\أزن.mp3"
+    },
+    "أَدَمَ": {
+        "turkish_meaning": "Katık etti , katık yaptı",
+        "sound_url": "sesler\\أدم.mp3"
+    },
+    "أَخَزَ": {
+        "turkish_meaning": "Aldı",
+        "sound_url": "sesler\\أخز.mp3"
+    },
+    "أَتَى": {
+        "turkish_meaning": "Geldi",
+        "sound_url": "sesler\\أتى.mp3"
+    },
+    "إِلْفٌ": {
+        "turkish_meaning": "Alışmak",
+        "sound_url": "sesler\\إلف.mp3"
+    },
+    "اِيلَفْ": {
+        "turkish_meaning": "Alış ! // Isın !",
+        "sound_url": "sesler\\ايلف.mp3"
+    },
+    "اِيقَظْ": {
+        "turkish_meaning": "Uyanık ol !",
+        "sound_url": "sesler\\ايقظ.mp3"
+    },
+    "اِيسِرْ": {
+        "turkish_meaning": "Esir al !",
+        "sound_url": "sesler\\ايسر.mp3"
+    },
+    "اِهْوَ": {
+        "turkish_meaning": "Sev !",
+        "sound_url": "sesler\\اهو.mp3"
+    },
+    "اِنْهَ": {
+        "turkish_meaning": "Yasakla ! // Nehyet !",
+        "sound_url": "sesler\\انه.mp3"
+    },
+    "اِنْصَحْ": {
+        "turkish_meaning": "Öğütle ! // Nasihat et !",
+        "sound_url": "sesler\\انصح.mp3"
+    },
+    "اِنْسَ": {
+        "turkish_meaning": "Unut !",
+        "sound_url": "sesler\\انس.mp3"
+    },
+    "اِمْلَأْ": {
+        "turkish_meaning": "Doldur !",
+        "sound_url": "sesler\\املأ.mp3"
+    },
+    "اِكْوِ": {
+        "turkish_meaning": "Ütüle ! // Dağla !",
+        "sound_url": "sesler\\اكو.mp3"
+    },
+    "اِعْرِفْ": {
+        "turkish_meaning": "Bil ! // Tanı !",
+        "sound_url": "sesler\\اعرف.mp3"
+    },
+    "اِسأَلْ": {
+        "turkish_meaning": "Sor !  //  İste !",
+        "sound_url": "sesler\\اسأل.mp3"
+    },
+    "اِسْمَعَ": {
+        "turkish_meaning": "İşit ! // Dinle !",
+        "sound_url": "sesler\\اسمع.mp3"
+    },
+    "اِسْقِ": {
+        "turkish_meaning": "Sula ! //  Su ver !",
+        "sound_url": "sesler\\اسق.mp3"
+    },
+    "اِحْسِبْ": {
+        "turkish_meaning": "Zannet ! //  San !",
+        "sound_url": "sesler\\احسب.mp3"
+    },
+    "اِبجَلْ": {
+        "turkish_meaning": "Kork !",
+        "sound_url": "sesler\\ابجل.mp3"
+    },
+    "اُوتُمْ": {
+        "turkish_meaning": "Yetim kal !",
+        "sound_url": "sesler\\اوتم.mp3"
+    },
+    "اُشْكُرْ": {
+        "turkish_meaning": "Şükret ! // Teşekkür et !",
+        "sound_url": "sesler\\اشكر.mp3"
+    },
+    "اُرْؤُفْ": {
+        "turkish_meaning": "Acı ! // Merhamet et !",
+        "sound_url": "sesler\\ارؤف.mp3"
+    },
+    "اُدْعُ": {
+        "turkish_meaning": "Çağır ! // Davet et !",
+        "sound_url": "sesler\\ادع.mp3"
+    },
+    "اُبْعُدْ": {
+        "turkish_meaning": "Uzak ol ! // Kaybol !",
+        "sound_url": "sesler\\ابعد.mp3"
+    },
+    "شُكِرَ": {
+        "turkish_meaning": "Şükredildi",
+        "sound_url": "sesler\\شكر.mp3"
+    },
+    "يٌشْكَرُ": {
+        "turkish_meaning": "Şükrediliyor // teşekkür ediliyor",
+        "sound_url": "sesler\\يشكر.mp3"
+    }
+}

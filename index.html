@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test Uygulaması</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran+Colored&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1 class="page-title">Arapça Kelime Bulmaca</h1>
+      <div class="progress">
+        <span id="question-count">0/0</span>
+        <span id="daily-streak">Günlük Seri: 0</span>
+        <span id="score">Puan: 0</span>
+      </div>
+    </header>
+    <main>
+      <div id="question-area">
+        <p id="question-text">
+          <span class="haraket">ا</span><span>ل</span><span class="haraket">َ</span><span>م</span><span class="haraket">َ</span><span>ل</span><span class="haraket">ُ</span>
+        </p>
+        <audio id="question-audio" controls></audio>
+        <div id="options"></div>
+      </div>
+    </main>
+    <footer>
+      <button id="next-btn">Sonraki</button>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -3,14 +3,18 @@ let correctAnswers = 0;
 let dailyStreak = 0;
 let questions = [];
 let completedQuestions = []; // Günlük doğru bilinen kelimeler
+let incorrectQuestions = []; // Yanlış cevaplanan sorular
+let answerHistory = [];
 
 const STORAGE_KEY = 'quizProgress';
 const COMPLETED_KEY = 'completedQuestions';
+const HISTORY_KEY = 'answerHistory';
 
 // Verileri localStorage'dan yükle
 function loadProgress() {
   const savedProgress = JSON.parse(localStorage.getItem(STORAGE_KEY));
   const savedCompletedQuestions = JSON.parse(localStorage.getItem(COMPLETED_KEY));
+  const savedHistory = JSON.parse(localStorage.getItem(HISTORY_KEY));
   const today = new Date().toDateString();
 
   if (savedProgress) {
@@ -28,6 +32,10 @@ function loadProgress() {
   } else {
     completedQuestions = savedCompletedQuestions.words;
   }
+
+  if (savedHistory) {
+    answerHistory = savedHistory;
+  }
 }
 
 // Verileri localStorage'a kaydet
@@ -44,6 +52,7 @@ function saveProgress() {
     COMPLETED_KEY,
     JSON.stringify({ date: today, words: completedQuestions })
   );
+  localStorage.setItem(HISTORY_KEY, JSON.stringify(answerHistory));
 }
 
 // Konfeti patlatma fonksiyonu
@@ -56,32 +65,68 @@ function explodeConfetti() {
 }
 
 // Cevap verildiğinde günlük seriyi güncelle
-function handleAnswer(isCorrect, button) {
+function handleAnswerHistory(isCorrect, button) {
   const optionButtons = document.querySelectorAll('#options button');
   optionButtons.forEach(btn => (btn.disabled = true));
 
+  // Cevap geçmişini kaydet
+  answerHistory.push({
+    question: questions[currentQuestionIndex].arabic_word,
+    isCorrect: isCorrect,
+  });
+
   if (isCorrect) {
     correctAnswers++;
+    completedQuestions.push(questions[currentQuestionIndex].arabic_word);
+    button.classList.add('correct');
+    button.innerHTML += ' ✅';
 
     // Eğer 30 doğru cevap verilmişse, günlük seri artar ve konfeti patlar
     if (correctAnswers >= 30 && dailyStreak === 0) {
       dailyStreak = 1;  // Seri 1 gün başlasın
       explodeConfetti(); // Konfeti patlat
     }
-    
-    completedQuestions.push(questions[currentQuestionIndex].arabic_word);
-    button.classList.add('correct');
-    button.innerHTML += ' ✅';
+
+    // Her 10 doğru cevaptan sonra yanlış cevaplanan kelimeleri tekrar göster
+    if (correctAnswers % 10 === 0 && incorrectQuestions.length > 0) {
+      showIncorrectQuestions();
+    }
   } else {
     button.classList.add('incorrect');
     button.innerHTML += ' ❌';
+
+    // Yanlış cevaplanan soruyu geçici olarak yanlış listesine ekle
+    if (!incorrectQuestions.includes(questions[currentQuestionIndex].arabic_word)) {
+      incorrectQuestions.push(questions[currentQuestionIndex].arabic_word);
+    }
   }
 
   saveProgress(); // Her cevapta kaydet
 
+  // Soruyu geçmek için getNextQuestion fonksiyonunu çağırıyoruz
   setTimeout(() => {
-    document.getElementById('next-btn').click();
+    getNextQuestion();
   }, 1500);
+}
+
+// En son yanlış yapılan soruyu seç
+function showIncorrectQuestions() {
+  if (incorrectQuestions.length > 0) {
+    const incorrectQuestion = incorrectQuestions.shift(); // İlk yanlış soruyu al
+    currentQuestionIndex = questions.findIndex(q => q.arabic_word === incorrectQuestion); // Yanlış soruyu tekrar göster
+    updateUI(); // UI'yi güncelle
+  }
+}
+
+// Sonraki soruya geçiş yap
+function getNextQuestion() {
+  currentQuestionIndex++;
+  if (currentQuestionIndex < questions.length) {
+    updateUI();
+  } else {
+    alert(`Test tamamlandı! ${correctAnswers} doğru cevap verdiniz.`);
+    saveProgress();
+  }
 }
 
 // UI'yi güncelle
@@ -127,7 +172,7 @@ function updateUI() {
   shuffledOptions.forEach(option => {
     const button = document.createElement('button');
     button.textContent = option;
-    button.onclick = () => handleAnswer(option === question.turkish_meaning, button);
+    button.onclick = () => handleAnswerHistory(option === question.turkish_meaning, button);
     options.appendChild(button);
   });
 
@@ -194,13 +239,7 @@ if (resetButton) {
 }
 
 document.getElementById('next-btn').addEventListener('click', () => {
-  currentQuestionIndex++;
-  if (currentQuestionIndex < questions.length) {
-    updateUI();
-  } else {
-    alert(`Test tamamlandı! ${correctAnswers} doğru cevap verdiniz.`);
-    saveProgress();
-  }
+  getNextQuestion(); // Sonraki soruya geçiş yap
 });
 
 loadQuestions();

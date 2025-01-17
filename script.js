@@ -46,6 +46,15 @@ function saveProgress() {
   );
 }
 
+// Konfeti patlatma fonksiyonu
+function explodeConfetti() {
+  confetti({
+    particleCount: 200,
+    spread: 70,
+    origin: { x: 0.5, y: 0.5 },
+  });
+}
+
 // Cevap verildiğinde günlük seriyi güncelle
 function handleAnswer(isCorrect, button) {
   const optionButtons = document.querySelectorAll('#options button');
@@ -53,20 +62,26 @@ function handleAnswer(isCorrect, button) {
 
   if (isCorrect) {
     correctAnswers++;
-    dailyStreak++;
+
+    // Eğer 30 doğru cevap verilmişse, günlük seri artar ve konfeti patlar
+    if (correctAnswers >= 30 && dailyStreak === 0) {
+      dailyStreak = 1;  // Seri 1 gün başlasın
+      explodeConfetti(); // Konfeti patlat
+    }
+    
+    completedQuestions.push(questions[currentQuestionIndex].arabic_word);
     button.classList.add('correct');
     button.innerHTML += ' ✅';
-    completedQuestions.push(questions[currentQuestionIndex].arabic_word);
-
-    setTimeout(() => {
-      document.getElementById('next-btn').click();
-    }, 1500);
   } else {
     button.classList.add('incorrect');
     button.innerHTML += ' ❌';
-    dailyStreak = 0;
-    saveProgress();
   }
+
+  saveProgress(); // Her cevapta kaydet
+
+  setTimeout(() => {
+    document.getElementById('next-btn').click();
+  }, 1500);
 }
 
 // UI'yi güncelle
@@ -78,33 +93,47 @@ function updateUI() {
   const questionAudio = document.getElementById('question-audio');
   const options = document.getElementById('options');
 
-  if (currentQuestionIndex < questions.length) {
-    let question = questions[currentQuestionIndex];
-
-    while (completedQuestions.includes(question.arabic_word)) {
-      currentQuestionIndex++;
-      if (currentQuestionIndex >= questions.length) break;
-      question = questions[currentQuestionIndex];
-    }
-
-    questionText.textContent = question.arabic_word;
-    questionAudio.src = question.sound_url;
-
-    options.innerHTML = '';
-
-    const shuffledOptions = getRandomOptions(question.turkish_meaning);
-
-    shuffledOptions.forEach(option => {
-      const button = document.createElement('button');
-      button.textContent = option;
-      button.onclick = () => handleAnswer(option === question.turkish_meaning, button);
-      options.appendChild(button);
-    });
-
-    questionCount.textContent = `${currentQuestionIndex + 1}/${questions.length}`;
-    dailyStreakText.textContent = `Günlük Seri: ${dailyStreak}`;
-    scoreText.textContent = `Puan: ${correctAnswers}`;
+  if (currentQuestionIndex >= questions.length) {
+    alert(`Bugünkü tüm soruları tamamladınız! Toplam ${correctAnswers} doğru cevap verdiniz.`);
+    saveProgress();
+    return;
   }
+
+  let question = questions[currentQuestionIndex];
+
+  while (completedQuestions.includes(question.arabic_word)) {
+    currentQuestionIndex++;
+    if (currentQuestionIndex >= questions.length) {
+      alert("Bugünkü tüm soruları tamamladınız!");
+      saveProgress();
+      return;
+    }
+    question = questions[currentQuestionIndex];
+  }
+
+  questionText.textContent = question.arabic_word;
+  questionAudio.src = question.sound_url;
+
+  questionAudio.onerror = () => {
+    alert("Ses dosyası yüklenemedi.");
+  };
+
+  questionAudio.play();
+
+  options.innerHTML = '';
+
+  const shuffledOptions = getRandomOptions(question.turkish_meaning);
+
+  shuffledOptions.forEach(option => {
+    const button = document.createElement('button');
+    button.textContent = option;
+    button.onclick = () => handleAnswer(option === question.turkish_meaning, button);
+    options.appendChild(button);
+  });
+
+  questionCount.textContent = `${currentQuestionIndex + 1}/${questions.length}`;
+  dailyStreakText.textContent = `Günlük Seri: ${dailyStreak}`;
+  scoreText.textContent = `Puan: ${correctAnswers}`;
 }
 
 // Rastgele doğru ve yanlış seçenekleri karıştır
@@ -132,11 +161,13 @@ async function loadQuestions() {
   const response = await fetch('ses_wav.json');
   const data = await response.json();
 
-  questions = data.map(item => ({
-    arabic_word: item.arabic_word,
-    turkish_meaning: item.turkish_meaning,
-    sound_url: item.sound_url,
-  }));
+  questions = data
+    .filter(item => item.arabic_word && item.turkish_meaning && item.sound_url)
+    .map(item => ({
+      arabic_word: item.arabic_word,
+      turkish_meaning: item.turkish_meaning,
+      sound_url: item.sound_url,
+    }));
 
   shuffleQuestions();
   loadProgress();
@@ -152,6 +183,15 @@ function setAppHeight() {
 
 window.addEventListener('resize', setAppHeight);
 setAppHeight();
+
+// Sıfırla düğmesi ekleme
+const resetButton = document.getElementById('reset-btn');
+if (resetButton) {
+  resetButton.addEventListener('click', () => {
+    localStorage.clear();
+    location.reload();
+  });
+}
 
 document.getElementById('next-btn').addEventListener('click', () => {
   currentQuestionIndex++;

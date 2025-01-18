@@ -9,7 +9,7 @@ import time
 # Dosya yolları
 kelimeler_dosyasi = 'kelimeler.xlsx'
 sesler_klasoru = 'sesler'
-ses_wav_json = 'ses_wav.json'
+ses_wav_json = 'output.json'
 log_klasoru = 'log'
 
 # Log dosyası için yapılandırma

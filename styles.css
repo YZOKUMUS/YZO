@@ -43,10 +43,13 @@ body, html {
 
 /* Soru Alanı */
 #question-area {
-  background: #fff;
+  background-image: url('kuran.png'); /* Görseli ekleyin */
+  background-position: center; /* Görseli alana sığdırır */
+  background-position: top; /* Görseli ortalar */
+  background-repeat: no-repeat; /* Görselin tekrar etmesini engeller */
   padding: 15px;
   border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 5px rgba(207, 8, 8, 0.1);
   margin-bottom: 20px;
   border: 2px solid #358b13; /* Border ekleme */
 }
@@ -71,40 +74,39 @@ body, html {
   display: block; /* İçeriğin genişliğine göre boyutlanma */
 }
 
-
-/* Harekeler için özel renkler */
-.haraket {
-  color: #f44336; /* Renkli harakeler için kırmızı (örnek) */
+/* Haraketler için özel renkler */
+.haraket[data-haraket="064B"] {
+  color: #fbc02d; /* Fathatan için sarı */
 }
 
-.haraket[data-haraket="fetha"] {
-  color: #ffeb3b; /* Fetha için sarı */
+.haraket[data-haraket="064C"] {
+  color: #42a5f5; /* Dammatan için mavi */
 }
 
-.haraket[data-haraket="kasra"] {
-  color: #2196f3; /* Kasra için mavi */
+.haraket[data-haraket="064D"] {
+  color: #8bc34a; /* Kasratan için yeşil */
 }
 
-.haraket[data-haraket="damme"] {
-  color: #4caf50; /* Damme için yeşil */
+.haraket[data-haraket="064E"] {
+  color: #f44336; /* Fatha için kırmızı */
 }
 
-.haraket[data-haraket="sukun"] {
-  color: #9e9e9e; /* Sukun için gri */
+.haraket[data-haraket="064F"] {
+  color: #4caf50; /* Damma için yeşil */
 }
 
-.haraket[data-haraket="şedde"] {
-  color: #9c27b0; /* Şedde için mor */
+.haraket[data-haraket="0650"] {
+  color: #9e9e9e; /* Kasra için gri */
 }
 
-.haraket[data-haraket="madd"] {
-  color: #ff5722; /* Madd için turuncu */
+.haraket[data-haraket="0651"] {
+  color: #9c27b0; /* Shadda için mor */
 }
 
-#question-audio {
-  width: 100%;
-  margin: 10px 0;
+.haraket[data-haraket="0652"] {
+  color: #795548; /* Sukun için kahverengi */
 }
+
 /* Arapça "Bismillah" yazısı için stil */
 .bismillah-text {
   font-size: 130px;
@@ -142,7 +144,6 @@ body, html {
   background-color: #dc3545; /* Yanlış cevap kırmızı */
 }
 
-/* Alt Buton */
 /* Alt Buton */
 #next-btn, #reset-btn {
   padding: 10px 20px;

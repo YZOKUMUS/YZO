@@ -10,26 +10,28 @@
 <body>
   <div id="app">
     <header>
-      <!-- Besmele görseli burada yer alacak -->
       <div class="besmele-image" style="border: 11px solid #78C800; padding: 8px; width: 100%; height: 100px; background-image: url('BESMELE-RESMİ.PNG'); background-size: contain; background-repeat: no-repeat; background-position: center; box-sizing: border-box;">
       </div>
     </header>
-       
-      <div class="progress">
-        <span id="question-count">0/0</span>
-        <span id="daily-streak">Günlük Seri: 0</span>
-        <span id="score">Puan: 0</span>
-      </div>
-    </header>
+      
+    <div class="progress">
+      <span id="question-count">0/0</span>
+      <span id="daily-streak">Günlük Seri: 0</span>
+      <span id="score">Puan: 0</span>
+    </div>
+
     <main>
       <div id="question-area">
         <p id="question-text">
-          <span class="haraket" data-haraket="fetha">ا</span>
-          <span>ل</span>
-          <span class="haraket" data-haraket="kasra">َ</span>
-          <span>م</span>
-          <span class="haraket" data-haraket="damme">ُ</span>
-          <span>ل</span>
+          <!-- Haraketlerin Unicode ile gösterimi -->
+          <span class="haraket" data-haraket="064B">ً</span> <!-- Fathatan -->
+          <span class="haraket" data-haraket="064C">ٌ</span> <!-- Dammatan -->
+          <span class="haraket" data-haraket="064D">ٍ</span> <!-- Kasratan -->
+          <span class="haraket" data-haraket="064E">َ</span> <!-- Fatha -->
+          <span class="haraket" data-haraket="064F">ُ</span> <!-- Damma -->
+          <span class="haraket" data-haraket="0650">ِ</span> <!-- Kasra -->
+          <span class="haraket" data-haraket="0651">ّ</span> <!-- Shadda -->
+          <span class="haraket" data-haraket="0652">ْ</span> <!-- Sukun -->
         </p>
         <audio id="question-audio" controls></audio>
         <div id="options">
@@ -39,14 +41,13 @@
         </div>
       </div>
     </main>
+
     <footer>
       <button id="next-btn">Sonraki</button>
       <button id="reset-btn">Sıfırla</button>
     </footer>
   </div>
+
   <script src="script.js"></script>
-
-  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
-
 </body>
 </html>

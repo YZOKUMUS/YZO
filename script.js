@@ -233,7 +233,7 @@ function shuffleQuestions() {
 
 // Soruları yükle ve başlat
 async function loadQuestions() {
-  const response = await fetch('ses_wav.json');
+  const response = await fetch('output.json');
   const data = await response.json();
 
   questions = data

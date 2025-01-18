@@ -143,7 +143,8 @@ body, html {
 }
 
 /* Alt Buton */
-#next-btn {
+/* Alt Buton */
+#next-btn, #reset-btn {
   padding: 10px 20px;
   font-size: 16px;
   background: #78C800;
@@ -151,6 +152,11 @@ body, html {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  margin-top: -10px; /* Yukarı kaydırmak için negatif margin */
+}
+
+#next-btn:hover, #reset-btn:hover {
+  background: #66a700;
 }
 
 #next-btn:hover {
@@ -176,6 +182,6 @@ body, html {
   }
 
   #next-btn {
-    font-size: 14px;
+    font-size: 0;
   }
 }

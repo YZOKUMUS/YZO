@@ -22,9 +22,14 @@ function loadProgress() {
       dailyStreak = savedProgress.dailyStreak;
       correctAnswers = savedProgress.correctAnswers;
     } else {
-      dailyStreak = 0;
+      dailyStreak = 0; // Yeni güne başladığınızda seri sıfırlanmaz
       correctAnswers = 0;
     }
+  }
+
+  const lastCompletedDay = localStorage.getItem('lastCompletedDay');
+  if (lastCompletedDay !== today && dailyStreak > 0) {
+    dailyStreak = 0; // Yeni güne başladığınızda günlük seriyi sıfırlayın
   }
 
   if (!savedCompletedQuestions || savedCompletedQuestions.date !== today) {
@@ -75,17 +80,26 @@ function handleAnswerHistory(isCorrect, button) {
     isCorrect: isCorrect,
   });
 
+  const today = new Date().toDateString(); // Bugünün tarihi
+
   if (isCorrect) {
     correctAnswers++;
     completedQuestions.push(questions[currentQuestionIndex].arabic_word);
     button.classList.add('correct');
     button.innerHTML += ' ✅';
-  
-    // Eğer 30'un katı kadar doğru cevap verilmişse konfeti patlar
-    if (correctAnswers % 30 === 0) { 
-      explodeConfetti();
+
+    // Eğer 30'un katı kadar doğru cevap verilmişse günlük seri kontrolü yapılır
+    if (correctAnswers % 30 === 0) {
+      const lastCompletedDay = localStorage.getItem('lastCompletedDay');
+
+      // Eğer bugün hedef tamamlanmamışsa günlük seriyi artır ve konfeti patlat
+      if (lastCompletedDay !== today) {
+        dailyStreak++;
+        localStorage.setItem('lastCompletedDay', today);
+        explodeConfetti();
+      }
     }
-  
+
     // Her 10 doğru cevaptan sonra yanlış cevaplanan kelimeleri tekrar göster
     if (correctAnswers % 10 === 0 && incorrectQuestions.length > 0) {
       showIncorrectQuestions();
@@ -94,15 +108,14 @@ function handleAnswerHistory(isCorrect, button) {
   } else {
     button.classList.add('incorrect');
     button.innerHTML += ' ❌';
-  
+
     // Yanlış cevaplanan soruyu geçici olarak yanlış listesine ekle
     if (!incorrectQuestions.includes(questions[currentQuestionIndex].arabic_word)) {
       incorrectQuestions.push(questions[currentQuestionIndex].arabic_word);
     }
   }
-  
 
-  saveProgress(); // Her cevapta kaydet
+  saveProgress(); // Her cevapta ilerlemeyi kaydet
 
   // Soruyu geçmek için getNextQuestion fonksiyonunu çağırıyoruz
   setTimeout(() => {

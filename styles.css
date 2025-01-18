@@ -60,11 +60,17 @@ body, html {
 }
 
 #question-text {
-  font-size: 68px;
+  font-size: 90px;
   direction: rtl;
   color: #3a3a3a;
-  margin-bottom: 10px;
+  margin-bottom: 1px;
+  border: 5px solid #358b13; /* Kenarlık */
+  border-radius: 10px; /* Kenarlık köşelerini yuvarlama */
+  padding: 10px; /* Kenarlık ile içerik arasına boşluk */
+  background-color: #fff; /* Arkaplan rengi */
+  display: block; /* İçeriğin genişliğine göre boyutlanma */
 }
+
 
 /* Harekeler için özel renkler */
 .haraket {

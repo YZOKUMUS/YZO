@@ -80,26 +80,27 @@ function handleAnswerHistory(isCorrect, button) {
     completedQuestions.push(questions[currentQuestionIndex].arabic_word);
     button.classList.add('correct');
     button.innerHTML += ' ✅';
-
-    // Eğer 30 doğru cevap verilmişse, günlük seri artar ve konfeti patlar
-    if (correctAnswers >= 30 && dailyStreak === 0) {
-      dailyStreak = 1;  // Seri 1 gün başlasın
-      explodeConfetti(); // Konfeti patlat
+  
+    // Eğer 30'un katı kadar doğru cevap verilmişse konfeti patlar
+    if (correctAnswers % 30 === 0) { 
+      explodeConfetti();
     }
-
+  
     // Her 10 doğru cevaptan sonra yanlış cevaplanan kelimeleri tekrar göster
     if (correctAnswers % 10 === 0 && incorrectQuestions.length > 0) {
       showIncorrectQuestions();
+      return; // Karışıklığı önlemek için burada işlemi durdur
     }
   } else {
     button.classList.add('incorrect');
     button.innerHTML += ' ❌';
-
+  
     // Yanlış cevaplanan soruyu geçici olarak yanlış listesine ekle
     if (!incorrectQuestions.includes(questions[currentQuestionIndex].arabic_word)) {
       incorrectQuestions.push(questions[currentQuestionIndex].arabic_word);
     }
   }
+  
 
   saveProgress(); // Her cevapta kaydet
 
@@ -114,19 +115,33 @@ function showIncorrectQuestions() {
   if (incorrectQuestions.length > 0) {
     const incorrectQuestion = incorrectQuestions.shift(); // İlk yanlış soruyu al
     currentQuestionIndex = questions.findIndex(q => q.arabic_word === incorrectQuestion); // Yanlış soruyu tekrar göster
-    updateUI(); // UI'yi güncelle
+
+    if (currentQuestionIndex !== -1) {
+      updateUI();
+    } else {
+      console.warn("Yanlış soru bulunamadı, kontrol edin:", incorrectQuestion);
+    }
   }
 }
 
 // Sonraki soruya geçiş yap
 function getNextQuestion() {
-  currentQuestionIndex++;
-  if (currentQuestionIndex < questions.length) {
-    updateUI();
-  } else {
+  if (currentQuestionIndex + 1 >= questions.length) {
     alert(`Test tamamlandı! ${correctAnswers} doğru cevap verdiniz.`);
     saveProgress();
+    return;
   }
+
+  currentQuestionIndex++;
+  while (completedQuestions.includes(questions[currentQuestionIndex]?.arabic_word)) {
+    currentQuestionIndex++;
+    if (currentQuestionIndex >= questions.length) {
+      alert("Bugünkü tüm soruları tamamladınız!");
+      saveProgress();
+      return;
+    }
+  }
+  updateUI();
 }
 
 // UI'yi güncelle
@@ -153,7 +168,9 @@ function updateUI() {
       saveProgress();
       return;
     }
-    question = questions[currentQuestionIndex];
+    if (currentQuestionIndex < questions.length) {
+      question = questions[currentQuestionIndex];
+    }
   }
 
   questionText.textContent = question.arabic_word;

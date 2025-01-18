@@ -76,36 +76,38 @@ body, html {
 
 /* Haraketler için özel renkler */
 .haraket[data-haraket="064B"] {
-  color: #fbc02d; /* Fathatan için sarı */
+  color: #fbc02d !important; /* Fathatan için sarı */
 }
 
 .haraket[data-haraket="064C"] {
-  color: #42a5f5; /* Dammatan için mavi */
+  color: #42a5f5 !important; /* Dammatan için mavi */
 }
 
 .haraket[data-haraket="064D"] {
-  color: #8bc34a; /* Kasratan için yeşil */
+  color: #8bc34a !important; /* Kasratan için yeşil */
 }
 
 .haraket[data-haraket="064E"] {
-  color: #f44336; /* Fatha için kırmızı */
+  color: #f44336 !important; /* Fatha için kırmızı */
 }
 
 .haraket[data-haraket="064F"] {
-  color: #4caf50; /* Damma için yeşil */
+  color: #4caf50 !important; /* Damma için yeşil */
 }
 
 .haraket[data-haraket="0650"] {
-  color: #9e9e9e; /* Kasra için gri */
+  color: #9e9e9e !important; /* Kasra için gri */
 }
 
 .haraket[data-haraket="0651"] {
-  color: #9c27b0; /* Shadda için mor */
+  color: #9c27b0 !important; /* Shadda için mor */
 }
 
 .haraket[data-haraket="0652"] {
-  color: #795548; /* Sukun için kahverengi */
+  color: #795548 !important; /* Sukun için kahverengi */
 }
+
+
 
 /* Arapça "Bismillah" yazısı için stil */
 .bismillah-text {

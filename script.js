@@ -233,21 +233,22 @@ function shuffleQuestions() {
 
 // Soruları yükle ve başlat
 async function loadQuestions() {
-  const response = await fetch('output.json');
+  const response = await fetch('data.json');
   const data = await response.json();
 
   questions = data
-    .filter(item => item.arabic_word && item.turkish_meaning && item.sound_url)
+    .filter(item => item.kelime && item.anlam && item.ses_dosyasi) // data.json'daki alanlara göre filtreleme
     .map(item => ({
-      arabic_word: item.arabic_word,
-      turkish_meaning: item.turkish_meaning,
-      sound_url: item.sound_url,
+      arabic_word: item.kelime,  // 'kelime' field'ı 'arabic_word' olarak güncellendi
+      turkish_meaning: item.anlam, // 'anlam' field'ı 'turkish_meaning' olarak güncellendi
+      sound_url: item.ses_dosyasi, // 'ses_dosyasi' field'ı 'sound_url' olarak güncellendi
     }));
 
   shuffleQuestions();
   loadProgress();
   updateUI();
 }
+
 
 // Dinamik yükseklik ayarı
 const app = document.getElementById('app');
